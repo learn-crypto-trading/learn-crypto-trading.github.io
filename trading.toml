@@ -1,141 +1,44 @@
-["The Market Cycles of ICOs, Bitcoin, and Ether"]
-Link = ["https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694"]
-Description = "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
-Tags = ["literature","time-series-analysis","icos","research","market-cycles"]
+* [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=drivesdk)
 
-["Bitmex perpetual swap"]
-Link = ["https://medium.com/@romanornr/bitmex-perpetual-swap-2d125a304dd"]
-Description = "A lot of crypto traders trade on Bitmex. It’s one of the most advanced trading platforms I’ve ever seen. The most professional traders mostly trade on Bitmex. There are multiple reasons for a trader to trade on Bitmex."
-Tags = ["bitmex","Romano","trading","how-to"]
+* [How Fear Is Being Used to Manipulate Cryptocurrency Markets](https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/how-fear-is-being-used-manipulate-cryptocurrency-markets)
+  >"To ensure the cryptocurrency movement moves along the right path, we who participate in it must teach ourselves to be skeptical not only of sensationalized statements, but also of skeptical statements themselves. We must be aware of how easily we are manipulated when our fear systems are triggered, and adjust our investing behavior accordingly. Those who have the time should actively try to bring clarity to the discussion when they have reliable information or insight."
 
-["Are Weather-Based Trading Strategies Profitable?"]
-Link = ["https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111467"]
-Description = "We estimate the profitability of global index-level trading strategies formed on daily weather across 49 countries. We use ex ante weather information combined with the statistical relationship between daily weather and country index returns to predict index returns on each day. We then form a long-short hedge strategy and a long-only strategy, and find that both strategies generate substantially out-of-sample gross profits. The long-only strategy produces more consistent annualized profits of up to 20.5%, as opposed to a mean world index return of 3.75% during 1993-2012. These findings help solidify the claim that weather exerts economically important impact on mood, and investors can trade profitably on daily weather."
-Tags = ["trading","research","weather","time-series"]
+* [The Anatomy of a Pump & Dump Group](https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/)
+  > "Members of the core layer agree on a coin and inform the outer rim about it. Even inside the core layer there are often several levels – for example, those who paid entry (averaging 1 – 10 BTC) generally get their information 5-6 seconds before others. That's plenty of time to buy the coin at a lower price. Others join in afterwards and only 10-30 seconds later do the outer rims find out which coin was picked and go into hardcore shopping."
 
-["AI for algorithmic trading: 7 mistakes that could make me broke"]
-Link = ["https://medium.com/@alexrachnog/ai-for-algorithmic-trading-7-mistakes-that-could-make-me-broke-a41f94048b8c"]
-Description = "my whole blog is concentrated on solving the following machine learning problem: having a window of past N observations predict N+t one, where N can be 30 days of bars (or other variables as news headlines) and t is forecasting horizon (can vary depending on your strategy). What we have done correctly here?"
-Tags = ["algorithmic","trading"]
+* [@TradersLibrary on Telegram](https://telegram.me/joinchat/AAppPT3cOnM48-Kqbm7FGg)
 
-["Neural networks for algorithmic trading. Simple time series forecasting"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a"]
-Description = "This is first part of my experiments on application of deep learning to finance, in particular to algorithmic trading.  I want to implement trading system from scratch based only on deep learning approaches, so for any problem we have here (price prediction, trading strategy, risk management) we gonna use different variations of artificial neural networks (ANNs) and check how well they can handle this."
-Tags = ["algorithmic","trading","time-series"]
+* [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
 
-["Correct 1D time series forecasting + backtesting"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-1-2-correct-time-series-forecasting-backtesting-9776bfd9e589"]
-Description = "Let’s take historical time series of Apple stock prices starting from 2005 till today. You can easily download them from Yahoo Finance as .csv file. In this file data is in “reversed” order — from 2017 till 2005, so we need to reverse it back first and have a look:"
-Tags = ["algorithmic","trading","time-series","apple","forecasting","backtesting","neural-network"]
+* [@wolfofpoloniex - Bare Basics of trading Cryptocurrency](https://steemit.com/cryptocurrency/@wolfofpoloniex/bare-basics-of-trading-cryptocurrency)
+  "I have found that BASIC TA (Triangles, patterns, fib levels) is almost always more powerful than the more advanced stuff like Harmonics (Gartley / Butterfly patterns). I believe this is due to the fact that the large portion of new day-traders learn the basics and it works for them so they just stick to it. TA is supposed to be about understanding the mass’ psychology behind the markets, but with a market that is, for the most part, ‘simple’… then keeping it simple will turn out to be a lot more effective than throwing out advanced TA."
 
-["Multivariate time series forecasting"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57"]
-Description = "In this article we will see how to preprocess multivariate time series, in particular, what to do with every dimension, how to define and train a neural network on this kind of data and will compare results with what we had in last post."
-Tags = ["algorithmic","trading","time-series","neural-network","forecasting"]
+* [The Biggest Regret of New Crypto Traders](https://steemit.com/cryptocurrency/@connecteconomy/the-biggest-regret-of-new-crypto-traders) 
+  "I should have taken profits when the prices where up!"
 
-["Volatility forecasting and custom losses"]
-Link = ["https://codeburst.io/neural-networks-for-algorithmic-trading-volatility-forecasting-and-custom-loss-functions-c030e316ea7e","https://github.com/Rachnog/Deep-Trading/tree/master/volatility"]
-Description = "In this tutorial we will reconsider returns forecasting problem, design and check a new loss function for it, transforms returns into some sort of volatility and check different metrics for this problems as well. If you want to see the code first, check it out here.\n\nFirst of all, let’s remember how we switch to returns (or percentage change) from original time series. I think, if we want to predict the return, we can switch all our dimensions (open, high, low, close, volume) to returns — they will be already normalized and this is more suitable option — having our input in form of returns if we plan to forecast return as well:"
-Tags = ["algorithmic","trading","forecasting","loss-function","neural-network"]
+* [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
+  * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
 
-["Multitask and multimodal learning"]
-Link = ["https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf","https://www.kaggle.com/aaron7sun/stocknews","https://github.com/Rachnog/Deep-Trading/tree/master/bayesian"]
-Description = "In this tutorial we will use dataset, that contains not only multivariate time series, but also text data with daily news corresponding to trading days from Kaggle. You can check the details of the dataset on the link before, here is short summary what is inside:\n\nNews data: I crawled historical news headlines from Reddit WorldNews Channel (/r/worldnews). They are ranked by reddit users’ votes, and only the top 25 headlines are considered for a single date. (Range: 2008–06–08 to 2016–07–01)\n\nStock data: Dow Jones Industrial Average (DJIA) is used to \“prove the concept\”. (Range: 2008–08–08 to 2016–07–01)"
-Tags = ["algorithmic","trading","sentiment-analysis","neural-network"]
-
-["Hyperparameters optimization"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-hyperparameters-optimization-cb2b4a29b8ee","https://github.com/Rachnog/Deep-Trading/tree/master/bayesian"]
-Description = "I think you have noticed that I usually take some architecture of the network as granted and don’t explain why I take this particular number of layers, this particular activation function, this loss function etc. This is really tricky question. Yes, it’s “normal” in deep learning community to take ReLU (or more modern in 2k17 alternative like ELU or SELU) as activation and be happy with this, but we usually don’t think if it’s correct. Talking about number of layers or learning rate for optimizer — we just take something standard. Today I want to talk about the way how to automatize the process of making a choice from these options."
-Tags = ["algorithmic","trading","neural-network"]
-
-["Enhancing classical strategies with neural nets"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-enhancing-classic-strategies-a517f43109bf","https://github.com/Rachnog/Deep-Trading/tree/master/bayesian"]
-Description = "Today I want to make a sort of conclusion of financial time series with a practical forecasting use case: we will enhance a classic moving average strategy with neural network and show that it really improves the final outcome and review new forecasting objectives you most probably would like to play with."
-Tags = ["algorithmic","trading","neural-network","forecasting"]
-
-["Probabilistic programming and Pyro forecasts"]
-Link = ["https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba","https://github.com/Rachnog/Deep-Trading/tree/master/bayesian"]
-Description = "Today I want to introduce a slightly different approach to fitting the same algorithms. Treating them with probabilistic point of view allows us to learn regularization from data per se, estimate certainty in our forecasts, use much less data for training and inject additional probabilistic dependencies in our models. I will not dive so much into technical or mathematical details of bayesian models or variational inference, I will give some overview, but also concentrate more on application."
-Tags = ["algorithmic","trading","neural-network"]
-
-["Backtesting with Pandas"]
-Link = ["https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-backtesting-in-pandas-4940fec2175e"]
-Description = "We were mostly concentrated on forecasting accuracy and experimenting around that before and we touched backtesting issue very briefly and using code from the Mike Halls-Moore’s book. Of course having a nice backtesting code allows to build really good strategies with risk management, money management and consider different scenarios, but if you’re researching just signals obtained from different data sources (even it’s just historical prices) with use of machine learning you need something simpler to understand if these signals to go long or short are really useful. Basically we just want to check the difference between prices and multiply it by signal sign — up or down and accumulate this info during test period."
-Tags = ["algorithmic","trading","pandas","backtesting"]
-
-["CryptoCred Technical Analysis Lessons"]
-Link = ["https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=drivesdk"]
-Description = "CryptoCred Technical Analysis Lessons"
-Tags = ["trading","technical-analysis","resources","video"]
-
-["How Fear Is Being Used to Manipulate Cryptocurrency Markets"]
-Link = ["https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/how-fear-is-being-used-manipulate-cryptocurrency-markets"]
-Description = "To ensure the cryptocurrency movement moves along the right path, we who participate in it must teach ourselves to be skeptical not only of sensationalized statements, but also of skeptical statements themselves. We must be aware of how easily we are manipulated when our fear systems are triggered, and adjust our investing behavior accordingly. Those who have the time should actively try to bring clarity to the discussion when they have reliable information or insight."
-Tags = ["manipulation","fear","markets"]
-
-["The Anatomy of a Pump & Dump Group"]
-Link = ["https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/"]
-Description = "Members of the core layer agree on a coin and inform the outer rim about it. Even inside the core layer there are often several levels – for example, those who paid entry (averaging 1 – 10 BTC) generally get their information 5-6 seconds before others. That's plenty of time to buy the coin at a lower price. Others join in afterwards and only 10-30 seconds later do the outer rims find out which coin was picked and go into hardcore shopping."
-Tags = ["pump-n-dump","trading","manipulation"]
-
-["@TradersLibrary on Telegram"]
-Link = ["https://telegram.me/joinchat/AAppPT3cOnM48-Kqbm7FGg"]
-Description = "TraderLibrary to enter, click on the following link: 👇"
-Tags = ["resources","trading"]
-
-["BabyPips"]
-Link = ["https://www.babypips.com/","https://www.babypips.com/learn/forex/the-big-three"]
-Description = "Learn Forex Trading."
-Tags = ["trading","resources","ϟ"]
-
-["@wolfofpoloniex - Bare Basics of trading Cryptocurrency"]
-Link = ["https://steemit.com/cryptocurrency/@wolfofpoloniex/bare-basics-of-trading-cryptocurrency"]
-Description = "I have found that BASIC TA (Triangles, patterns, fib levels) is almost always more powerful than the more advanced stuff like Harmonics (Gartley / Butterfly patterns). I believe this is due to the fact that the large portion of new day-traders learn the basics and it works for them so they just stick to it. TA is supposed to be about understanding the mass’ psychology behind the markets, but with a market that is, for the most part, ‘simple’… then keeping it simple will turn out to be a lot more effective than throwing out advanced TA."
-Tags = ["wolfofpolinex","trading","technical-analysis"]
-
-["The Biggest Regret of New Crypto Traders"]
-Link = ["https://steemit.com/cryptocurrency/@connecteconomy/the-biggest-regret-of-new-crypto-traders"]
-Description = "I should have taken profits when the prices where up!"
-Tags = ["trading","regret"]
-
-["Elliott Wave Principle - Key to Market Behaviour Book Review"]
-Link = ["https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review"]
-Description = "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
-Tags = ["elliot-waves","trading","technical-analysis"]
-
-["Beginners Guide to: How to use Moving Averages to Day Trade?"]
-Link = ["https://steemit.com/bitcoin/@yarr/how-to-use-moving-averages-to-day-trade-on-alts-on-binance"]
-Description = "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
+* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://steemit.com/bitcoin/@yarr/how-to-use-moving-averages-to-day-trade-on-alts-on-binance)
+  > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
 Tags = ["trading","technical-analysis","moving-averages"]
 
-["Manipulation: Vital information on market movement and how to read WHALE efforts for $profit!"]
-Link = ["https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf","https://steemit.com/crypto/@cryptobroye/manipulation-vital-information-on-market-movement-and-how-to-read-their-efforts-for-usdprofit"]
-Description = "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
-Tags = ["trading","manipulation"]
+* [Manipulation: Vital information on market movement and how to read WHALE efforts for $profit!](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf) 
+  > "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
 
-["SUCCESS STRATEGIES: Trading Crypto's/Equities with Triangle chart patterns."]
-Link = ["https://steemit.com/cryptotrading/@cryptobroye/success-strategies-trading-crypto-s-equities-with-triangle-chart-patterns"]
-Description = "Fortunately there is a simpler way, and trust me when I say it will change your trading almost over night if you have some patience and master EVEN ONE of these patterns.\n\nI will note first, while the patterns can be traded on all time frames, the 1hr/4hr and 1D charts are the most successful by a long shot!"
-Tags = ["trading","technical-analysis","triangles","bull-flag"]
+* [SUCCESS STRATEGIES: Trading Crypto's/Equities with Triangle chart patterns.](https://steemit.com/cryptotrading/@cryptobroye/success-strategies-trading-crypto-s-equities-with-triangle-chart-patterns)
+  > "Fortunately there is a simpler way, and trust me when I say it will change your trading almost over night if you have some patience and master EVEN ONE of these patterns.\n\nI will note first, while the patterns can be traded on all time frames, the 1hr/4hr and 1D charts are the most successful by a long shot!"
 
-["Technical Analysis Project"]
-Link = ["https://www.slideshare.net/RahulPrajapati7/technical-analysis-project"]
-Description = "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
-Tags = ["trading","technical-analysis","book","academic-paper"]
+* [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
+  > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
-["Trading Triangles"]
-Link = ["https://www.youtube.com/watch?v=MvdXlFwJqic"]
-Description = "Video on Triangles, TA, with Poor Audio :)"
-Tags = ["triangles","technical-analysis","trading","video"]
+* [Trading Triangles](https://www.youtube.com/watch?v=MvdXlFwJqic) "Video on Triangles, TA, with Poor Audio :)"
 
-["Stop loss hunting: Whale manipulation strategies"]
-Link = ["https://steemit.com/cryptocurrencies/@cryptobroye/stop-loss-hunting-whale-manipulation-strategies-2"]
-Description = "Stop-loss hunting is the act of intentionally pushing the price down through a major support level to trigger stop-loss orders, creating a flash-crash which can then be used to buy coins on the cheap.\n\nIt is incredibly easy to do with anything that has low volume at any point during the day, which is a vast majority of cryptos outside the top 15."
-Tags = ["manipulation","trading"]
+* [Stop loss hunting: Whale manipulation strategies](https://steemit.com/cryptocurrencies/@cryptobroye/stop-loss-hunting-whale-manipulation-strategies-2)
+  > "Stop-loss hunting is the act of intentionally pushing the price down through a major support level to trigger stop-loss orders, creating a flash-crash which can then be used to buy coins on the cheap.\n\nIt is incredibly easy to do with anything that has low volume at any point during the day, which is a vast majority of cryptos outside the top 15."
 
-["Price action trading - Inside bar/Engulfing bar chart patterns"]
-Link = ["https://steemit.com/bitcoin/@cryptobroye/success-strategies-3-price-action-trading-inside-bar-engulfing-bar-chart-patterns"]
-Description = "Here are 2 extremely simple, yet extremely effective price action signals which can be used to trade any financial instrument, with precise entry and exit levels for day trades or longer term swing trades.\n\nThe first is known as an inside bar formation which consists of a large ''mother'' candle, and a proceeding 2-5 price candles that all sit inside the range of this mother candle, showing us a sign of consolidation and indecision in the prices next move."
+* [Price action trading - Inside bar/Engulfing bar chart patterns](https://steemit.com/bitcoin/@cryptobroye/success-strategies-3-price-action-trading-inside-bar-engulfing-bar-chart-patterns)
+  > "Here are 2 extremely simple, yet extremely effective price action signals which can be used to trade any financial instrument, with precise entry and exit levels for day trades or longer term swing trades.\n\nThe first is known as an inside bar formation which consists of a large ''mother'' candle, and a proceeding 2-5 price candles that all sit inside the range of this mother candle, showing us a sign of consolidation and indecision in the prices next move."
 Tags = ["trading","technical-analysis"]
 
 ["Trading Fibonacci retrace and expansion to pinpoint entries and exits."]
@@ -652,3 +555,31 @@ Tags = ["cryptocred","trading","leverage"]
 Link = ["https://www.reddit.com/r/CryptoCurrency/comments/ab7qce/how_i_became_a_cryptomining_millionarie_in_under/?st=jqd0rymx&sh=4d2edb97"]
 Description = "Have the mindset in crypto that everyone is against you. They are using you for their own benefit/gains. No matter what type of relationship you have with individuals you meet online at the end of the day it means nothing. You steal 100k? Its forgotten after a while, You donated 100k? it's forgotten after a while. Nobody truly gives a shit. It's just them reacting too a certain situation in the moment. The reality is they only care about themselves and theirs nothing wrong with that. I remember reading threads on /r/cryptocurrency in the last bull-run where everyone was holding hands, singing kumbaya, and talking about lambos... Did you guys all think you were gonna make gains? Someone has to lose for the other person to win. High majority of this space works just like a ponzi and it should be treated as such."
 Tags = ["mining","trading"]
+
+### Data Science and Algorithmic Trading 
+* [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
+  > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
+* [Bitmex perpetual swap](https://medium.com/@romanornr/bitmex-perpetual-swap-2d125a304dd)
+ > "A lot of crypto traders trade on Bitmex. It’s one of the most advanced trading platforms I’ve ever seen. The most professional traders mostly trade on Bitmex. There are multiple reasons for a trader to trade on Bitmex."
+* [Are Weather-Based Trading Strategies Profitable?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111467)
+ > "We estimate the profitability of global index-level trading strategies formed on daily weather across 49 countries. We use ex ante weather information combined with the statistical relationship between daily weather and country index returns to predict index returns on each day. We then form a long-short hedge strategy and a long-only strategy, and find that both strategies generate substantially out-of-sample gross profits. The long-only strategy produces more consistent annualized profits of up to 20.5%, as opposed to a mean world index return of 3.75% during 1993-2012. These findings help solidify the claim that weather exerts economically important impact on mood, and investors can trade profitably on daily weather."
+* [AI for algorithmic trading: 7 mistakes that could make me broke](https://medium.com/@alexrachnog/ai-for-algorithmic-trading-7-mistakes-that-could-make-me-broke-a41f94048b8c)
+  >"my whole blog is concentrated on solving the following machine learning problem: having a window of past N observations predict N+t one, where N can be 30 days of bars (or other variables as news headlines) and t is forecasting horizon (can vary depending on your strategy). What we have done correctly here?"
+* [Neural networks for algorithmic trading. Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
+  > "This is first part of my experiments on application of deep learning to finance, in particular to algorithmic trading.  I want to implement trading system from scratch based only on deep learning approaches, so for any problem we have here (price prediction, trading strategy, risk management) we gonna use different variations of artificial neural networks (ANNs) and check how well they can handle this."
+* [Correct 1D time series forecasting + backtesting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-1-2-correct-time-series-forecasting-backtesting-9776bfd9e589)
+  >"Let’s take historical time series of Apple stock prices starting from 2005 till today. You can easily download them from Yahoo Finance as .csv file. In this file data is in “reversed” order — from 2017 till 2005, so we need to reverse it back first and have a look:"
+* [Multivariate time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57)
+  > "In this article we will see how to preprocess multivariate time series, in particular, what to do with every dimension, how to define and train a neural network on this kind of data and will compare results with what we had in last post."
+* [Volatility forecasting and custom losses](https://codeburst.io/neural-networks-for-algorithmic-trading-volatility-forecasting-and-custom-loss-functions-c030e316ea7e) [ϟ](https://github.com/Rachnog/Deep-Trading/tree/master/volatility)
+  > "In this tutorial we will reconsider returns forecasting problem, design and check a new loss function for it, transforms returns into some sort of volatility and check different metrics for this problems as well. If you want to see the code first, check it out here.\n\nFirst of all, let’s remember how we switch to returns (or percentage change) from original time series. I think, if we want to predict the return, we can switch all our dimensions (open, high, low, close, volume) to returns — they will be already normalized and this is more suitable option — having our input in form of returns if we plan to forecast return as well:"
+* [Multitask and multimodal learning](https://becominghuman.ai/neural-networks-for-algorithmic-trading-multimodal-and-multitask-deep-learning-5498e0098caf) [ϟ](https://www.kaggle.com/aaron7sun/stocknews) [ϟ](https://github.com/Rachnog/Deep-Trading/tree/master/bayesian)
+  > "In this tutorial we will use dataset, that contains not only multivariate time series, but also text data with daily news corresponding to trading days from Kaggle. You can check the details of the dataset on the link before, here is short summary what is inside:\n\nNews data: I crawled historical news headlines from Reddit WorldNews Channel (/r/worldnews). They are ranked by reddit users’ votes, and only the top 25 headlines are considered for a single date. (Range: 2008–06–08 to 2016–07–01)\n\nStock data: Dow Jones Industrial Average (DJIA) is used to \“prove the concept\”. (Range: 2008–08–08 to 2016–07–01)"
+* [Hyperparameters optimization](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-hyperparameters-optimization-cb2b4a29b8ee) [ϟ](https://github.com/Rachnog/Deep-Trading/tree/master/bayesian)
+  > "I think you have noticed that I usually take some architecture of the network as granted and don’t explain why I take this particular number of layers, this particular activation function, this loss function etc. This is really tricky question. Yes, it’s “normal” in deep learning community to take ReLU (or more modern in 2k17 alternative like ELU or SELU) as activation and be happy with this, but we usually don’t think if it’s correct. Talking about number of layers or learning rate for optimizer — we just take something standard. Today I want to talk about the way how to automatize the process of making a choice from these options."
+* [Enhancing classical strategies with neural nets](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-enhancing-classic-strategies-a517f43109bf) [ϟ](https://github.com/Rachnog/Deep-Trading/tree/master/bayesian)
+  > "Today I want to make a sort of conclusion of financial time series with a practical forecasting use case: we will enhance a classic moving average strategy with neural network and show that it really improves the final outcome and review new forecasting objectives you most probably would like to play with."
+* [Probabilistic programming and Pyro forecasts](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba) [ϟ](https://github.com/Rachnog/Deep-Trading/tree/master/bayesian)
+  > "Today I want to introduce a slightly different approach to fitting the same algorithms. Treating them with probabilistic point of view allows us to learn regularization from data per se, estimate certainty in our forecasts, use much less data for training and inject additional probabilistic dependencies in our models. I will not dive so much into technical or mathematical details of bayesian models or variational inference, I will give some overview, but also concentrate more on application."
+* [Backtesting with Pandas](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-backtesting-in-pandas-4940fec2175e)
+  > "We were mostly concentrated on forecasting accuracy and experimenting around that before and we touched backtesting issue very briefly and using code from the Mike Halls-Moore’s book. Of course having a nice backtesting code allows to build really good strategies with risk management, money management and consider different scenarios, but if you’re researching just signals obtained from different data sources (even it’s just historical prices) with use of machine learning you need something simpler to understand if these signals to go long or short are really useful. Basically we just want to check the difference between prices and multiply it by signal sign — up or down and accumulate this info during test period."
