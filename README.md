@@ -1,5 +1,29 @@
 # learn-crypto-trading
 
+### Contents
+
+* [101](#101-)
+* [Wedges and Triangles](#wedges-and-triangles-)
+* [Candlestick Patterns](#candlestick-patterns-)
+* [More Patterns](#more-patterns-)
+* [Divergance](#Divergance-)
+* [General](#general-)
+* [Moving Averages](#moving-averages-)
+* [Manipulation](#manipulation-)
+* [MACD](#macd-)
+* [Economics](#economics-)
+* [Leverage](#leverage)
+* [Tools-N-Apps](#tools-n-apps-)
+* [Protocols](#protocols)
+* [Historical](#historical-)
+* [Speculation-Market Theses](#Speculation-market-theses-)
+* [Books](#books-)
+* [Videos](#videos-)
+* [Podcasts](#podcasts-)
+* [Resources](#resources-)
+* [Twitter Follows](#twitter-follows-)
+* [Data Science—Quant-Algorithmic Trading](#Data-Science—Quant-Algorithmic-Trading-)
+
 ### 101
 
 * [Investopedia](https://www.investopedia.com)
@@ -306,7 +330,7 @@
 
 
 
-### Tools -n- Apps
+### Tools-n-Apps
 
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
@@ -362,7 +386,7 @@
   > "@JimAllmendinger Bitcoin has a 4 year cycle that's programmed into the system."
 ![](https://pbs.twimg.com/media/Dn-ObUOU8AAdPPq.jpg)
 
-### Speculation — Market Theses
+### Speculation-Market Theses
 
 
 ### Books
@@ -428,7 +452,7 @@
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
 
-### Data Science, Quant\Algorithmic Trading 
+### Data Science—Quant-Algorithmic Trading 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Bitmex perpetual swap](https://medium.com/@romanornr/bitmex-perpetual-swap-2d125a304dd)
