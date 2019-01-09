@@ -1,5 +1,7 @@
 # learn-crypto-trading
 
+<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
+
 To become comprehensive. For now, it's just a barely organized list.
 
 ### Contents
