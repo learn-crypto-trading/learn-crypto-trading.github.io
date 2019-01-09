@@ -1,5 +1,7 @@
 # learn-crypto-trading
 
+To become comprehensive. For now, it's just a barely organized list.
+
 ### Contents
 
 * [101](#101-)
