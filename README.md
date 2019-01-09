@@ -320,39 +320,31 @@
   > "These articles will introduce you to the concepts, strategies and common terminology of technical analysis, as well as other financial analysis methods and important investing topics."
 * [Twitter Sentiment Analysis Metrics](https://coinmonsta.io)
   > "Averages Tweets and Hearts"
-* [OnChainFX]
-(https://onchainfx.com/]
+* [OnChainFX](https://onchainfx.com/)
   > "good alternative to CMC - multi blockchain explorer"
 
-* [chainz.cryptoid.info]
-(https://chainz.cryptoid.info/]
+* [chainz.cryptoid.info](https://chainz.cryptoid.info/)
   > "more visual global charts - Blockchain Explorers"
 
-* [coinlib.io/global-crypto-charts]
-(https://coinlib.io/global-crypto-charts]
+* [coinlib.io/global-crypto-charts](https://coinlib.io/global-crypto-charts)
   > "more visual global charts - heat map"
 
-* [tensorcharts.com]
-(https://tensorcharts.com/]
+* [tensorcharts.com](https://tensorcharts.com/)
   > "Charts w sentiment analysis"
 
 * [Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
   > "bitmex margin information - "
 
-* [coinfarm.online]
-(https://coinfarm.online/index_en.asp]
+* [coinfarm.online](https://coinfarm.online/index_en.asp)
   > "Bitmex margin data"
 
-* [datamish.com]
-(https://datamish.com/d/000000004/btcusd?refresh=20s&orgId=1]
+* [datamish.com](https://datamish.com/d/000000004/btcusd?refresh=20s&orgId=1)
   > "charting + info of any coins on cmc"
 
-* [BitScreener]
-(https://bitscreener.com/]
+* [BitScreener](https://bitscreener.com/)
   > "buy market % + other indicator signals -"
 
-* [CryptoMiso]
-(https://cryptomiso.com/]
+* [CryptoMiso](https://cryptomiso.com/)
   > "Github commit history of 783 cryptocurrencies based on most popular repo"
 
 
