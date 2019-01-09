@@ -24,7 +24,7 @@
 * [Twitter Follows](#twitter-follows-)
 * [Data Science—Quant-Algorithmic Trading](#Data-Science—Quant-Algorithmic-Trading-)
 
-### 101
+### 101 [**^**](#contents)
 
 * [Investopedia](https://www.investopedia.com)
   > "Investing Encyclopedia- knows everything."
@@ -52,7 +52,7 @@
   > "I have been delaying writing this article for some time now, simply because of the number of sub-arguments that arise when one tries to answer whether technical analysis works.\n\nI am going to try to keep my arguments as simple and pertinent as possible. This article is primarily aimed at:\n\n— Those who have heard the term technical analysis but do not know what it entails\n\n— Those who are well aware of the practice but remain sceptical\n\nIt is at this point I should stress that by no means am I rehashing some orthodox doctrine on what technical analysis is and isn’t (if there were such a thing). These are my personal views and a way of thinking about technical analysis that has made me a better trader.\n\nMoreover, just to make my position clear: I am primarily a technical trader, therefore my implicit position is that technical analysis ‘works’ (to be defined later)."
 
 
-### Wedges and Triangles
+### Wedges and Triangles [**^**](#contents)
 
 * [@Beastlyorion shows a Falling Wedge](https://twitter.com/Beastlyorion/status/1035972119472099329)
 ![]https://pbs.twimg.com/media/DmCDGttUYAUrJuI.jpg:large)
@@ -71,7 +71,7 @@
 * [Trading Triangles](https://www.youtube.com/watch?v=MvdXlFwJqic) "Video on Triangles, TA, with Poor Audio :)"
 
 
-### Candlestick Patterns
+### Candlestick Patterns  [**^**](#contents)
 
 * [Bullish Candlestick Patterns](https://pbs.twimg.com/media/DmoTJNlXcAAPQza.jpg:large)
   > "Bullish Candlestick Patterns"
@@ -91,12 +91,12 @@
 
 
 
-### More Patterns
+### More Patterns  [**^**](#contents)
 
 * [ABCD Pattern Trading](http://www.profitf.com/articles/patterns/abcd-pattern-trading/)
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
 
-### Divergance
+### Divergance  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
 
@@ -112,7 +112,7 @@
 * [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
-### General
+### General  [**^**](#contents)
 
 
 * [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
@@ -272,7 +272,7 @@
   > "Have the mindset in crypto that everyone is against you. They are using you for their own benefit/gains. No matter what type of relationship you have with individuals you meet online at the end of the day it means nothing. You steal 100k? Its forgotten after a while, You donated 100k? it's forgotten after a while. Nobody truly gives a shit. It's just them reacting too a certain situation in the moment. The reality is they only care about themselves and theirs nothing wrong with that. I remember reading threads on /r/cryptocurrency in the last bull-run where everyone was holding hands, singing kumbaya, and talking about lambos... Did you guys all think you were gonna make gains? Someone has to lose for the other person to win. High majority of this space works just like a ponzi and it should be treated as such."
 
 
-### Moving Averages
+### Moving Averages  [**^**](#contents)
 
 * [Beginners Guide to: How to use Moving Averages to Day Trade?](https://steemit.com/bitcoin/@yarr/how-to-use-moving-averages-to-day-trade-on-alts-on-binance)
   > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
@@ -283,7 +283,7 @@
 
 
 
-### Manipulation
+### Manipulation [**^**](#contents)
 
 
 * [How Fear Is Being Used to Manipulate Cryptocurrency Markets](https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/how-fear-is-being-used-manipulate-cryptocurrency-markets)
@@ -296,20 +296,20 @@
 * [Stop loss hunting: Whale manipulation strategies](https://steemit.com/cryptocurrencies/@cryptobroye/stop-loss-hunting-whale-manipulation-strategies-2)
   > "Stop-loss hunting is the act of intentionally pushing the price down through a major support level to trigger stop-loss orders, creating a flash-crash which can then be used to buy coins on the cheap.\n\nIt is incredibly easy to do with anything that has low volume at any point during the day, which is a vast majority of cryptos outside the top 15."
 
-### Macd
+### Macd [**^**](#contents)
 
 * [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
   > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
 
 
-### Economics
+### Economics [**^**](#contents)
 
 
 * [Fully Diluted Market Value](https://avc.com/2018/10/fully-diluted-market-value/)
   > "When someone asks you how much of a company you own, the answer could be two very different numbers. You might own 10,000 shares and there might be 1mm shares issued and outstanding. That would suggest you own 1% of the company. And that would be correct, as of right now.\n\nWhat is often not calculated in these sorts of numbers is future dilution, particularly dilution that is visible if you look closely. The most common form of future dilution that is visible are outstanding options and warrants to issue stock that have not been exercised."
 
 
-### Leverage
+### Leverage [**^**](#contents)
 
 * [@CryptoCred on Trading -w- Leverage](https://medium.com/@cryptocreddy/comprehensive-guide-to-position-size-and-leverage-2e27764ce9e0)
   > "Nearly every day, whether on Twitter, Telegram, or Discord, I see traders struggling to understand how to calculate their position sizes and generally make sense of leveraged trading.\n\nIn this article, I’ll break the concepts down to first principles and give you a very simple way to calculate position size, as well as understand how and when to employ leverage."
@@ -330,7 +330,7 @@
 
 
 
-### Tools-n-Apps
+### Tools-n-Apps [**^**](#contents)
 
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
@@ -372,12 +372,12 @@
   > "Github commit history of 783 cryptocurrencies based on most popular repo"
 
 
-### Protocols
+### Protocols [**^**](#contents)
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)
   > "Compound is a money market protocol on the Ethereum blockchain — allowing individuals, institutions, and applications to frictionlessly earn interest on or borrow cryptographic assets without having to negotiate with a counterparty or peer. Each market has dynamic interest rates, which float in real-time as market conditions adjust."
 
-### Historical
+### Historical [**^**](#contents)
 
 * [@MoonOverlord on Doge Cycles](https://twitter.com/MoonOverlord/status/1009912924822016002)
   > "Interesting symmetry in between the timing of $DOGE cycles over the last few years\n\nDoge has long been a signal for #altseason"
@@ -386,10 +386,10 @@
   > "@JimAllmendinger Bitcoin has a 4 year cycle that's programmed into the system."
 ![](https://pbs.twimg.com/media/Dn-ObUOU8AAdPPq.jpg)
 
-### Speculation-Market Theses
+### Speculation-Market Theses [**^**](#contents)
 
 
-### Books
+### Books [**^**](#contents)
 
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
   > "📊Forex/Crypto books for FREE 🎓Download books for complete beginners, basic concepts and techniques of trading as Chart Patterns, Day Trading, Elliott Wave Principles, Ichimoku, Psychology Of Trading, etc."
@@ -419,7 +419,7 @@
 
 
 
-### Videos
+### Videos [**^**](#contents)
 
 * [Trader Dante on Youtube](https://www.youtube.com/channel/UCT43ffXmotx7i903Yxcwxjw/videos)
   > "obligatory watching"
@@ -427,13 +427,13 @@
 * [@CryptoCred Price Action Webinar #1](https://twitter.com/CryptoCred/status/1035223770267611136)
   > "Price Action Webinar #1 - Retests"
 
-### Podcasts
+### Podcasts [**^**](#contents)
 
 * [Flippening Podcast](https://pca.st/P5sC)
   > "Flippening - For Cryptocurrency Investors (Bitcoin, Ethereum, and Cryptoasset Investing)"
 
 
-### Resources
+### Resources [**^**](#contents)
 
 * [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
   > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
@@ -447,12 +447,12 @@
 
 
 
-### Twitter Follows
+### Twitter Follows [**^**](#contents)
 
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
 
-### Data Science—Quant-Algorithmic Trading 
+### Data Science—Quant-Algorithmic Trading [**^**](#contents) 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Bitmex perpetual swap](https://medium.com/@romanornr/bitmex-perpetual-swap-2d125a304dd)
