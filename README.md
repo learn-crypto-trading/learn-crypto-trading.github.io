@@ -258,13 +258,8 @@ To become comprehensive. For a start, its a lightly organized list.
 
 ### Moving Averages  [**^**](#contents)
 
-* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://steemit.com/bitcoin/@yarr/how-to-use-moving-averages-to-day-trade-on-alts-on-binance)
+* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
   > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
-
-
-* [Yarr’s Beginners Guide: How to use Moving Averages to Day Trade](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
-  > "https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/"
-
 
 * [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
   > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
