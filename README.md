@@ -10,7 +10,7 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Wedges and Triangles](#wedges-and-triangles-)
 * [Candlestick Patterns](#candlestick-patterns-)
 * [More Patterns](#more-patterns-)
-* [Divergance](#Divergance-)
+* [Divergence](#Divergence-)
 * [Risk Management](#risk-management-)
 * [Indicators](#indicators-)
 * [General](#general-)
@@ -121,9 +121,12 @@ To become comprehensive. For a start, its a lightly organized list.
 * [What is a Dead Cat Bounce? - Investopedia](https://www.investopedia.com/terms/d/deadcatbounce.asp)
   > "A dead cat bounce is a temporary recovery from a prolonged decline or a bear market that is followed by the continuation of the downtrend. A dead cat bounce is a small, short-lived recovery in the price of a declining security, such as a stock. Frequently, downtrends are interrupted by brief periods of recovery — or small rallies — where prices temporarily rise. The name \"dead cat bounce\" is based on the notion that even a dead cat will bounce if it falls far enough and fast enough."
 
-### Divergance  [**^**](#contents)
+### Divergence  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
+
+* https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
+
 
 * [The Relative Strength is not an Overbought/Oversold Indicator](http://www.technical-analysis.com/learnTA/RSINotOBOS/RSINotOBOS.html)
   > "The Relative Strength Index is never an overbought/oversold indicator. If you did not learn Relative Strength Index from the original text, then it is very likely that you have been taught the wrong thing right from the beginning - that RSI is an overbought/oversold indicator. I want to tell you straight away that this is wrong."
@@ -274,6 +277,12 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Distribution Schematic #1: Wyckoff Events and Phases](http://i.imgur.com/LbtrMJG.png)
   > "image of Wyckoff Events and Phases"
 
+* https://wyckoffsmi.com/wyckoff-smi-glossary/
+
+
+
+https://tucsky.github.io/SignificantTrades/#
+
 
 ### Manipulation [**^**](#contents)
 
@@ -416,6 +425,9 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Sierra Chart - High Performance Trading Platform](https://sierrachart.com)
   > "Sierra Chart is a professional Trading platform for the financial markets which is integrated with many externally available trading services. It supports Live and Simulated trading. Both manual and automated trading is supported.\nSierra Chart is a complete Real-time and Historical, Charting and Technical Analysis platform for the financial markets.\nSierra Chart fully supports the open specification Data and Trading Communications Protocol for the community.\nSierra Chart provides an optional high quality direct CME / CBOT / NYMEX / COMEX / Eurex / ICE / HKFE / Euronext / LIFFE / NYSE / NASDAQ / TSX / Montréal Futures / Cash Indices realtime market data feed. There is an additional cost for real-time exchange data. Real-time Forex/CFD data is included at no additional cost.\nSupport for charting and trading in the Cryptocurrency markets.\nSierra Chart uses the very best engineering and design practices to produce well-organized, fast and ultra rocksolid software and services. We continue to strive to be as best as we can be.\n\ntrading platform with lots of features, like footprint charts, heatmaps and all that  . has poloniex, bitmex, bitfinex and okcoin currently"
   
+https://cryptocoincharts.info
+
+https://coincheckup.com/ 
 ### Protocols [**^**](#contents)
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)
