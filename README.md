@@ -31,6 +31,7 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Resources](#resources-)
 * [Twitter Follows](#twitter-follows-)
 * [Data Science—Quant-Algorithmic Trading](#Data-Science—Quant-Algorithmic-Trading-)
+* [Closing](#Brought-to-you-by-Crypto-Super-Source-)
 
 ### 101 [**^**](#contents)
 
@@ -39,7 +40,7 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Trading View](https://www.tradingview.com)
   > "Where 'everyone' looks at charts"
   * [@cryptocreddy - tradingview tricks](https://medium.com/@cryptocreddy/5-useful-tradingview-tricks-30404ed41653)
-  > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
+    > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
 
 
 * [Recognising and trading Support and Resistance levels](https://steemit.com/bitcoin/@cryptobroye/success-strategies-5-recognising-and-tradin-support-and-resistance-levels) [[**ϟ**](https://www.youtube.com/watch?v=NNfofzh0Hls)]
@@ -545,7 +546,7 @@ To become comprehensive. For a start, its a lightly organized list.
 
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+### Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](https://github.com/infominer33/learn-crypto-trading/blob/master/projects.md)!!!
