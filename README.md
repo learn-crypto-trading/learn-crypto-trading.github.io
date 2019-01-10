@@ -281,9 +281,6 @@ To become comprehensive. For a start, its a lightly organized list.
 
 
 
-https://tucsky.github.io/SignificantTrades/#
-
-
 ### Manipulation [**^**](#contents)
 
 
@@ -380,6 +377,9 @@ https://tucsky.github.io/SignificantTrades/#
 
 * [Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
   > "bitmex margin information - "
+
+* https://tucsky.github.io/SignificantTrades/#
+
 
 * [coinfarm.online](https://coinfarm.online/index_en.asp)
   > "Bitmex margin data"
