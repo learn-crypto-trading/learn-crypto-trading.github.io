@@ -375,6 +375,35 @@ To become comprehensive. For now, it's just a barely organized list.
 * [CryptoMiso](https://cryptomiso.com/)
   > "Github commit history of 783 cryptocurrencies based on most popular repo"
 
+* https://www.coinsignals.trade/
+
+* Whalewatch.io
+
+* https://autoview.with.pink/
+
+* https://www.multicoincharts.com/ 
+* https://cryptoxscanner.com/
+* https://athcoinindex.com/
+* https://www.turtlebc.com/tools/buy_percentage?period=3years
+
+* https://play.google.com/store/apps/details?id=solutions.isky.skynotifications&rdid=solutions.isky.skynotifications 
+  >application combined with Telegram to get push notifications. Needs binance API key . Please, DO UNCHECK Trading checkbox while creating key (leave only readonly)
+
+* https://deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.
+
+* https://www.tradingview.com/script/HAOqXwg4-Killzones-Daily-Open-Weekly-Open-Monthly-Open-by-bartbtc/
+
+  >I've created an indicator that : 
+  >- Displays the previous day's, week's, month's open on the current period's price action. 
+  >- Displays a vertical bar at the daily open. (The first 30-60 minutes from the daily open is commonly where the high/low of the day is made) 
+  >- Displays London/NY opens as vertical bars (london close is an option, but I have disabled it by default. I have removed Asia as I believe it is not useful - deal with it!) 
+  >
+  >Features: 
+  >- Displays daily data/killzones only on timeframes lower than 60minutes (you can modify this in the settings as you wish) 
+  >- Displays weekly open only on timeframes lower than weekly 
+  >- Displays monthly open only on timeframes lower than monthly 
+
+
 
 ### Protocols [**^**](#contents)
 
@@ -485,6 +514,8 @@ To become comprehensive. For now, it's just a barely organized list.
   > "We were mostly concentrated on forecasting accuracy and experimenting around that before and we touched backtesting issue very briefly and using code from the Mike Halls-Moore’s book. Of course having a nice backtesting code allows to build really good strategies with risk management, money management and consider different scenarios, but if you’re researching just signals obtained from different data sources (even it’s just historical prices) with use of machine learning you need something simpler to understand if these signals to go long or short are really useful. Basically we just want to check the difference between prices and multiply it by signal sign — up or down and accumulate this info during test period."
 * [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
   > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
+
+
 
 ---
 
