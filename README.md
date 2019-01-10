@@ -100,6 +100,18 @@ To become comprehensive. For a start, its a lightly organized list.
 * [ABCD Pattern Trading](http://www.profitf.com/articles/patterns/abcd-pattern-trading/)
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
 
+* [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
+  * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
+
+
+* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
+  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
+
+
+* [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
+  > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
+
+
 ### Divergance  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
@@ -116,42 +128,41 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
-### General  [**^**](#contents)
 
+### Risk Managment
 
-* [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
-  * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
-
-
-* [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
-  > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
-
-
-* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
-  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
-
-
-* [The Pyramid trade management strategy](https://steemit.com/bitcoin/@cryptobroye/success-strategies-6-the-pyramid-trade-management-strategy) [[**ϟ**](https://www.youtube.com/watch?v=aulZ5JYeU1Q)]
-  > Using this Pyramid technique we can safely lock in profits, eventually giving us what we know as a ''free trade'' Whereby a trade has moved enough in our favour, and has given us the signals we need to place a stop loss in a place that completely eradicates any fear of loss .
-  
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
 
-  
-* [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
-  > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
+* [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
+  > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
+
+### Indicators
+
+* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
+  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
+
 
 * [Ichimoku Cloud Definition: Day Trading Terminology](https://medium.com/@WarriorTrading/ichimoku-cloud-definition-day-trading-terminology-7b34e98d2ea2)
   > "The Ichimoku Cloud is among the most versatile technical indicators. It identifies support and resistance levels, gauges momentum, identifies the direction of trends and provides trading signals.\n\nWith one single glance, traders can identify the trends in securities and examine further signals within that trend. While this indicator might seem complicated, it is actually a very simple indicator that is highly useful for all traders."
 
 
+* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
+  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
+
 
 * [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
   > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
 
-* [Manipulation: Vital information on market movement and how to read WHALE efforts for $profit!](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf) 
-  > "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
+### General  [**^**](#contents)
 
+* [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
+  > "TA Lessons:\n\n\ni) Supply & Demand \nii) Support & Resistance \niii) Swing Failure Pattern \niv) Trading Ranges \nv) Divergences \nvi) Trends & Reversals \nvii) Miscellaneous\n\nMost of my trading setups are a concoction of the aforementioned"
+
+
+* [The Pyramid trade management strategy](https://steemit.com/bitcoin/@cryptobroye/success-strategies-6-the-pyramid-trade-management-strategy) [[**ϟ**](https://www.youtube.com/watch?v=aulZ5JYeU1Q)]
+  > Using this Pyramid technique we can safely lock in profits, eventually giving us what we know as a ''free trade'' Whereby a trade has moved enough in our favour, and has given us the signals we need to place a stop loss in a place that completely eradicates any fear of loss .
+  
 
 * [The Road To Becoming A Shark In The Crypto Markets, Part 1.](https://medium.com/@cryptol0gy/the-road-to-becoming-a-shark-in-the-crypto-markets-part-1-230675138f29)
   > "Almost a decade ago the founder of Cryptol0gy, R1S1N6, was in a position where most people are today. All he had was a hundred dollars on his father’s Forex account, and all he could dream of was turning that into a luxury car and a Rolex watch. While those things seemed unattainable at the time for him, he has shown that it’s possible. It was possible in the regular financial markets, and now with crypto, it’s easier than ever. It won’t happen overnight, but it can happen faster than you might expect."
@@ -163,39 +174,19 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Cryptocurrency Trading — 9 Guidelines to Make Bank and Avoid Getting Rekt](https://steemit.com/cryptocurrency-bitcoin/@whalereports/cryptocurrencytrading9guidelinestomakebankandavoidgettingrekt-67r0rwjmlv)
   > "If you like to have some structure and basis for trading cryptocurrency, these rules/guidelines can help you improve your trading strategy. Take what you want. Or leave it all. Either way, good luck."
 
-* [How to trade ALTS keeping in mind BTC Price action?](https://medium.com/@tradingroomapp/how-to-trade-alts-keeping-in-mind-btc-price-action-40a22edc5411)
-[[**T**](https://twitter.com/CryptoChoe/status/1012031916160233472)
-  > "So you must have came across this dilemma of whether to trade ALTs or not when you are shaky about BTC Price Action."
-
-* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
-  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
-
 * [Ugly Old Bitcoin Standard Bearer](https://medium.com/@homeytel)
   > "Trading Blog, and some Crypto Politicing"
 
 * [@AriDavidPaul on trading the News](https://twitter.com/AriDavidPaul/status/1030164882694578176)
   > "1/  \"What news or event could reverse the bear trend?\" Is the question I get asked most frequently.  I think it's the wrong question based on a faulty assumption.  People often mistakenly assume that the current trend (bull or bear) will continue until some exogenous event."
 
-* [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
-  > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
 
-* [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
-  > "TA Lessons:\n\n\ni) Supply & Demand \nii) Support & Resistance \niii) Swing Failure Pattern \niv) Trading Ranges \nv) Divergences \nvi) Trends & Reversals \nvii) Miscellaneous\n\nMost of my trading setups are a concoction of the aforementioned"
-
-
-
-* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
-  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
 
 * [Distribution Schematic #1: Wyckoff Events and Phases](http://i.imgur.com/LbtrMJG.png)
   > "image of Wyckoff Events and Phases"
 
 * [What are Wyckoff Phases?](https://cdn.discordapp.com/attachments/354298918768738305/481961301661188096/AWTC-WyckoffPhases.png)
   > "image of Wyckoff Events and Phases"
-
-* [@brian_armstrong's chart of bitcoin moonshots.]
-(https://twitter.com/brian_armstrong/status/1009192006512328704","http://i.imgur.com/1ODWbbd.png]
-  > "About the historical bull and bear markets"
 
 * [@cryptinfominer]
 (https://twitter.com/cryptinfominer/status/1021871857832742913]
@@ -265,8 +256,7 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Technical Analysis Rating Research](https://www.marketvolume.com/technicalanalysis/rating.asp)
   > "Technical Indicators Rating by Performance on the daily charts"
 
-* [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
-  > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
+
 
 * [Trading Cryptocurrencies - Order Blocks, ICT, & Bitcoin Targets](https://www.youtube.com/watch?v=Ou_BPr84GHY)
   > "A live twitch session exploring order-blocks, ICT concepts, and entry-signals through looking at Bitcoin, Ethereum & $Lend price-action."
@@ -274,6 +264,9 @@ To become comprehensive. For a start, its a lightly organized list.
 
 * [How i became a crypto-mining millionarie in under 2 years during a bear market](https://www.reddit.com/r/CryptoCurrency/comments/ab7qce/how_i_became_a_cryptomining_millionarie_in_under/?st=jqd0rymx&sh=4d2edb97)
   > "Have the mindset in crypto that everyone is against you. They are using you for their own benefit/gains. No matter what type of relationship you have with individuals you meet online at the end of the day it means nothing. You steal 100k? Its forgotten after a while, You donated 100k? it's forgotten after a while. Nobody truly gives a shit. It's just them reacting too a certain situation in the moment. The reality is they only care about themselves and theirs nothing wrong with that. I remember reading threads on /r/cryptocurrency in the last bull-run where everyone was holding hands, singing kumbaya, and talking about lambos... Did you guys all think you were gonna make gains? Someone has to lose for the other person to win. High majority of this space works just like a ponzi and it should be treated as such."
+
+
+
 
 
 ### Moving Averages  [**^**](#contents)
@@ -300,6 +293,9 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Stop loss hunting: Whale manipulation strategies](https://steemit.com/cryptocurrencies/@cryptobroye/stop-loss-hunting-whale-manipulation-strategies-2)
   > "Stop-loss hunting is the act of intentionally pushing the price down through a major support level to trigger stop-loss orders, creating a flash-crash which can then be used to buy coins on the cheap.\n\nIt is incredibly easy to do with anything that has low volume at any point during the day, which is a vast majority of cryptos outside the top 15."
 
+* [Manipulation: Vital information on market movement and how to read WHALE efforts for $profit!](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf) 
+  > "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
+
 ### Macd [**^**](#contents)
 
 * [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
@@ -307,6 +303,12 @@ To become comprehensive. For a start, its a lightly organized list.
 
 
 ### Economics [**^**](#contents)
+
+* [How to trade ALTS keeping in mind BTC Price action?](https://medium.com/@tradingroomapp/how-to-trade-alts-keeping-in-mind-btc-price-action-40a22edc5411)
+[[**T**](https://twitter.com/CryptoChoe/status/1012031916160233472)
+  > "So you must have came across this dilemma of whether to trade ALTs or not when you are shaky about BTC Price Action."
+
+
 
 
 * [Fully Diluted Market Value](https://avc.com/2018/10/fully-diluted-market-value/)
@@ -418,9 +420,13 @@ To become comprehensive. For a start, its a lightly organized list.
 * [@JimAllmendinger share image of market cycles](https://twitter.com/JimAllmendinger/status/1044710492923617281)
   > "@JimAllmendinger Bitcoin has a 4 year cycle that's programmed into the system."
 ![](https://pbs.twimg.com/media/Dn-ObUOU8AAdPPq.jpg)
+* [@brian_armstrong's chart of bitcoin moonshots](https://twitter.com/brian_armstrong/status/1009192006512328704)
+![](http://i.imgur.com/1ODWbbd.png)
 
 ### Speculation-Market Theses [**^**](#contents)
 
+* [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
+  > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
 
 ### Books [**^**](#contents)
 
@@ -478,6 +484,10 @@ To become comprehensive. For a start, its a lightly organized list.
 
 * [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
 
+
+
+* [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
+  > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
 
 ### Twitter Follows [**^**](#contents)
