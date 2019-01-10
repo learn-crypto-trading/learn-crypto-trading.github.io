@@ -11,8 +11,12 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Candlestick Patterns](#candlestick-patterns-)
 * [More Patterns](#more-patterns-)
 * [Divergance](#Divergance-)
+* [Risk Management](#risk-management-)
+* [Indicators](#indicators-)
 * [General](#general-)
+* [Arbitrage](#arbitrage-)
 * [Moving Averages](#moving-averages-)
+* [Wyckoff](#wyckoff-)
 * [Manipulation](#manipulation-)
 * [MACD](#macd-)
 * [Economics](#economics-)
@@ -94,6 +98,7 @@ To become comprehensive. For a start, its a lightly organized list.
   > "1. Everything Starts and Ends with Candlesticks. If you do not understand how to read candlesticks, you should not be trading. There are infinitely many sites and graphs that explain them, but because when I learned it in 2004 there were very few, I’m still partial to Chart School on StockCharts.com. Try to read a few PDF’s like here, here & here, but if you search the web, you should be able to find books as well.\n\nTone Trading Tip: The candlesticks that matter to me are Doji, Shooting Star & Hammer. If you learn anything from my video’s & seminars, I hope it’s how to utilize these 3 candles."
 
 
+* Bullish Patterns<img src="https://media.discordapp.net/attachments/350717439388024835/362750300513107978/unknown_2.png"/>
 
 ### More Patterns  [**^**](#contents)
 
@@ -112,6 +117,9 @@ To become comprehensive. For a start, its a lightly organized list.
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
 
 
+* [What is a Dead Cat Bounce? - Investopedia](https://www.investopedia.com/terms/d/deadcatbounce.asp)
+  > "A dead cat bounce is a temporary recovery from a prolonged decline or a bear market that is followed by the continuation of the downtrend. A dead cat bounce is a small, short-lived recovery in the price of a declining security, such as a stock. Frequently, downtrends are interrupted by brief periods of recovery — or small rallies — where prices temporarily rise. The name \"dead cat bounce\" is based on the notion that even a dead cat will bounce if it falls far enough and fast enough."
+
 ### Divergance  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
@@ -129,7 +137,7 @@ To become comprehensive. For a start, its a lightly organized list.
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
 
-### Risk Managment
+### Risk Managment [**^**](#contents)
 
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
@@ -137,7 +145,7 @@ To become comprehensive. For a start, its a lightly organized list.
 * [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
   > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
 
-### Indicators
+### Indicators [**^**](#contents)
 
 * [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
   > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
@@ -153,8 +161,18 @@ To become comprehensive. For a start, its a lightly organized list.
 
 * [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
   > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
+* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
+
+
+
+
+* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
+  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
 
 ### General  [**^**](#contents)
+
+
+
 
 * [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
   > "TA Lessons:\n\n\ni) Supply & Demand \nii) Support & Resistance \niii) Swing Failure Pattern \niv) Trading Ranges \nv) Divergences \nvi) Trends & Reversals \nvii) Miscellaneous\n\nMost of my trading setups are a concoction of the aforementioned"
@@ -181,34 +199,10 @@ To become comprehensive. For a start, its a lightly organized list.
   > "1/  \"What news or event could reverse the bear trend?\" Is the question I get asked most frequently.  I think it's the wrong question based on a faulty assumption.  People often mistakenly assume that the current trend (bull or bear) will continue until some exogenous event."
 
 
-
-* [Distribution Schematic #1: Wyckoff Events and Phases](http://i.imgur.com/LbtrMJG.png)
-  > "image of Wyckoff Events and Phases"
-
-* [What are Wyckoff Phases?](https://cdn.discordapp.com/attachments/354298918768738305/481961301661188096/AWTC-WyckoffPhases.png)
-  > "image of Wyckoff Events and Phases"
-
 * [@cryptinfominer]
 (https://twitter.com/cryptinfominer/status/1021871857832742913]
   > "The proper reason to show asset prices as logarithmic is that equal distances mean equal returns. $1 -> $2 same as $100 -> $200.\" -@jmcorgan"
 
-* [@AltcoinPsycho on Alt Season](https://twitter.com/AltcoinPsycho/status/1021928481200824322)
-  > "Altcoin trading tip:\n\nUse ETH as your leading indicator for \"when alt season?\", and wait for it to bottom out before buying alts. \n\nUntil then - the rest is just noise "
-
-* [@nebraskangooner - Wyckoff: Law of effort vs result](https://twitter.com/nebraskangooner/status/1024463540181258240)
-![](https://pbs.twimg.com/media/DjegKETU4AEw7s7.jpg:large)
-
-* [@Wolf__Daddy on accumulation phases](https://twitter.com/Wolf__Daddy/status/1012258460673683461)
-  > "The next phase in $Crypto appears to be the accumulation phase, accumulation phases often last a lot longer than most people expect, so there will be plenty of time to accumulate, no need to rush or fomo during an accumulation phase. This is the time to research and plan ahead."
-
-* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
-
-* [What is a Dead Cat Bounce? - Investopedia](https://www.investopedia.com/terms/d/deadcatbounce.asp)
-  > "A dead cat bounce is a temporary recovery from a prolonged decline or a bear market that is followed by the continuation of the downtrend. A dead cat bounce is a small, short-lived recovery in the price of a declining security, such as a stock. Frequently, downtrends are interrupted by brief periods of recovery — or small rallies — where prices temporarily rise. The name \"dead cat bounce\" is based on the notion that even a dead cat will bounce if it falls far enough and fast enough."
-
-* [@KunalDaSen shares a potential growth pattern for Bitcoin](https://twitter.com/KunalDaSen/status/1029016530640625664)
-![](https://pbs.twimg.com/media/DkfND3OW4AIUrHy.jpg:large)
-  > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
 * [@CryptoCred on bad trading habits](https://twitter.com/CryptoCred/status/1033796583333289986)
   > "I traded like crap this week. \n\nSloppy, rushed, arrogant. \n\nI’ve worked through all my losing trades in August so far and identified some common mistakes. \n\nI’ve compiled them into a list of questions — I hope you find it helpful. "
@@ -221,36 +215,24 @@ To become comprehensive. For a start, its a lightly organized list.
   > "@CarpeNoctom shares ideas on CME Futures $BTC contract dates"
 
 
-* [Image explaining Conditional Sell orders in Bittrex](https://cdn.discordapp.com/attachments/350717439388024835/350728664322932746/microbtc-bittrex.jpg)
+* Conditional Sell orders in Bittrex <img src="https://cdn.discordapp.com/attachments/350717439388024835/350728664322932746/microbtc-bittrex.jpg"/>
   > "How to use a Conditional Sell order in Bittrex"
 
-* [Bullish Chart Patterns](https://media.discordapp.net/attachments/350717439388024835/362750300513107978/unknown_2.png)
-  > "Bullish Chart Patterns"
 
-* [VentureCoinist trading bot](https://twitter.com/VentureCoinist/status/1034570394190135298)
-  > "What I like about the 🤖:\n\n\nIt's free\nIt will probably outperform the signal service you could pay for\nNo hindsight, everything tweeted/timestamped\nNo larping screenshots\n\nSome of you even researched or want to build your own strats, which imo is the best."
 
 * [The 25 Point Mantra: discipline of](http://www.r-5.org/files/books/trading/schoolbooks/Douglas_E_Zalesky-The_25-point_Mantra-EN.pdf)
   > "The success that a trader achieves in the markets is directly correlated to one’s trading discipline or lack thereof. Trading discipline is 90 percent of the game. The formula is very simple:Trade with discipline and you will succeed; trade without discipline and you will fail."
 
-* [Sierra Chart - High Performance Trading Platform](https://sierrachart.com)
-  > "Sierra Chart is a professional Trading platform for the financial markets which is integrated with many externally available trading services. It supports Live and Simulated trading. Both manual and automated trading is supported.\nSierra Chart is a complete Real-time and Historical, Charting and Technical Analysis platform for the financial markets.\nSierra Chart fully supports the open specification Data and Trading Communications Protocol for the community.\nSierra Chart provides an optional high quality direct CME / CBOT / NYMEX / COMEX / Eurex / ICE / HKFE / Euronext / LIFFE / NYSE / NASDAQ / TSX / Montréal Futures / Cash Indices realtime market data feed. There is an additional cost for real-time exchange data. Real-time Forex/CFD data is included at no additional cost.\nSupport for charting and trading in the Cryptocurrency markets.\nSierra Chart uses the very best engineering and design practices to produce well-organized, fast and ultra rocksolid software and services. We continue to strive to be as best as we can be.\n\ntrading platform with lots of features, like footprint charts, heatmaps and all that  . has poloniex, bitmex, bitfinex and okcoin currently"
 
-* [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
-  > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
+
 
 
 * [@alistairmilne on patience](https://twitter.com/alistairmilne/status/1037793389629108224)
   > "Investing is about conviction and patience. Daily news and volatility are noises meant to distract you from your investment thesis and shake out the weak hands"
 
-* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
-  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
-
 * [@CryptoHornHairs shares Position Size Calculator](https://twitter.com/CryptoHornHairs/status/1041112269927505921) [[**D**](https://docs.google.com/spreadsheets/d/1FD5lTMDs6ZQrmZrsULMjnmT-gH15Y2OYTjYPFoAHd9c/edit#gid=0)]
   > "🎚️ Get dialed in with this easy to use position size calculator made by @Corn_crypto 🎚️\n\nMake a copy of the doc for yourself, enter your stack size, entry, risk % per trade, and stop loss, then the rest is Google doc magic 🙏🧙‍♂️"
 
-* [How Traders Use Cryptocurrency Arbitrage to Make Profits](https://medium.com/blocktoken/how-traders-use-cryptocurrency-arbitrage-to-make-profits-8e5f3adb75c4)
-  > "Arbitrage is the simultaneous buying and selling of an asset class on different markets in order to profit from a price discrepancy between them. For example, a trader might notice that a specific token is selling for less on Exchange A than on Exchange B. An arbitrage trader would buy said token on Exchange A and sell it for a higher price on Exchange B, making a risk free profit in the process."
 
 
 * [Technical Analysis Rating Research](https://www.marketvolume.com/technicalanalysis/rating.asp)
@@ -267,6 +249,10 @@ To become comprehensive. For a start, its a lightly organized list.
 
 
 
+### Arbitrage [**^**](#contents)
+
+* [How Traders Use Cryptocurrency Arbitrage to Make Profits](https://medium.com/blocktoken/how-traders-use-cryptocurrency-arbitrage-to-make-profits-8e5f3adb75c4)
+  > "Arbitrage is the simultaneous buying and selling of an asset class on different markets in order to profit from a price discrepancy between them. For example, a trader might notice that a specific token is selling for less on Exchange A than on Exchange B. An arbitrage trader would buy said token on Exchange A and sell it for a higher price on Exchange B, making a risk free profit in the process."
 
 
 ### Moving Averages  [**^**](#contents)
@@ -278,6 +264,19 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Yarr’s Beginners Guide: How to use Moving Averages to Day Trade](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
   > "https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/"
 
+
+* [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
+  > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
+
+
+### Wyckoff [**^**](#contents)
+
+* [@nebraskangooner - Wyckoff: Law of effort vs result](https://twitter.com/nebraskangooner/status/1024463540181258240)
+![](https://pbs.twimg.com/media/DjegKETU4AEw7s7.jpg:large)
+* [What are Wyckoff Phases?](https://cdn.discordapp.com/attachments/354298918768738305/481961301661188096/AWTC-WyckoffPhases.png)
+  > "image of Wyckoff Events and Phases"
+* [Distribution Schematic #1: Wyckoff Events and Phases](http://i.imgur.com/LbtrMJG.png)
+  > "image of Wyckoff Events and Phases"
 
 
 ### Manipulation [**^**](#contents)
@@ -309,6 +308,16 @@ To become comprehensive. For a start, its a lightly organized list.
   > "So you must have came across this dilemma of whether to trade ALTs or not when you are shaky about BTC Price Action."
 
 
+
+
+
+
+
+* [@AltcoinPsycho on Alt Season](https://twitter.com/AltcoinPsycho/status/1021928481200824322)
+  > "Altcoin trading tip:\n\nUse ETH as your leading indicator for \"when alt season?\", and wait for it to bottom out before buying alts. \n\nUntil then - the rest is just noise "
+
+* [@Wolf__Daddy on accumulation phases](https://twitter.com/Wolf__Daddy/status/1012258460673683461)
+  > "The next phase in $Crypto appears to be the accumulation phase, accumulation phases often last a lot longer than most people expect, so there will be plenty of time to accumulate, no need to rush or fomo during an accumulation phase. This is the time to research and plan ahead."
 
 
 * [Fully Diluted Market Value](https://avc.com/2018/10/fully-diluted-market-value/)
@@ -352,6 +361,8 @@ To become comprehensive. For a start, its a lightly organized list.
   > "Averages Tweets and Hearts"
 * [OnChainFX](https://onchainfx.com/)
   > "good alternative to CMC - multi blockchain explorer"
+* [VentureCoinist trading bot](https://twitter.com/VentureCoinist/status/1034570394190135298)
+  > "What I like about the 🤖:\n\n\nIt's free\nIt will probably outperform the signal service you could pay for\nNo hindsight, everything tweeted/timestamped\nNo larping screenshots\n\nSome of you even researched or want to build your own strats, which imo is the best."
 
 * [chainz.cryptoid.info](https://chainz.cryptoid.info/)
   > "more visual global charts - Blockchain Explorers"
@@ -406,7 +417,9 @@ To become comprehensive. For a start, its a lightly organized list.
   >- Displays monthly open only on timeframes lower than monthly 
 
 
-
+* [Sierra Chart - High Performance Trading Platform](https://sierrachart.com)
+  > "Sierra Chart is a professional Trading platform for the financial markets which is integrated with many externally available trading services. It supports Live and Simulated trading. Both manual and automated trading is supported.\nSierra Chart is a complete Real-time and Historical, Charting and Technical Analysis platform for the financial markets.\nSierra Chart fully supports the open specification Data and Trading Communications Protocol for the community.\nSierra Chart provides an optional high quality direct CME / CBOT / NYMEX / COMEX / Eurex / ICE / HKFE / Euronext / LIFFE / NYSE / NASDAQ / TSX / Montréal Futures / Cash Indices realtime market data feed. There is an additional cost for real-time exchange data. Real-time Forex/CFD data is included at no additional cost.\nSupport for charting and trading in the Cryptocurrency markets.\nSierra Chart uses the very best engineering and design practices to produce well-organized, fast and ultra rocksolid software and services. We continue to strive to be as best as we can be.\n\ntrading platform with lots of features, like footprint charts, heatmaps and all that  . has poloniex, bitmex, bitfinex and okcoin currently"
+  
 ### Protocols [**^**](#contents)
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)
@@ -427,6 +440,9 @@ To become comprehensive. For a start, its a lightly organized list.
 
 * [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
   > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
+* [@KunalDaSen shares a potential growth pattern for Bitcoin](https://twitter.com/KunalDaSen/status/1029016530640625664)
+![](https://pbs.twimg.com/media/DkfND3OW4AIUrHy.jpg:large)
+  > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
 ### Books [**^**](#contents)
 
