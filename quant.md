@@ -27,26 +27,3 @@
   > "We were mostly concentrated on forecasting accuracy and experimenting around that before and we touched backtesting issue very briefly and using code from the Mike Halls-Moore’s book. Of course having a nice backtesting code allows to build really good strategies with risk management, money management and consider different scenarios, but if you’re researching just signals obtained from different data sources (even it’s just historical prices) with use of machine learning you need something simpler to understand if these signals to go long or short are really useful. Basically we just want to check the difference between prices and multiply it by signal sign — up or down and accumulate this info during test period."
 * [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
   > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
-
-### Data
-
-* https://www.reddit.com/r/CryptoCurrency/comments/988lxb/i_have_5_years_of_coinmarketcapcom_crypto_price/?utm_source=reddit-android
-* https://panelpicker.sxsw.com/vote/91245
-* https://www.blockchaintransparency.org/reports
-* https://blockchair.com/
-* https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics
-* https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum
-* https://blog.chainalysis.com/reports/money-supply-q3
-* https://twitter.com/ChartsBtc/media
-* https://twitter.com/BitcoinVisuals
-* https://twitter.com/coinmetrics
-* CoinMetrics.io (@coinmetrics)
-* https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-how-we-built-dataset
-* https://epicenter.tv/episode/254/
-* https://docs.google.com/spreadsheets/d/1ioxvJgJiZui9ZD1nud2oLpClYCFcnzvgvMucI56uy-g/edit#gid=1772156349
-* https://blog.nomics.com/flippening/crypto-market-data/
-* https://nomics.com
-* https://messari.substack.com/p/cmc-doesnt-suck-unqualified-opinions-4?utm_medium=web&utm_campaign=share-web
-* https://cryptowest.com/wp-content/uploads/2018/08/us-fsi-2018-global-blockchain-survey-report.pdf
-* https://cointelegraph.com/news/public-records-show-us-government-tripled-investment-in-blockchain-analysis-firms-in-2018
-* https://bitdb.network/
