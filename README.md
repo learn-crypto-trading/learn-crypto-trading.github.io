@@ -32,6 +32,9 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Twitter Follows](#twitter-follows-)
 * [Data Science—Quant-Algorithmic Trading](#Data-Science—Quant-Algorithmic-Trading-)
 * [Closing](#Brought-to-you-by-Crypto-Super-Source-)
+* [Cryptocurrency Evaluation and Why ICO's Fail](/evaluation.md)
+  * [Evaluation](/evaluation.md#evaluation)
+  * [Why ICO's Fail](/evaluation.md#why-icos-fail)
 
 ### 101 [**^**](#contents)
 
