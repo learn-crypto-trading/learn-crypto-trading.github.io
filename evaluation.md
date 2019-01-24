@@ -2,8 +2,6 @@
 
 ## Evaluation
 
-* [](https://concourseq.io/catalog/7731)
-
 * [The Best Fundamental Indicator - New Inflows](https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows)
   >A third, growing narrative (what I and others are terming the fat monies thesis) has been centered around positioning of Bitcoin (and other crypto-assets) as pure financial commodities. Positioned as a macro trade (possible crisis alpha in the event of a currency crisis), I believe this narrative resonates best with macro traders and institutions as the market is too speculative to evaluate in a bottom-up way and likely relatively overvalued given the lack of utility in most protocols. While the properties of an eventual SoV winner are hotly debated, this thinking frames my favorite fundamental indicator: where are new capital inflows coming from and what narrative (read: meme) are they latching on to?
 * [Invest in the ugly duckling — decentralization, product/market fit, and the law](https://medium.com/@jbackus/invest-in-the-ugly-duckling-decentralization-product-market-fit-and-the-law-bea856a6bbad)
