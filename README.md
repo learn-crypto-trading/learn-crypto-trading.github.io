@@ -4,6 +4,19 @@
 
 To become comprehensive. For a start, its a lightly organized list.
 
+### notes
+>Learn then Implement
+* An idea I heard on some podcast was a trader who would study individual traders.. read every single twitter post a trader they liked wrote. learning all these different mental models.
+* back in the bitcoin masons, I remember one dude saying that his big breakthrough was 2 weeks where he did nothing but just stare at the minute chart.
+  >this could be useful , it gives you real time view of price moving around levels
+* Soon I will start writing about TA: 
+  * Support, Resistance, Triangles, Wedges, RSI, Divergence and risk management... (and begin studying candlesticks more seriously) this will be the foundation I build upon in learning 'the trade'
+* I've paid attention to triangles, wedges, and divergence over the past year.. but not in any serious way..
+  >those are all good for trading low cap and binance alts
+* >learn to trade alts on binance using momentum /patterns/oscillators  , the learn price action as you go
+* >some of the best alt traders around dont use price action / candles only
+
+
 ### Contents
 
 * [101](#101-)
