@@ -470,6 +470,9 @@ https://coincheckup.com/
 
 ### Books [**^**](#contents)
 
+<img src="http://i.imgur.com/bLMLFio.png"/>
+https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be
+
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
   > "📊Forex/Crypto books for FREE 🎓Download books for complete beginners, basic concepts and techniques of trading as Chart Patterns, Day Trading, Elliott Wave Principles, Ichimoku, Psychology Of Trading, etc."
 
