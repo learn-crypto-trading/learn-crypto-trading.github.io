@@ -49,7 +49,7 @@ To become comprehensive. For a start, its a lightly organized list.
   * [Why ICO's Fail](/evaluation.md#why-icos-fail)
 
 
-### 101 [**^**](#contents)
+## 101 [**^**](#contents)
 
 * [Investopedia](https://www.investopedia.com)
   > "Investing Encyclopedia- knows everything."
@@ -57,11 +57,6 @@ To become comprehensive. For a start, its a lightly organized list.
   > "Where 'everyone' looks at charts"
   * [@cryptocreddy - tradingview tricks](https://medium.com/@cryptocreddy/5-useful-tradingview-tricks-30404ed41653)
     > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
-
-
-* [Recognising and trading Support and Resistance levels](https://steemit.com/bitcoin/@cryptobroye/success-strategies-5-recognising-and-tradin-support-and-resistance-levels) [[**ϟ**](https://www.youtube.com/watch?v=NNfofzh0Hls)]
-  > "Support and resistance are strong supply and demand ''lines in the sand'' that are specific prices on a certain financial instrument that are known from historical price movement to be a price that a large amount of buyers and sellers, institutional and private, will use to buy or sell a stock, index, Crypto-currency and other financial instruments."
-
 
 * [@wolfofpoloniex - Bare Basics of trading Cryptocurrency](https://steemit.com/cryptocurrency/@wolfofpoloniex/bare-basics-of-trading-cryptocurrency)
   "I have found that BASIC TA (Triangles, patterns, fib levels) is almost always more powerful than the more advanced stuff like Harmonics (Gartley / Butterfly patterns). I believe this is due to the fact that the large portion of new day-traders learn the basics and it works for them so they just stick to it. TA is supposed to be about understanding the mass’ psychology behind the markets, but with a market that is, for the most part, ‘simple’… then keeping it simple will turn out to be a lot more effective than throwing out advanced TA."
@@ -77,17 +72,25 @@ To become comprehensive. For a start, its a lightly organized list.
   > "I have been delaying writing this article for some time now, simply because of the number of sub-arguments that arise when one tries to answer whether technical analysis works.\n\nI am going to try to keep my arguments as simple and pertinent as possible. This article is primarily aimed at:\n\n— Those who have heard the term technical analysis but do not know what it entails\n\n— Those who are well aware of the practice but remain sceptical\n\nIt is at this point I should stress that by no means am I rehashing some orthodox doctrine on what technical analysis is and isn’t (if there were such a thing). These are my personal views and a way of thinking about technical analysis that has made me a better trader.\n\nMoreover, just to make my position clear: I am primarily a technical trader, therefore my implicit position is that technical analysis ‘works’ (to be defined later)."
 
 
+### Support and Resistance
+* [Recognising and trading Support and Resistance levels](https://steemit.com/bitcoin/@cryptobroye/success-strategies-5-recognising-and-tradin-support-and-resistance-levels) [[**ϟ**](https://www.youtube.com/watch?v=NNfofzh0Hls)]
+  > "Support and resistance are strong supply and demand ''lines in the sand'' that are specific prices on a certain financial instrument that are known from historical price movement to be a price that a large amount of buyers and sellers, institutional and private, will use to buy or sell a stock, index, Crypto-currency and other financial instruments."
+
+
+
+
 ### Wedges and Triangles [**^**](#contents)
 
 * [@Beastlyorion shows a Falling Wedge](https://twitter.com/Beastlyorion/status/1035972119472099329)
-![]https://pbs.twimg.com/media/DmCDGttUYAUrJuI.jpg:large)
+<img src="https://pbs.twimg.com/media/DmCDGttUYAUrJuI.jpg:large"/>
   > "you best be longing $ADA"
 
-* [@FedKassad on Falling Wedge](https://twitter.com/FedKassad/status/1035627093084827648","https://pbs.twimg.com/media/Dl9JVvuWsAEcGeW.jpg:large)
-  > "Shill me stuff that looks like this:"
+* <a href="https://twitter.com/FedKassad/status/1035627093084827648">@FedKassad on Falling Wedge</a>: "Shill me stuff that looks like this"
+<img src="https://pbs.twimg.com/media/Dl9JVvuWsAEcGeW.jpg:large"/>
 
-* [Ascending and Descending Triangles](https://twitter.com/PeterLBrandt/status/1039575413985398784)
-![](https://pbs.twimg.com/media/Dm1QPD2V4AEvcWd.jpg:large)
+
+* <img src="https://twitter.com/PeterLBrandt/status/1039575413985398784">Ascending and Descending Triangles</a>
+<img src="https://pbs.twimg.com/media/Dm1QPD2V4AEvcWd.jpg:large"/>
 
 
 * [SUCCESS STRATEGIES: Trading Crypto's/Equities with Triangle chart patterns.](https://steemit.com/cryptotrading/@cryptobroye/success-strategies-trading-crypto-s-equities-with-triangle-chart-patterns)
@@ -98,15 +101,16 @@ To become comprehensive. For a start, its a lightly organized list.
 
 ### Candlestick Patterns  [**^**](#contents)
 
-* [Bullish Candlestick Patterns](https://pbs.twimg.com/media/DmoTJNlXcAAPQza.jpg:large)
+<img src="http://i.imgur.com/ARhol90.png"/>
+<sup><a href="https://twitter.com/CryptoCred/status/1040700546221584384">@cryptocred on candlestick charts</a></sup>
+
+
+<img src="http://i.imgur.com/emgxi5I.png"/>
+
+<img src="https://pbs.twimg.com/media/DmoTJNlXcAAPQza.jpg:large"/>
   > "Bullish Candlestick Patterns"
 
-* [@cryptocred on candlestick charts](https://twitter.com/CryptoCred/status/1040700546221584384)
-  > "NEW Technical Analysis Video Lesson 💎\n\nIntroduction to Candlestick Charts\n\nIf you/your friends know zilch about technical analysis, this is the perfect place to start.\n\nCheck it out & be sure to leave a like/comment 👇"
 
-
-* [thepatternsite.com](http://thepatternsite.com/index.html)
-  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
 
 * [Price action trading - Inside bar/Engulfing bar chart patterns](https://steemit.com/bitcoin/@cryptobroye/success-strategies-3-price-action-trading-inside-bar-engulfing-bar-chart-patterns)
   > "Here are 2 extremely simple, yet extremely effective price action signals which can be used to trade any financial instrument, with precise entry and exit levels for day trades or longer term swing trades.\n\nThe first is known as an inside bar formation which consists of a large ''mother'' candle, and a proceeding 2-5 price candles that all sit inside the range of this mother candle, showing us a sign of consolidation and indecision in the prices next move."
@@ -446,7 +450,7 @@ https://cryptocoincharts.info
 https://coincheckup.com/ 
 ### Protocols [**^**](#contents)
 
-* [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)
+* [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)]
   > "Compound is a money market protocol on the Ethereum blockchain — allowing individuals, institutions, and applications to frictionlessly earn interest on or borrow cryptographic assets without having to negotiate with a counterparty or peer. Each market has dynamic interest rates, which float in real-time as market conditions adjust."
 
 ### Historical [**^**](#contents)
@@ -470,8 +474,8 @@ https://coincheckup.com/
 
 ### Books [**^**](#contents)
 
-<img src="http://i.imgur.com/bLMLFio.png"/>
-https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be
+<a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="http://i.imgur.com/bLMLFio.png"/></a>\
+[Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
 
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
   > "📊Forex/Crypto books for FREE 🎓Download books for complete beginners, basic concepts and techniques of trading as Chart Patterns, Day Trading, Elliott Wave Principles, Ichimoku, Psychology Of Trading, etc."
@@ -527,6 +531,8 @@ https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be
 
 * [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
 
+* [thepatternsite.com](http://thepatternsite.com/index.html)
+  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
 
 
 * [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
