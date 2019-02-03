@@ -2,26 +2,24 @@
 
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 
-To become comprehensive. For a start, its a lightly organized list.
 
-### notes
->Learn then Implement 
+## notes
+
+* > Learn then Implement 
 * An idea I heard on some podcast was a trader who would study individual traders.. read every single twitter post a trader they liked wrote. learning all these different mental models.
 * back in the bitcoin masons, I remember one dude saying that his big breakthrough was 2 weeks where he did nothing but just stare at the minute chart.
   >this could be useful , it gives you real time view of price moving around levels
 * Soon I will start writing about TA: 
   * Support, Resistance, Triangles, Wedges, RSI, Divergence and risk management... (and begin studying candlesticks more seriously) this will be the foundation I build upon in learning 'the trade'
 * I've paid attention to triangles, wedges, and divergence over the past year.. but not in any serious way..
-  >those are all good for trading low cap and binance alts
-* >learn to trade alts on binance using momentum /patterns/oscillators  , the learn price action as you go
-* >some of the best alt traders around dont use price action / candles only - source of above quotes: [@Waingro](https://twitter.com/krypt0nik) 
+  >those are all good for trading low cap and binance alts\
+  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
+  >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
 
 
 ### Contents
 
 * [101](#101-)
-  * [Wedges and Triangles](#wedges-and-triangles-)
-  * [Candlestick Patterns](#candlestick-patterns-)
   * [Divergence](#Divergence-)
   * [More Patterns](#more-patterns-)
   * [Risk Management](#risk-management-)
@@ -51,75 +49,26 @@ To become comprehensive. For a start, its a lightly organized list.
 
 ## 101 [**^**](#contents)
 
-* [Investopedia](https://www.investopedia.com)
-  > "Investing Encyclopedia- knows everything."
-* [Trading View](https://www.tradingview.com)
-  > "Where 'everyone' looks at charts"
+* [Investopedia](https://www.investopedia.com) - "Investing Encyclopedia- knows everything."
+* [BabyPips](https://babypips.com)
+* [Bulkowski's ThePatternSite](https://thepatternsite.com)
+* [Trading View](https://www.tradingview.com) - Tons of learning and ideas
   * [@cryptocreddy - tradingview tricks](https://medium.com/@cryptocreddy/5-useful-tradingview-tricks-30404ed41653)
     > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
-
+* [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
+  > Have a trading plan for the day/session. Here's a basic outline you can use:
+  >  * (Thesis) What's price reaching for? 
+  >  * (Setup) What does price have to do for me to enter a trade?
+  >  * (Entry) Where might a Setup arise?
+  >  * (Risk) Where would the Setup fail?
+  >  * (Reward) What's the Setup target?
 * [@wolfofpoloniex - Bare Basics of trading Cryptocurrency](https://steemit.com/cryptocurrency/@wolfofpoloniex/bare-basics-of-trading-cryptocurrency)
-  "I have found that BASIC TA (Triangles, patterns, fib levels) is almost always more powerful than the more advanced stuff like Harmonics (Gartley / Butterfly patterns). I believe this is due to the fact that the large portion of new day-traders learn the basics and it works for them so they just stick to it. TA is supposed to be about understanding the mass’ psychology behind the markets, but with a market that is, for the most part, ‘simple’… then keeping it simple will turn out to be a lot more effective than throwing out advanced TA."
-
+  >I have found that BASIC TA (Triangles, patterns, fib levels) is almost always more powerful than the more advanced stuff like Harmonics (Gartley / Butterfly patterns)
+* [ToneVays: This is a quick reference on Technical Trading and what you need to know](http://www.libertylifetrail.com/education/learntrading)
 * [The Biggest Regret of New Crypto Traders](https://steemit.com/cryptocurrency/@connecteconomy/the-biggest-regret-of-new-crypto-traders) 
   "I should have taken profits when the prices where up!"
-
-* [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
-  > "Have a trading plan for the day/session. Here's a basic outline you can use 👇\n\nWhat's price reaching for? (Thesis)\nWhat does price have to do for me to enter a trade? (Setup)\nWhere might a Setup arise? (Entry)\nWhere would the Setup fail? (Risk)\nWhat's the Setup target? (Reward)"
-
-
 * [Does Technical Analysis Work?](https://medium.com/@cryptocreddy/does-technical-analysis-work-fa90413a8328)
-  > "I have been delaying writing this article for some time now, simply because of the number of sub-arguments that arise when one tries to answer whether technical analysis works.\n\nI am going to try to keep my arguments as simple and pertinent as possible. This article is primarily aimed at:\n\n— Those who have heard the term technical analysis but do not know what it entails\n\n— Those who are well aware of the practice but remain sceptical\n\nIt is at this point I should stress that by no means am I rehashing some orthodox doctrine on what technical analysis is and isn’t (if there were such a thing). These are my personal views and a way of thinking about technical analysis that has made me a better trader.\n\nMoreover, just to make my position clear: I am primarily a technical trader, therefore my implicit position is that technical analysis ‘works’ (to be defined later)."
-
-
-### Support and Resistance
-* [Recognising and trading Support and Resistance levels](https://steemit.com/bitcoin/@cryptobroye/success-strategies-5-recognising-and-tradin-support-and-resistance-levels) [[**ϟ**](https://www.youtube.com/watch?v=NNfofzh0Hls)]
-  > "Support and resistance are strong supply and demand ''lines in the sand'' that are specific prices on a certain financial instrument that are known from historical price movement to be a price that a large amount of buyers and sellers, institutional and private, will use to buy or sell a stock, index, Crypto-currency and other financial instruments."
-
-
-
-
-### Wedges and Triangles [**^**](#contents)
-
-* [@Beastlyorion shows a Falling Wedge](https://twitter.com/Beastlyorion/status/1035972119472099329)
-<img src="https://pbs.twimg.com/media/DmCDGttUYAUrJuI.jpg:large"/>
-  > "you best be longing $ADA"
-
-* <a href="https://twitter.com/FedKassad/status/1035627093084827648">@FedKassad on Falling Wedge</a>: "Shill me stuff that looks like this"
-<img src="https://pbs.twimg.com/media/Dl9JVvuWsAEcGeW.jpg:large"/>
-
-
-* <img src="https://twitter.com/PeterLBrandt/status/1039575413985398784">Ascending and Descending Triangles</a>
-<img src="https://pbs.twimg.com/media/Dm1QPD2V4AEvcWd.jpg:large"/>
-
-
-* [SUCCESS STRATEGIES: Trading Crypto's/Equities with Triangle chart patterns.](https://steemit.com/cryptotrading/@cryptobroye/success-strategies-trading-crypto-s-equities-with-triangle-chart-patterns)
-  > "Fortunately there is a simpler way, and trust me when I say it will change your trading almost over night if you have some patience and master EVEN ONE of these patterns.\n\nI will note first, while the patterns can be traded on all time frames, the 1hr/4hr and 1D charts are the most successful by a long shot!"
-
-* [Trading Triangles](https://www.youtube.com/watch?v=MvdXlFwJqic) "Video on Triangles, TA, with Poor Audio :)"
-
-
-### Candlestick Patterns  [**^**](#contents)
-
-<img src="http://i.imgur.com/ARhol90.png"/>
-<sup><a href="https://twitter.com/CryptoCred/status/1040700546221584384">@cryptocred on candlestick charts</a></sup>
-
-
-<img src="http://i.imgur.com/emgxi5I.png"/>
-
-<img src="https://pbs.twimg.com/media/DmoTJNlXcAAPQza.jpg:large"/>
-  > "Bullish Candlestick Patterns"
-
-
-
-* [Price action trading - Inside bar/Engulfing bar chart patterns](https://steemit.com/bitcoin/@cryptobroye/success-strategies-3-price-action-trading-inside-bar-engulfing-bar-chart-patterns)
-  > "Here are 2 extremely simple, yet extremely effective price action signals which can be used to trade any financial instrument, with precise entry and exit levels for day trades or longer term swing trades.\n\nThe first is known as an inside bar formation which consists of a large ''mother'' candle, and a proceeding 2-5 price candles that all sit inside the range of this mother candle, showing us a sign of consolidation and indecision in the prices next move."
-
-* [ToneVays: This is a quick reference on Technical Trading and what you need to know](http://www.libertylifetrail.com/education/learntrading)
-  > "1. Everything Starts and Ends with Candlesticks. If you do not understand how to read candlesticks, you should not be trading. There are infinitely many sites and graphs that explain them, but because when I learned it in 2004 there were very few, I’m still partial to Chart School on StockCharts.com. Try to read a few PDF’s like here, here & here, but if you search the web, you should be able to find books as well.\n\nTone Trading Tip: The candlesticks that matter to me are Doji, Shooting Star & Hammer. If you learn anything from my video’s & seminars, I hope it’s how to utilize these 3 candles."
-
-
-* Bullish Patterns<img src="https://media.discordapp.net/attachments/350717439388024835/362750300513107978/unknown_2.png"/>
+* [Encyclopedia of Chart Patterns - Cheat Sheet](https://github.com/GIRCrypto/crypto-chart-patterns/blob/master/chart-patterns.md)
 
 ### More Patterns  [**^**](#contents)
 
@@ -137,9 +86,6 @@ To become comprehensive. For a start, its a lightly organized list.
 * [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
 
-
-* [What is a Dead Cat Bounce? - Investopedia](https://www.investopedia.com/terms/d/deadcatbounce.asp)
-  > "A dead cat bounce is a temporary recovery from a prolonged decline or a bear market that is followed by the continuation of the downtrend. A dead cat bounce is a small, short-lived recovery in the price of a declining security, such as a stock. Frequently, downtrends are interrupted by brief periods of recovery — or small rallies — where prices temporarily rise. The name \"dead cat bounce\" is based on the notion that even a dead cat will bounce if it falls far enough and fast enough."
 
 ### Divergence  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
