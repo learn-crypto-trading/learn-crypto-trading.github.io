@@ -1,4 +1,20 @@
-### Data Science—Quant-Algorithmic Trading [**^**](#contents) 
+# Algorithmic
+
+* [TA-Lib](http://ta-lib.org)
+  > TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data.
+  > 
+  > Includes 150+ indicators such as ADX, MACD, RSI, Stochastic, Bollinger Bands, etc.\
+  > Candlestick pattern recognition\
+  > Open-source API for C/C++, Java, Perl, Python and 100% Managed .NET
+
+  * https://github.com/mrjbq7/ta-lib - Python wrapper for TA-Lib
+
+* https://github.com/CryptoSignal/crypto-signal
+
+* [Technical Analysis Library - Pandas \ Python](https://towardsdatascience.com/technical-analysis-library-to-financial-datasets-with-pandas-python-4b2b390d3543)
+
+
+### Data Science—Quant [**^**](#contents) 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Bitmex perpetual swap](https://medium.com/@romanornr/bitmex-perpetual-swap-2d125a304dd)
