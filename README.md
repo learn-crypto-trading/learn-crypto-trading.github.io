@@ -3,19 +3,16 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 
 
-## notes
+## Ideas
 
 * > Learn then Implement 
-* An idea I heard on some podcast was a trader who would study individual traders.. read every single twitter post a trader they liked wrote. learning all these different mental models.
-* back in the bitcoin masons, I remember one dude saying that his big breakthrough was 2 weeks where he did nothing but just stare at the minute chart.
-  >this could be useful , it gives you real time view of price moving around levels
-* Soon I will start writing about TA: 
-  * Support, Resistance, Triangles, Wedges, RSI, Divergence and risk management... (and begin studying candlesticks more seriously) this will be the foundation I build upon in learning 'the trade'
-* I've paid attention to triangles, wedges, and divergence over the past year.. but not in any serious way..
-  >those are all good for trading low cap and binance alts\
-  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
+* >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
   >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
+* Shadow traders on twitter.
+* stare at the minute chart for two weeks
 
+
+trading.
 
 ### Contents
 
@@ -45,13 +42,17 @@
 * [Cryptocurrency Evaluation and Why ICO's Fail](/evaluation.md)
   * [Evaluation](/evaluation.md#evaluation)
   * [Why ICO's Fail](/evaluation.md#why-icos-fail)
-
+---
+* [chart-patterns.md](/chart-patterns.md) - resources related to various chart patterns.
+* [candlesticks.md](/candlesticks.md) - a start
+* [quant.md](/quant.md) - Resources related to algorithmic 
 
 ## 101 [**^**](#contents)
 
 * [Investopedia](https://www.investopedia.com) - "Investing Encyclopedia- knows everything."
 * [BabyPips](https://babypips.com)
 * [Bulkowski's ThePatternSite](https://thepatternsite.com)
+* [Candle Scanner](https://candlescanner.com) - data similar to Bulkowski
 * [Trading View](https://www.tradingview.com) - Tons of learning and ideas
   * [@cryptocreddy - tradingview tricks](https://medium.com/@cryptocreddy/5-useful-tradingview-tricks-30404ed41653)
     > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
@@ -446,7 +447,6 @@ https://coincheckup.com/
 * [Google Drive TradingBooks 2](https://drive.google.com/open?id=0B9b4K-iw1yCoZmVobm8wcHNIS2s)
   > "Trading Books Shared Directory"
 
-* [@TradersLibrary on Telegram](https://telegram.me/joinchat/AAppPT3cOnM48-Kqbm7FGg)
 
 
 

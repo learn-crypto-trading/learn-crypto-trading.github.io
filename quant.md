@@ -10,7 +10,10 @@
   * https://github.com/mrjbq7/ta-lib - Python wrapper for TA-Lib
 
 * https://github.com/CryptoSignal/crypto-signal
-
+* https://github.com/techietrader/Trading-indicators-and-Chart-patterns
+* https://github.com/munrocket/ta-math
+* https://github.com/Trendz/candlestick
+* https://github.com/anandanand84/technicalindicators
 * [Technical Analysis Library - Pandas \ Python](https://towardsdatascience.com/technical-analysis-library-to-financial-datasets-with-pandas-python-4b2b390d3543)
 
 
