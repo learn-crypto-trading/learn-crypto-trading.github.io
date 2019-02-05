@@ -1,18 +1,18 @@
 # learn-crypto-trading
 
-<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
 
 
 ## Ideas
 
 * > Learn then Implement 
-* >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
+  >
+  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
   >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
-
-trading.
 
 ### Contents
 
@@ -491,9 +491,9 @@ https://coincheckup.com/
 ---
 
 ### Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Check out some of my [other projects](https://github.com/infominer33/learn-crypto-trading/blob/master/projects.md)!!!
+[infominer.id](https://infominer.id)
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
