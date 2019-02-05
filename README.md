@@ -1,5 +1,7 @@
 # learn-crypto-trading
 
+Organizing resources as I learn, and maybe someone will ask me to write on crypto trading. If I can write about and understand some things about crypto protocols, then I can learn and write about trading too. I have all these resources organized and ready.
+
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 
