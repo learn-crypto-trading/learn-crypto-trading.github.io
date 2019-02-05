@@ -427,8 +427,6 @@ https://coincheckup.com/
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
   > "📊Forex/Crypto books for FREE 🎓Download books for complete beginners, basic concepts and techniques of trading as Chart Patterns, Day Trading, Elliott Wave Principles, Ichimoku, Psychology Of Trading, etc."
 
-* [Repository of Trading Books](https://github.com/hientm36/gnidart)
-  > "Repository of Trading Books"
 
 * [Another Collection of Trading Books](http://gann.su/book/eng/)
 
@@ -440,9 +438,6 @@ https://coincheckup.com/
 
 * [Crypto Trader Central Books Library](https://library.cryptotradercentral.com/)
   > "Bunches of Trading Books"
-
-* [Google Drive TradingBooks](https://drive.google.com/drive/folders/1Q6uznnEm7yDT9RrqKkF2_uXdfKttxA_M)
-  > "Trading Books Shared Directory"
 
 * [Google Drive TradingBooks 2](https://drive.google.com/open?id=0B9b4K-iw1yCoZmVobm8wcHNIS2s)
   > "Trading Books Shared Directory"
