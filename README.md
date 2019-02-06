@@ -7,9 +7,7 @@ Organizing resources as I learn, and maybe someone will ask me to write on crypt
 This is the beginnings of a nice collection of resources for trading crypto that will grow to include any number of related topics.
 
 
-
-
-## Ideas
+## notes
 
 * > Learn then Implement 
   >
@@ -19,7 +17,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * stare at the minute chart for two weeks
 
 
-### Contents
+## Contents
 
 * [101](#101-)
   * [Divergence](#Divergence-)
@@ -112,12 +110,12 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [Does Technical Analysis Work?](https://medium.com/@cryptocreddy/does-technical-analysis-work-fa90413a8328)
 * [Encyclopedia of Chart Patterns - Cheat Sheet](https://github.com/GIRCrypto/crypto-chart-patterns/blob/master/chart-patterns.md)
 
-### Paper Trading
+## Paper Trading
 
 * https://blocksdecoded.com/cryptocurrency-trading-simulators/
 
 
-### More Patterns  [**^**](#contents)
+## More Patterns  [**^**](#contents)
 
 * [ABCD Pattern Trading](http://www.profitf.com/articles/patterns/abcd-pattern-trading/)
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
@@ -134,7 +132,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
 
 
-### Divergence  [**^**](#contents)
+## Divergence  [**^**](#contents)
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
 
@@ -154,7 +152,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
 
-### Risk Management [**^**](#contents)
+## Risk Management [**^**](#contents)
 
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
@@ -162,7 +160,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
   > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
 
-### Indicators [**^**](#contents)
+## Indicators [**^**](#contents)
 
 * [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
   > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
@@ -186,7 +184,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
   > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
 
-### General  [**^**](#contents)
+## General  [**^**](#contents)
 
 
 
@@ -266,13 +264,13 @@ This is the beginnings of a nice collection of resources for trading crypto that
 
 
 
-### Arbitrage [**^**](#contents)
+## Arbitrage [**^**](#contents)
 
 * [How Traders Use Cryptocurrency Arbitrage to Make Profits](https://medium.com/blocktoken/how-traders-use-cryptocurrency-arbitrage-to-make-profits-8e5f3adb75c4)
   > "Arbitrage is the simultaneous buying and selling of an asset class on different markets in order to profit from a price discrepancy between them. For example, a trader might notice that a specific token is selling for less on Exchange A than on Exchange B. An arbitrage trader would buy said token on Exchange A and sell it for a higher price on Exchange B, making a risk free profit in the process."
 
 
-### Moving Averages  [**^**](#contents)
+## Moving Averages  [**^**](#contents)
 
 * [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
   > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
@@ -281,7 +279,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
 
 
-### Wyckoff [**^**](#contents)
+## Wyckoff [**^**](#contents)
 
 * [@nebraskangooner - Wyckoff: Law of effort vs result](https://twitter.com/nebraskangooner/status/1024463540181258240)
 ![](https://pbs.twimg.com/media/DjegKETU4AEw7s7.jpg:large)
@@ -294,7 +292,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
 
 
 
-### Manipulation [**^**](#contents)
+## Manipulation [**^**](#contents)
 
 
 * [How Fear Is Being Used to Manipulate Cryptocurrency Markets](https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/how-fear-is-being-used-manipulate-cryptocurrency-markets)
@@ -310,13 +308,13 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [Manipulation: Vital information on market movement and how to read WHALE efforts for $profit!](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf) 
   > "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
 
-### Macd [**^**](#contents)
+## Macd [**^**](#contents)
 
 * [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
   > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
 
 
-### Economics [**^**](#contents)
+## Economics [**^**](#contents)
 
 * [How to trade ALTS keeping in mind BTC Price action?](https://medium.com/@tradingroomapp/how-to-trade-alts-keeping-in-mind-btc-price-action-40a22edc5411)
 [[**T**](https://twitter.com/CryptoChoe/status/1012031916160233472)
@@ -339,7 +337,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   > "When someone asks you how much of a company you own, the answer could be two very different numbers. You might own 10,000 shares and there might be 1mm shares issued and outstanding. That would suggest you own 1% of the company. And that would be correct, as of right now.\n\nWhat is often not calculated in these sorts of numbers is future dilution, particularly dilution that is visible if you look closely. The most common form of future dilution that is visible are outstanding options and warrants to issue stock that have not been exercised."
 
 
-### Leverage [**^**](#contents)
+## Leverage [**^**](#contents)
 
 * [@CryptoCred on Trading -w- Leverage](https://medium.com/@cryptocreddy/comprehensive-guide-to-position-size-and-leverage-2e27764ce9e0)
   > "Nearly every day, whether on Twitter, Telegram, or Discord, I see traders struggling to understand how to calculate their position sizes and generally make sense of leveraged trading.\n\nIn this article, I’ll break the concepts down to first principles and give you a very simple way to calculate position size, as well as understand how and when to employ leverage."
@@ -360,7 +358,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
 
 
 
-### Tools-n-Apps [**^**](#contents)
+## Tools-n-Apps [**^**](#contents)
 
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
@@ -441,12 +439,13 @@ This is the beginnings of a nice collection of resources for trading crypto that
 https://cryptocoincharts.info
 
 https://coincheckup.com/ 
-### Protocols [**^**](#contents)
+
+## Protocols [**^**](#contents)
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)]
   > "Compound is a money market protocol on the Ethereum blockchain — allowing individuals, institutions, and applications to frictionlessly earn interest on or borrow cryptographic assets without having to negotiate with a counterparty or peer. Each market has dynamic interest rates, which float in real-time as market conditions adjust."
 
-### Historical [**^**](#contents)
+## Historical [**^**](#contents)
 
 * [@MoonOverlord on Doge Cycles](https://twitter.com/MoonOverlord/status/1009912924822016002)
   > "Interesting symmetry in between the timing of $DOGE cycles over the last few years\n\nDoge has long been a signal for #altseason"
@@ -457,7 +456,7 @@ https://coincheckup.com/
 * [@brian_armstrong's chart of bitcoin moonshots](https://twitter.com/brian_armstrong/status/1009192006512328704)
 ![](http://i.imgur.com/1ODWbbd.png)
 
-### Speculation-Market Theses [**^**](#contents)
+## Speculation-Market Theses [**^**](#contents)
 
 * [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
   > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
@@ -465,7 +464,7 @@ https://coincheckup.com/
 ![](https://pbs.twimg.com/media/DkfND3OW4AIUrHy.jpg:large)
   > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
-### Books [**^**](#contents)
+## Books [**^**](#contents)
 
 <a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="http://i.imgur.com/bLMLFio.png"/></a>\
 [Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
@@ -492,7 +491,7 @@ https://coincheckup.com/
 
 
 
-### Videos [**^**](#contents)
+## Videos [**^**](#contents)
 
 * [Trader Dante on Youtube](https://www.youtube.com/channel/UCT43ffXmotx7i903Yxcwxjw/videos)
   > "obligatory watching"
@@ -500,13 +499,13 @@ https://coincheckup.com/
 * [@CryptoCred Price Action Webinar #1](https://twitter.com/CryptoCred/status/1035223770267611136)
   > "Price Action Webinar #1 - Retests"
 
-### Podcasts [**^**](#contents)
+## Podcasts [**^**](#contents)
 
 * [Flippening Podcast](https://pca.st/P5sC)
   > "Flippening - For Cryptocurrency Investors (Bitcoin, Ethereum, and Cryptoasset Investing)"
 
 
-### Resources [**^**](#contents)
+## Resources [**^**](#contents)
 
 * [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
   > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
@@ -526,17 +525,15 @@ https://coincheckup.com/
   > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
 
-### Twitter Follows [**^**](#contents)
+## Twitter Follows [**^**](#contents)
 
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
 
 
-
-
 ---
 
-### Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
+## Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 [infominer.id](https://infominer.id)
