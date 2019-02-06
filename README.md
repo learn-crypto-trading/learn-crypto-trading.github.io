@@ -65,6 +65,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   * [Resources](/chart-patterns.md#resources-)
 * [**candlesticks.md**](/candlesticks.md) - a start
 * [**evaluation.md**](/evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
+* [**economics.md**](/economics.md) - crypto-economics
 * [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
   * [Guides-Articles](/quant.md#guides-articles-)
   * [CryptoQF](/quant.md#cryptoqf-)
