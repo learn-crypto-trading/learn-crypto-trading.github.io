@@ -47,11 +47,46 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [Cryptocurrency Evaluation and Why ICO's Fail](/evaluation.md)
   * [Evaluation](/evaluation.md#evaluation)
   * [Why ICO's Fail](/evaluation.md#why-icos-fail)
----
-### Other Files in this Repo
+
+## Other Files in this Repo
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
+  * [Intro](/chart-patterns.md#intro-)
+  * [Chart Patterns](/chart-patterns.md#chart-patterns-)
+  * [Triangles](/chart-patterns.md#triangles-)
+  * [Flags and Pennants](/chart-patterns.md#flags-and-pennants-)
+  * [Wedges](/chart-patterns.md#wedges-)
+  * [Rectangles](/chart-patterns.md#rectangles-)
+  * [Double Bottoms](/chart-patterns.md#double-bottoms-)
+  * [Double Tops](/chart-patterns.md#double-tops-)
+  * [Triple Bottoms and Tops](/chart-patterns.md#triple-bottoms-and-tops-)
+  * [Cup With Handle](/chart-patterns.md#cup-with-handle-)
+  * [Head and Shoulders](/chart-patterns.md#head-and-shoulders-)
+  * [Dead-Cat Bounce](/chart-patterns.md#dead-cat-bounce-)
+  * [Gaps](/chart-patterns.md#gaps-)
+  * [Rounding Bottoms](/chart-patterns.md#rounding-bottoms-)
+  * [Rounding Tops](/chart-patterns.md#rounding-tops-)
+  * [Bump-and-Run Reversals](/chart-patterns.md#bump-and-run-reversal-bottoms-)
+  * [Diamond Tops and Bottoms](/chart-patterns.md#diamond-tops-and-bottoms-)
+  * [Hanging Man](/chart-patterns.md#hanging-man-)
+  * [Inside Days](/chart-patterns.md#inside-days-)
+  * [Outside Days](/chart-patterns.md#outside-days-)
+  * [Measured Move Down](/chart-patterns.md#measured-move-down-)  * [Measured Move Up](/chart-patterns.md#measured-move-up-)
+  * [Pipe Bottoms and Tops](/chart-patterns.md#pipe-bottoms-and-tops-)
+  * [Scallops](/chart-patterns.md#scallops-)
+  * [Broadening Formations](/chart-patterns.md#broadening-formations-)
+  * [Statistics](/chart-patterns.md#statistics-)
+  * [Resources](/chart-patterns.md#resources-)
 * [**candlesticks.md**](/candlesticks.md) - a start
 * [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
+  * [Guides-Articles](/quant.md#guides-articles-)
+  * [CryptoQF](/quant.md#cryptoqf-)
+  * [Exchanges-API](/quant.md#exchanges-api-)
+  * [Books](/quant.md#books-)
+  * [Academic Literature](/quant.md#academic-literature-)
+  * [Software Libraries](/quant.md#software-libaries-)
+  * [Videos](/quant.md#videos-)
+  * [Podcasts](/quant.md#podcasts-)
+  * [Resources](/quant.md#resources-)
 
 ## 101 [**^**](#contents)
 
