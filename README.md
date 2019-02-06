@@ -1,16 +1,18 @@
 # learn-crypto-trading
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Organizing resources as I learn, and if you are in need of in-depth research-based content [**contact me**](https://infominer.id).
+Organizing resources as I go, for now its just a loose collection.
 
-I can write about nearly any subject because I enjoy the research.
+If you are in need of in-depth research-based content [**contact me**](https://infominer.id).
+
+I will happily write about almost any subject related to crypto that isn't advertisment for some shady enterprise. I enjoy the research.
 
 This is the beginnings of a nice collection of resources for trading crypto, economics, data-science, finance and related topics.
 
 ## Contents
 
 * [Other Files](#other-files)
-* [Notes](#notes)
+* [Introduction](#introduction)
 * [101](#101-)
 * [Divergence](#divergence-)
 * [More Patterns](#more-patterns-)
@@ -33,7 +35,7 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
 * [Podcasts](#podcasts-)
 * [Resources](#resources-)
 * [Twitter Follows](#twitter-follows-)
-* [Closing](#Brought-to-you-by-Crypto-Super-Source-)
+* [Closing](#infominerid-contact-me-for-research-based-content-)
 
 ## Other Files
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
@@ -81,7 +83,14 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
 https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
 
-## notes
+## Introduction
+
+I'm beginning serious study of Technical Analysis with:
+
+* John J.Murphy - Technical Analysis Of The Financial Markets.pdf
+* Bulkowski - Encyclopedia of Chart Patterns
+
+The more I learn the more I'll fill out and organize this repository. I'm also still migrating info from the [SuperSource](http://crypt0library.net).
 
 * > Learn then Implement 
   >
