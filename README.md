@@ -1,10 +1,11 @@
 # learn-crypto-trading
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
+Organizing resources as I learn, and ideally someone looking for in-depth research-based content will [**contact me**](https://infominer.id).
 
-Organizing resources as I learn, and maybe someone will ask me to write on crypto trading. If I can write and understand some things about crypto protocols, then I can learn and write about trading too. 
+I can write about nearly any subject because I enjoy the research.
 
-This is the beginnings of a nice collection of resources for trading crypto that will grow to include any number of related topics.
+This is the beginnings of a nice collection of resources for trading crypto, economics, data-science, finance and related topics.
 
 ## Contents
 
