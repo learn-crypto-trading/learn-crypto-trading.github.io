@@ -1,7 +1,7 @@
 # learn-crypto-trading
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Organizing resources as I learn, and ideally someone looking for in-depth research-based content will [**contact me**](https://infominer.id).
+Organizing resources as I learn, and if you are in need of in-depth research-based content [**contact me**](https://infominer.id).
 
 I can write about nearly any subject because I enjoy the research.
 
@@ -77,6 +77,8 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
   * [Videos](/quant.md#videos-)
   * [Podcasts](/quant.md#podcasts-)
   * [Resources](/quant.md#resources-)
+
+https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
 
 ## notes
