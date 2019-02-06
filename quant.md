@@ -104,7 +104,7 @@
   > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
 
 
-## Exchanges-API[**^**](#contents)
+## Exchanges-API[ **^**](#contents)
 
 * [nomics.com](https://nomics.com/) - 100% of Nomics Was Created With Our Free Crypto API. Free Instant Access 
 * [Coinigy.com - The All-In-One Cryptocurrency API](https://www.coinigy.com/bitcoin-api/)
@@ -121,7 +121,7 @@
 * [Python-Binance.readthedocs.io](https://python-binance.readthedocs.io/en/latest/overview.html)
 
 
-## Books[**^**](#contents)
+## Books [**^**](#contents)
 
 * [Financial Modelling in Python — S. Fletcher & C. Gardner](https://uhs.es/Financial%20Modelling%20in%20Python.pdf)
 * [Python for Finance - Yves Hilpisch (Oreily)](https://doc.lagout.org/programmation/python/Python%20for%20Finance_%20Analyze%20Big%20Financial%20Data%20%5BHilpisch%202014-12-27%5D.pdf)
@@ -134,7 +134,7 @@
    > "I recommend the book to both new traders and pros. New traders can use the book as a good starting point in their research. Pros can use the tools described in the book to enhance their existing strategies."
 
 
-## Academic Literature[**^**](#contents)
+## Academic Literature[**^**] (#contents)
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Are Weather-Based Trading Strategies Profitable?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111467)
@@ -145,7 +145,7 @@
 
 
 
-## Software Libraries[**^**](#contents)
+## Software Libraries [**^**](#contents)
 
 * [TA-Lib](http://ta-lib.org)
   > TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data.
