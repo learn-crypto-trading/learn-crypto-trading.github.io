@@ -431,9 +431,9 @@ https://coincheckup.com/
 ---
 
 ## Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
-'<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-[infominer.id](https://infominer.id)
+**Contact me for research based content—[infominer.id](https://infominer.id)**
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
