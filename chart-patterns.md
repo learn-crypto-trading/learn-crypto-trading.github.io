@@ -55,7 +55,7 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
   * [Right-Angled](#right-angled-)
 * [Statistics](#statistics-)
 * [Resources](#resources-)
-
+* [**Home**](/README.md) - Back to the main directory.
 
 ## Intro
 Deciding how to organize patterns, and their relative importance. So first I'm gathering how others do it.

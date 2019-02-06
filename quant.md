@@ -11,6 +11,7 @@
 * [Videos](#videos-)
 * [Podcasts](#podcasts-)
 * [Resources](#resources-)
+* [**Home**](/README.md) - Back to the main directory.
 
 ## Guides-Articles[**^**](#contents)
 

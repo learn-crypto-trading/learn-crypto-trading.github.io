@@ -6,27 +6,18 @@ Organizing resources as I learn, and maybe someone will ask me to write on crypt
 
 This is the beginnings of a nice collection of resources for trading crypto that will grow to include any number of related topics.
 
-
-## notes
-
-* > Learn then Implement 
-  >
-  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
-  >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
-* Shadow traders on twitter.
-* stare at the minute chart for two weeks
-
-
 ## Contents
 
+* [Other Files](#other-files)
+* [Notes](#notes)
 * [101](#101-)
-  * [Divergence](#Divergence-)
-  * [More Patterns](#more-patterns-)
-  * [Risk Management](#risk-management-)
-  * [Indicators](#indicators-)
+* [Divergence](#divergence-)
+* [More Patterns](#more-patterns-)
+* [Risk Management](#risk-management-)
+* [Indicators](#indicators-)
 * [General](#general-)
-  * [Arbitrage](#arbitrage-)
- * [Moving Averages](#moving-averages-)
+* [Arbitrage](#arbitrage-)
+* [Moving Averages](#moving-averages-)
 * [Wyckoff](#wyckoff-)
 * [Manipulation](#manipulation-)
 * [MACD](#macd-)
@@ -42,11 +33,8 @@ This is the beginnings of a nice collection of resources for trading crypto that
 * [Resources](#resources-)
 * [Twitter Follows](#twitter-follows-)
 * [Closing](#Brought-to-you-by-Crypto-Super-Source-)
-* [Cryptocurrency Evaluation and Why ICO's Fail](/evaluation.md)
-  * [Evaluation](/evaluation.md#evaluation)
-  * [Why ICO's Fail](/evaluation.md#why-icos-fail)
 
-## Other Files in this Repo
+## Other Files
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
   * [Intro](/chart-patterns.md#intro-)
   * [Chart Patterns](/chart-patterns.md#chart-patterns-)
@@ -75,6 +63,7 @@ This is the beginnings of a nice collection of resources for trading crypto that
   * [Statistics](/chart-patterns.md#statistics-)
   * [Resources](/chart-patterns.md#resources-)
 * [**candlesticks.md**](/candlesticks.md) - a start
+* [**evaluation.md**](/evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
 * [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
   * [Guides-Articles](/quant.md#guides-articles-)
   * [CryptoQF](/quant.md#cryptoqf-)
@@ -85,6 +74,17 @@ This is the beginnings of a nice collection of resources for trading crypto that
   * [Videos](/quant.md#videos-)
   * [Podcasts](/quant.md#podcasts-)
   * [Resources](/quant.md#resources-)
+
+
+## notes
+
+* > Learn then Implement 
+  >
+  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
+  >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
+* Shadow traders on twitter.
+* stare at the minute chart for two weeks
+
 
 ## 101 [**^**](#contents)
 
@@ -534,7 +534,7 @@ https://coincheckup.com/
 ---
 
 ## Brought to you by [Crypto Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents) 
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+'<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 [infominer.id](https://infominer.id)
 
