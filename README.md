@@ -48,9 +48,10 @@ This is the beginnings of a nice collection of resources for trading crypto that
   * [Evaluation](/evaluation.md#evaluation)
   * [Why ICO's Fail](/evaluation.md#why-icos-fail)
 ---
-* [chart-patterns.md](/chart-patterns.md) - resources related to various chart patterns.
-* [candlesticks.md](/candlesticks.md) - a start
-* [quant.md](/quant.md) - Resources related to algorithmic 
+### Other Files in this Repo
+* [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
+* [**candlesticks.md**](/candlesticks.md) - a start
+* [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
 
 ## 101 [**^**](#contents)
 
@@ -75,6 +76,11 @@ This is the beginnings of a nice collection of resources for trading crypto that
   "I should have taken profits when the prices where up!"
 * [Does Technical Analysis Work?](https://medium.com/@cryptocreddy/does-technical-analysis-work-fa90413a8328)
 * [Encyclopedia of Chart Patterns - Cheat Sheet](https://github.com/GIRCrypto/crypto-chart-patterns/blob/master/chart-patterns.md)
+
+### Paper Trading
+
+* https://blocksdecoded.com/cryptocurrency-trading-simulators/
+
 
 ### More Patterns  [**^**](#contents)
 
