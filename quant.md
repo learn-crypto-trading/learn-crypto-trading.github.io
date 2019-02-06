@@ -225,4 +225,17 @@
 * [PythonAndTrading.com](http://www.pythonandtrading.com/)
   >Getting started with algorithmic trading using Python and a bit of machine learning
 
+---
 
+## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
+**Tips appreciated**
+
+BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
+
+![](http://i.imgur.com/d0HQmuV.png) 
+
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png) 

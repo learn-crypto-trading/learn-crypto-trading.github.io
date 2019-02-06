@@ -187,6 +187,12 @@ A **reliable bearish reversal** where second candle is bullish with a longer bod
 * [Bulkowski - Three Outside Up](http://thepatternsite.com/ThreeOutsideUp.html)
 * [TradingView - Scripts - Three Outside Up](https://www.tradingview.com/script/I3wsW0Fs-Three-Outside-Up-automatic-finding-script/)
 
+### Shooting Star
+**Shooting Star is supposed to be a bearish reversal** occuring in an uptrend. [Accoring to bulkowski](http://thepatternsite.com/ShootingStar.html) that reversal happens only 60% of the time.
+
+Overall I will pass on these, since there is no clear indication from either.
+
+
 ### Abandoned Baby
 
 <a href="http://instaforexpips.com/abandoned-baby-candlestick-pattern/"><img src="http://i.imgur.com/REaogYY.png"/></a>
@@ -242,6 +248,9 @@ The following are the top performing candlesticks from a pirated copy of Bulkows
 
 Another I'll pass on until I can DYOR.
 
+
+
+
 ### Window, Falling
 
 ### Two Black Gapping Candle
@@ -257,12 +266,17 @@ Another I'll pass on until I can DYOR.
 ### Downside Tasuki Gap
 
 
-## Pass
+---
 
+## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-### Shooting Star
+**Tips appreciated**
 
-**Shooting Star is supposed to be a bearish reversal** occuring in an uptrend. [Accoring to bulkowski](http://thepatternsite.com/ShootingStar.html) that reversal happens only 60% of the time.
+BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-Overall I will pass on these, since there is no clear indication from either.
+![](http://i.imgur.com/d0HQmuV.png) 
 
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png) 
