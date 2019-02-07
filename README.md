@@ -170,6 +170,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 
 ## Indicators [**^**](#contents)
 
+* ![](http://i.imgur.com/ZL3NcaI.png)
 * [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
   > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
 * [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
@@ -446,14 +447,20 @@ https://coincheckup.com/
 
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
-
+* [@CryptoCred on Bitmex Leverage Traders to Follow](https://twitter.com/CryptoCred/status/1072155645896523776)
+  [![](http://i.imgur.com/IJM1VD8.png)](https://twitter.com/CryptoCred/status/1072155645896523776)
+* [Ramano](https://twitter.com/RNR_0) says he only follows OG's 2015 or earlier.
+* [@YORK780 #FF](https://twitter.com/YORK780/status/1035558963033632769)
+  >[![](http://i.imgur.com/eqsXynh.png)](https://twitter.com/YORK780/status/1035558963033632769)
+* [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
+  >[![](http://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
 
 ---
 
 ## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Join me in the Crypto SuperSource Discord Server, if you'd like to chat: - https://discord.gg/ahTuPMY
+Join me in the Crypto SuperSource Discord Server (where I began collecting all these resources), if you'd like to chat or check out the live stash: - https://discord.gg/ahTuPMY
 
 
 **Tips appreciated**
