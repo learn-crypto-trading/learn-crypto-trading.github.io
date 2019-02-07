@@ -125,6 +125,9 @@ Candlescanner has similar data, some overlapping with Bulkowsky, but more focuse
 
 ## Risk Management [**^**](#contents)
 
+<img src="http://i.imgur.com/VZafWyS.png"/>
+(<a href="https://youtu.be/Z5sb5muFHqg?t=771">Source</a>)
+
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
 * [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
