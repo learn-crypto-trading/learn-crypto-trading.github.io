@@ -26,8 +26,9 @@ I took some liberty by not including the same video in more than one section, an
   [![](http://i.imgur.com/xdWVrM7.png)](https://www.youtube.com/watch?v=Y_kgRn-79nU&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=4)
 * [Top 5 Behavioral Biases That Hurt Traders & Investors](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=5) - 21:28
   [![](http://i.imgur.com/BZeqTz4.png)](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=5)
-* [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) - 19:07
+* [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) - 19:07\
   [![](http://i.imgur.com/VwDjoiO.png)](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6)
+
 ### Education Library
 * [Bitcoin ETF Analysis; Van Eck CBOE SolidX ETF](https://www.youtube.com/watch?v=hbKnESr7bzY&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL&index=9) - 35:41
 * [Why Traders & Gamblers go BROKE](https://www.youtube.com/watch?v=qFoTQG_0Zyk&index=10&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) - 24:27
