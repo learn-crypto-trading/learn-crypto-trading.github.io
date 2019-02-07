@@ -19,17 +19,14 @@ If you'd just like to chat or check out the rest of our crypto resources, join t
 
 * [Other Files](#other-files)
 * [Introduction](#introduction)
-* [101](#101-)
-* [Divergence](#divergence-)
-* [More Patterns](#more-patterns-)
+* [Starter Pack](#starter-pack-)
 * [Risk Management](#risk-management-)
-* [Indicators](#indicators-)
 * [General](#general-)
+* [Indicators](#indicators-)
+* [Divergence](#divergence-)
 * [Arbitrage](#arbitrage-)
-* [Moving Averages](#moving-averages-)
 * [Wyckoff](#wyckoff-)
 * [Manipulation](#manipulation-)
-* [MACD](#macd-)
 * [Economics](#economics-)
 * [Leverage](#leverage)
 * [Tools-N-Apps](#tools-n-apps-)
@@ -92,7 +89,7 @@ https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
 ## Introduction
 
-I'm beginning serious study of Technical Analysis with:
+I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
 * Bulkowski - Encyclopedia of Chart Patterns
@@ -106,13 +103,36 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
+## Starter Pack [**^**](#contents)
 
-## 101 [**^**](#contents)
+Search for almost anything and add any or all of the following sites to successive search queries — depending on what your looking for.
 
-* [Investopedia](https://www.investopedia.com) - "Investing Encyclopedia- knows everything."
-* [BabyPips](https://babypips.com)
+* [Investopedia](https://www.investopedia.com) - Investopedia has chart school where you can learn basic patterns, and its encyclopedia includes knowledge on most subjects in trading, including cryptocurrency.
+
+* [BabyPips](https://babypips.com) - has a chart school and a lot of pattern related information.
+
 * [Bulkowski's ThePatternSite](https://thepatternsite.com)
+  >Thomas Bulkowski is an internationally known author and trader with 35+ years of market experience and regarded as a leading expert on chart patterns.
+
+Bulkowski has run stats on more chart patterns than anyone. I would recommend getting your hands on copies of hist Encyclopdia of Chart Patterns and\or his Encyclopedia of Candlestick Patterns if you can. 
+
 * [Candle Scanner](https://candlescanner.com) - data similar to Bulkowski
+
+Candlescanner has similar data, some overlapping with Bulkowsky, but more focused on candlestick patterns.
+
+* [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
+
+
+## Risk Management [**^**](#contents)
+
+* [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
+  > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
+* [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
+  > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
+* [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
+  >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
+
+## General  [**^**](#contents)
 
 * [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
   > Have a trading plan for the day/session. Here's a basic outline you can use:
@@ -127,14 +147,6 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * [The Biggest Regret of New Crypto Traders](https://steemit.com/cryptocurrency/@connecteconomy/the-biggest-regret-of-new-crypto-traders) 
   "I should have taken profits when the prices where up!"
 * [Does Technical Analysis Work?](https://medium.com/@cryptocreddy/does-technical-analysis-work-fa90413a8328)
-
-## Paper Trading
-
-* https://blocksdecoded.com/cryptocurrency-trading-simulators/
-
-
-## More Patterns  [**^**](#contents)
-
 * [ABCD Pattern Trading](http://www.profitf.com/articles/patterns/abcd-pattern-trading/)
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
 * [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
@@ -143,51 +155,6 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
   >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
 * [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
-
-
-## Divergence  [**^**](#contents)
-* [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
-![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
-* https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
-* [The Relative Strength is not an Overbought/Oversold Indicator](http://www.technical-analysis.com/learnTA/RSINotOBOS/RSINotOBOS.html)
-  > "The Relative Strength Index is never an overbought/oversold indicator. If you did not learn Relative Strength Index from the original text, then it is very likely that you have been taught the wrong thing right from the beginning - that RSI is an overbought/oversold indicator. I want to tell you straight away that this is wrong."
-* [@CryptoCred on RSI and Divergence](https://twitter.com/CryptoCred/status/1037772897241255936)
-  > "Important point about RSI: \n\nAfter a big move/candle there will almost always be a regular divergence. \n\nDon’t use it to try to snipe the bottom or top.\n\nDivergences work better when they form during a discernible trend, NOT after a bazooka candle like yesterday."
-* [Best RSI Guide for Cryptocurrency You’ll Ever Find](https://blog.zerononcense.com/2018/10/23/best-rsi-guide-for-cryptocurrency-on-earth/)
-  > "As mentioned before, you only need one type of indicator. So, if you’re using both the RSI and the Stochastic RSI, you’re wasting your time. They both are leading(1) momentum(2) indicators that look at the same thing — is a crypto oversold or overbought? Therefore, you just need one. Study the both of them or another momentum indicator that makes the same determination and choose one.\n\nUnderstanding How and When to Use the Indicator"
-* [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
-  > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
-
-
-## Risk Management [**^**](#contents)
-
-* [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
-  > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
-* [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
-  > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
-* [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
-  >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
-
-## Indicators [**^**](#contents)
-
-* ![](http://i.imgur.com/ZL3NcaI.png)
-* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
-  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
-* [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
-  > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
-* [Ichimoku Cloud Definition: Day Trading Terminology](https://medium.com/@WarriorTrading/ichimoku-cloud-definition-day-trading-terminology-7b34e98d2ea2)
-  > "The Ichimoku Cloud is among the most versatile technical indicators. It identifies support and resistance levels, gauges momentum, identifies the direction of trends and provides trading signals.\n\nWith one single glance, traders can identify the trends in securities and examine further signals within that trend. While this indicator might seem complicated, it is actually a very simple indicator that is highly useful for all traders."
-* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
-  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
-* [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
-  > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
-* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
-  [![](http://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
-* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
-  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
-
-## General  [**^**](#contents)
-
 * [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
   > "TA Lessons:\n\n\ni) Supply & Demand \nii) Support & Resistance \niii) Swing Failure Pattern \niv) Trading Ranges \nv) Divergences \nvi) Trends & Reversals \nvii) Miscellaneous\n\nMost of my trading setups are a concoction of the aforementioned"
 * [The Pyramid trade management strategy](https://steemit.com/bitcoin/@cryptobroye/success-strategies-6-the-pyramid-trade-management-strategy) [[**ϟ**](https://www.youtube.com/watch?v=aulZ5JYeU1Q)]
@@ -226,19 +193,45 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 
 
 
+## Indicators [**^**](#contents)
+
+* ![](http://i.imgur.com/ZL3NcaI.png)
+* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
+  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
+* [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
+  > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
+* [Ichimoku Cloud Definition: Day Trading Terminology](https://medium.com/@WarriorTrading/ichimoku-cloud-definition-day-trading-terminology-7b34e98d2ea2)
+  > "The Ichimoku Cloud is among the most versatile technical indicators. It identifies support and resistance levels, gauges momentum, identifies the direction of trends and provides trading signals.\n\nWith one single glance, traders can identify the trends in securities and examine further signals within that trend. While this indicator might seem complicated, it is actually a very simple indicator that is highly useful for all traders."
+* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
+  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
+* [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
+  > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
+* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
+  [![](http://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
+* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
+  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
+* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
+  > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
+
+
+## Divergence  [**^**](#contents)
+* [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
+![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
+* https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
+* [The Relative Strength is not an Overbought/Oversold Indicator](http://www.technical-analysis.com/learnTA/RSINotOBOS/RSINotOBOS.html)
+  > "The Relative Strength Index is never an overbought/oversold indicator. If you did not learn Relative Strength Index from the original text, then it is very likely that you have been taught the wrong thing right from the beginning - that RSI is an overbought/oversold indicator. I want to tell you straight away that this is wrong."
+* [@CryptoCred on RSI and Divergence](https://twitter.com/CryptoCred/status/1037772897241255936)
+  > "Important point about RSI: \n\nAfter a big move/candle there will almost always be a regular divergence. \n\nDon’t use it to try to snipe the bottom or top.\n\nDivergences work better when they form during a discernible trend, NOT after a bazooka candle like yesterday."
+* [Best RSI Guide for Cryptocurrency You’ll Ever Find](https://blog.zerononcense.com/2018/10/23/best-rsi-guide-for-cryptocurrency-on-earth/)
+  > "As mentioned before, you only need one type of indicator. So, if you’re using both the RSI and the Stochastic RSI, you’re wasting your time. They both are leading(1) momentum(2) indicators that look at the same thing — is a crypto oversold or overbought? Therefore, you just need one. Study the both of them or another momentum indicator that makes the same determination and choose one.\n\nUnderstanding How and When to Use the Indicator"
+* [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
+  > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
+
+
 ## Arbitrage [**^**](#contents)
 
 * [How Traders Use Cryptocurrency Arbitrage to Make Profits](https://medium.com/blocktoken/how-traders-use-cryptocurrency-arbitrage-to-make-profits-8e5f3adb75c4)
   > "Arbitrage is the simultaneous buying and selling of an asset class on different markets in order to profit from a price discrepancy between them. For example, a trader might notice that a specific token is selling for less on Exchange A than on Exchange B. An arbitrage trader would buy said token on Exchange A and sell it for a higher price on Exchange B, making a risk free profit in the process."
-
-
-## Moving Averages  [**^**](#contents)
-
-* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
-  > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
-
-* [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
-  > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
 
 
 ## Wyckoff [**^**](#contents)
@@ -297,7 +290,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps [**^**](#contents)
-
+* https://blocksdecoded.com/cryptocurrency-trading-simulators/
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
 * [Six New and Improved Cryptocurrency Analysis Tools](https://news.bitcoin.com/six-new-and-improved-cryptocurrency-analysis-tools/)
@@ -373,6 +366,10 @@ https://coincheckup.com/
 ![](http://i.imgur.com/1ODWbbd.png)
 
 ## Speculation-Market Theses [**^**](#contents)
+
+* [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
+  > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
+
 
 * [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
   > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
