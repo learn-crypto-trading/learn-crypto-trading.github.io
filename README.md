@@ -3,11 +3,15 @@
 
 Organizing resources as I go, for now its just a loose collection.
 
-If you are in need of research-driven content, [**contact me**](https://infominer.id).
+This is the beginnings of a nice collection of resources for trading crypto, economics, data-science, finance and related topics.
+
+---
+
+[**Contact me**](https://infominer.id) if you need research driven content.
 
 I will happily write about almost any subject related to crypto that isn't advertisment for some shady enterprise. I enjoy the research.
 
-This is the beginnings of a nice collection of resources for trading crypto, economics, data-science, finance and related topics.
+---
 
 ## Contents
 
