@@ -271,6 +271,9 @@ Another I'll pass on until I can DYOR.
 ## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+
+
 **Tips appreciated**
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR

@@ -7,9 +7,11 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
 
 ---
 
-[**Contact me**](https://infominer.id) if you need research driven content.
+[**Contact me**](https://infominer.id) if you need research driven content. 
 
-I will happily write about almost any subject related to crypto that isn't advertisment for some shady enterprise. I enjoy the research.
+OR
+
+If you'd just like to chat or check out the rest of our crypto resources, join the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), where most of these links came from.
 
 ---
 
@@ -450,6 +452,9 @@ https://coincheckup.com/
 
 ## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
+Join me in the Crypto SuperSource Discord Server, if you'd like to chat: - https://discord.gg/ahTuPMY
+
 
 **Tips appreciated**
 

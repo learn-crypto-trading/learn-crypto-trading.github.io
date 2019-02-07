@@ -46,7 +46,10 @@ Pinescript was made to be easy accessible and easy to understand. Pine is cloud-
 ### Trade on Tradingview \ Pinescript Alerts
 
 since you can't trade on tradingview, these sites trade based on its alerts.
+#### Do It Yourself (DIY)
+* [bevry-trading/automated-trading](https://github.com/bevry-trading/automated-trading)
 
+#### Subscription Based
 * [3commas.io](https://3commas.io) — [How to use TradingView Custom Signals](https://support.3commas.io/hc/en-us/articles/360010108254--10-08-18-How-to-use-TradingView-Custom-Signals)
 * [Autoview](https://autoview.with.pink) - Automate Your Trades with Tradingview Alerts.
   * [Autoview Youtube Channel](https://www.youtube.com/channel/UCMdSMlXmbdSy8Z2NUZzYJNQ)
@@ -61,3 +64,22 @@ since you can't trade on tradingview, these sites trade based on its alerts.
 
 * [Pinescripts.com](http://www.pinescripts.com/)
 * [Kodify.net - TradingView Programming Articles](https://kodify.net/tradingview-programming-articles/)
+
+
+---
+
+## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+
+
+**Tips appreciated**
+
+BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
+
+![](http://i.imgur.com/d0HQmuV.png) 
+
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png) 

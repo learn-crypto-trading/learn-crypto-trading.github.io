@@ -184,9 +184,10 @@
 * [/pirate/crypto-trader](https://github.com/pirate/crypto-trader) - "moneybag Cryptocurrency trading bot library with a simple example strategy."
 * [/rochars/trade](https://github.com/rochars/trade)
   >A paradigm for financial applications. Reference implementation in Python. #EleNão
+* [/Haehnchen/crypto-trading-bot/](https://github.com/Haehnchen/crypto-trading-bot)
 
 
-## Videos[**^**](#contents)
+## Videos [**^**](#contents)
 
 * [Algorithmic Trading with Python and Quantopian p. 1](https://www.youtube.com/watch?v=GlV_QO5B2eU)
 > In this tutorial, we're going to begin talking about strategy back-testing. The field of back testing, and the requirements to do it right are pretty massive. Basically, what's required for us is to create a system that will take historical pricing data and simulate trading in that environment, and then gives us the results."
@@ -229,6 +230,9 @@
 
 ## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+
 
 **Tips appreciated**
 
