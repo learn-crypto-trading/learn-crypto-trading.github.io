@@ -79,6 +79,7 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
   * [Videos](/quant.md#videos-)
   * [Podcasts](/quant.md#podcasts-)
   * [Resources](/quant.md#resources-)
+* [**pinescript.md**](/pinescript.md) - Learn Pinescript and some TradingView tipsntricks.
 
 https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
@@ -106,9 +107,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * [BabyPips](https://babypips.com)
 * [Bulkowski's ThePatternSite](https://thepatternsite.com)
 * [Candle Scanner](https://candlescanner.com) - data similar to Bulkowski
-* [Trading View](https://www.tradingview.com) - Tons of learning and ideas
-  * [@cryptocreddy - tradingview tricks](https://medium.com/@cryptocreddy/5-useful-tradingview-tricks-30404ed41653)
-    > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
+
 * [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
   > Have a trading plan for the day/session. Here's a basic outline you can use:
   >  * (Thesis) What's price reaching for? 
@@ -160,6 +159,8 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
 * [One of the Most Important Concepts in Trading](https://cryptowest.com/2018/08/24/one-important-concepts-trading/)
   > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
+* [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
+  >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
 
 ## Indicators [**^**](#contents)
 
@@ -286,7 +287,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
   > "John & Rob are trading on BitMEX\n\nJohn buys 100 XBTUSD contracts at 2X leverage at $6,000.\n\nRob buys 100 XBTUSD contracts at 50X leverage at $6,000.\n\nPrice moves up 1% from their entries — they both close their positions.\n\nAssume all else is equal.\n\nWho made more money/XBT?"
 * [@CryptoCred Answer on Bitmex](https://twitter.com/CryptoCred/status/1032329625815457799)
   > "The answer: ‘Same’.\n\nThey have the same position size and they’re both up 1%.\n\nRob using higher leverage does NOT mean that he’s trading with more than 100 contracts!\n\nHigher leverage simply means Rob puts up less collateral (margin) to open the same 100 contract position."
-
+* [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps [**^**](#contents)
 
@@ -395,6 +396,8 @@ https://coincheckup.com/
 * [Google Drive TradingBooks 2](https://drive.google.com/open?id=0B9b4K-iw1yCoZmVobm8wcHNIS2s)
   > "Trading Books Shared Directory"
 
+
+* [The Greatest Trading Books Ever Written](https://hackernoon.com/the-greatest-trading-books-ever-written-7302bcc3901e)
 
 
 
