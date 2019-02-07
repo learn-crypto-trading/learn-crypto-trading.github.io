@@ -6,7 +6,10 @@ The other day, I saw CryptoQF write that his goal was to make the best and most 
 
 Looking at [his Youtube Channel](https://www.youtube.com/channel/UCnVOQqymq5ZQkG536EItX0Q/playlists) I see there are a dozen playlists.
 
-Being the nerd that I am I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to see what he's got?
+* [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/htmlview)
+* [publish0x.com/@CryptoQuantamental](https://www.publish0x.com/@CryptoQuantamental)
+
+Being the nerd that I am — I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to navigate?
 
 ## Youtube Playlists
 
@@ -25,7 +28,6 @@ I took some liberty by not including the same video in more than one section, an
   [![](http://i.imgur.com/BZeqTz4.png)](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=5)
 * [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) - 19:07
   [![](http://i.imgur.com/VwDjoiO.png)](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6)
-
 ### Education Library
 * [Bitcoin ETF Analysis; Van Eck CBOE SolidX ETF](https://www.youtube.com/watch?v=hbKnESr7bzY&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL&index=9) - 35:41
 * [Why Traders & Gamblers go BROKE](https://www.youtube.com/watch?v=qFoTQG_0Zyk&index=10&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) - 24:27
