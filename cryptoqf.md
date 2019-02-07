@@ -14,14 +14,14 @@ I took some liberty by not including the same video in more than one section, an
 
 ### Foundational Education to Investing and Trading
 * [**Stop Making These Common Trading and Investing Mistakes**](https://www.youtube.com/watch?v=Z5sb5muFHqg&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=1) - 20:54
-  [![](http://i.imgur.com/Zx5P9UY.png)](https://www.youtube.com/watch?v=Z5sb5muFHqg&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=1)
-* [How to Calculate Investment and Trade Returns (Performance)](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2) - 19:24
-  [![](http://i.imgur.com/TGS9oMV.png)](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2)
-* [The Different Crypto Trading and Investing Strategies](https://www.youtube.com/watch?v=phi0UkZC5Fk&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=3) - 28:48
+  [![](http://i.imgur.com/pvgZ2mE.png)](https://www.youtube.com/watch?v=Z5sb5muFHqg&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=1)
+* [**How to Calculate Investment and Trade Returns (Performance)**](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2) - 19:24
+  [![](http://i.imgur.com/5prdIQK.png)](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2)
+* [**The Different Crypto Trading and Investing Strategies**](https://www.youtube.com/watch?v=phi0UkZC5Fk&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=3) - 28:48
   [![](http://i.imgur.com/PXEZn2p.png)](https://www.youtube.com/watch?v=phi0UkZC5Fk&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=3)
-* [Mastering Stop-Loss for Investors and Traders](https://www.youtube.com/watch?v=Y_kgRn-79nU&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=4) - 53:32
-* [Top 5 Behavioral Biases That Hurt Traders & Investors](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=5) - 21:28
-* [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) - 19:07
+* [**Mastering Stop-Loss for Investors and Traders**](https://www.youtube.com/watch?v=Y_kgRn-79nU&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=4) - 53:32
+* [**Top 5 Behavioral Biases That Hurt Traders & Investors**](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=5) - 21:28
+* [**Understanding the Federal Reserve**](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) - 19:07
 
 
 ### Education Library
