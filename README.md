@@ -7,7 +7,7 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
 
 ---
 
-[**Contact me**](https://infominer.id) if you need research driven content. 
+[**Contact me**](https://infominer.id) if you're in need of research driven content. 
 
 OR
 
