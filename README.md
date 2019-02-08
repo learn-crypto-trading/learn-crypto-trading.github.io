@@ -13,6 +13,7 @@ OR
 
 If you'd just like to chat or check out the rest of our crypto resources, join the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), where most of these links came from.
 
+*Pull Requests Welcome*
 ---
 
 ## Contents
@@ -74,7 +75,6 @@ If you'd just like to chat or check out the rest of our crypto resources, join t
 * [**economics.md**](/economics.md) - crypto-economics
 * [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
   * [Guides-Articles](/quant.md#guides-articles-)
-  * [CryptoQF](/quant.md#cryptoqf-)
   * [Exchanges-API](/quant.md#exchanges-api-)
   * [Books](/quant.md#books-)
   * [Academic Literature](/quant.md#academic-literature-)
@@ -82,7 +82,9 @@ If you'd just like to chat or check out the rest of our crypto resources, join t
   * [Videos](/quant.md#videos-)
   * [Podcasts](/quant.md#podcasts-)
   * [Resources](/quant.md#resources-)
-* [**pinescript.md**](/pinescript.md) - Learn Pinescript and some TradingView tipsntricks.
+* [**pinescript.md**](/pinescript.md) - Learn TradingView\Pinescript.
+* [**/CryptoQF**](/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
+
 
 https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
@@ -116,9 +118,7 @@ Search for almost anything and add any or all of the following sites to successi
 
 Bulkowski has run stats on more chart patterns than anyone. I would recommend getting your hands on copies of hist Encyclopdia of Chart Patterns and\or his Encyclopedia of Candlestick Patterns if you can. 
 
-* [Candle Scanner](https://candlescanner.com) - data similar to Bulkowski
-
-Candlescanner has similar data, some overlapping with Bulkowsky, but more focused on candlestick patterns.
+* [Candle Scanner](https://candlescanner.com) - has similar data, some overlapping with Bulkowsky, but more focused on candlestick patterns.
 
 * [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
 
