@@ -14,7 +14,9 @@ OR
 If you'd just like to chat or check out the rest of our crypto resources, join the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), where most of these links came from.
 
 *Pull Requests Welcome*
+
 ---
+
 
 ## Contents
 
