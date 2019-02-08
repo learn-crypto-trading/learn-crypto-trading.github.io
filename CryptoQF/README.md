@@ -20,6 +20,7 @@ Where there is related content at [his blog](https://www.publish0x.com/@CryptoQu
   * [Cryptocurrency Exchange Reviews](#cryptocurrency-exchange-reviews-)
   * [Analysis](#analysis-)
   * [Daily Updates](#daily-updates-)
+* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) - back home.
 
 ## Crypto-Quant Model [**^**](#contents)
 * [docs.google.com - Crypto Quantamental (@CryptoQF) Coin Selection Model](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/htmlview)
