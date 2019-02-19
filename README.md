@@ -11,7 +11,7 @@ This is the beginnings of a nice collection of resources for trading crypto, eco
 
 OR
 
-If you'd just like to chat or check out the rest of our crypto resources, join the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), where most of these links came from.
+If you'd just like to chat or check out our other resources, join the [Crypto SuperSource Discord Server](http://crypt0library.net), where most of these links came from.
 
 *Pull Requests Welcome*
 
