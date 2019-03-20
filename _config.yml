@@ -1,4 +1,27 @@
 plugins:
-  - jekyll-remote-theme
-remote_theme:
-  - Balancingrock/classic-jekyll-theme
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-redirect-from
+    - jekyll-sitemap
+
+theme: jekyll-theme-minimal
+    
+url           : "https://infominer.id/learn-crypto-trading"
+baseurl       : "/learn-crypto-trading"
+title         : "Technical Analysis"
+description   : "An assortment of resources around learning to trade crypto."
+author        : "⧉ Infominer"
+logo          : "https://infominer.id/android-chrome-256x256.png"
+repository    : "infominer33/learn-crypto-trading"
+github        : [metadata]
+rooturl       : "https://infominer.id/learn-crypto-trading"
+
+
+twitter:
+  site        : "infominer33"
+  title       : "Technical Analysis"
+  description : "An assortment of resources around learning to trade crypto."
+  image       : "https://infominer.id/android-chrome-256x256.png"
+  card        : "summary"
+ 
+google_analytics: UA-132558656-1
