@@ -1,5 +1,9 @@
 # learn-crypto-trading
 
+After a while, I'll get back in here and work on this some more.
+
+![](https://i.imgur.com/NvBwF7D.png)
+(I'm just saving this image here cause it's free, and I wanna use it for something else. Which gives me the idea to make an images section)
 
 *Pull Requests Welcome*
 

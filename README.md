@@ -1,6 +1,8 @@
 # learn-crypto-trading
 
 
+After a while, I'll get back in here and work on this some more.
+
 *Pull Requests Welcome*
 
 
