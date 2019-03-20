@@ -443,15 +443,7 @@ https://coincheckup.com/
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   >[![](http://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
 
----
-
-## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-Join me in the Crypto SuperSource Discord Server (where I began collecting all these resources), if you'd like to chat or check out the live stash: - https://discord.gg/ahTuPMY
-
-
-**Tips appreciated**
+## Tips Jar [**^**](#contents)
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
