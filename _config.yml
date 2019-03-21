@@ -69,7 +69,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://i.imgur.com/NvBwF7D.png"
+accent_image:          "https://infominer.id/learn-crypto-trading/assets/img/background.png"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
