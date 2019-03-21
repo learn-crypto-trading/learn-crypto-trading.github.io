@@ -1,11 +1,23 @@
 # learn-crypto-trading
+I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
+
+* John J.Murphy - Technical Analysis Of The Financial Markets.pdf
+* Bulkowski - Encyclopedia of Chart Patterns
+
+The more I learn the more I'll fill out and organize this repository. I'm also still migrating info from the [SuperSource](http://crypt0library.net).
+
+* > Learn then Implement 
+  >
+  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
+  >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
+* Shadow traders on twitter.
+* stare at the minute chart for two weeks
 
 ![](https://i.imgur.com/NvBwF7D.png)
 
 ## Contents
 
 * [Other Files](#other-files)
-* [Introduction](#introduction)
 * [Starter Pack](#starter-pack-)
 * [Risk Management](#risk-management-)
 * [General](#general-)
@@ -74,22 +86,6 @@
 
 https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
-
-## Introduction
-
-I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
-
-* John J.Murphy - Technical Analysis Of The Financial Markets.pdf
-* Bulkowski - Encyclopedia of Chart Patterns
-
-The more I learn the more I'll fill out and organize this repository. I'm also still migrating info from the [SuperSource](http://crypt0library.net).
-
-* > Learn then Implement 
-  >
-  >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
-  >some of the best alt traders around dont use price action / candles only - [@Waingro](https://twitter.com/krypt0nik) 
-* Shadow traders on twitter.
-* stare at the minute chart for two weeks
 
 ## Starter Pack [**^**](#contents)
 
