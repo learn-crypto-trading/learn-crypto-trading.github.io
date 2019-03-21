@@ -13,9 +13,3 @@ description: >
   This is where it's All At!
 ---
 
-
-# somthing something
-
-adasldk=fjasdlk=fjasdflnkv
-
-![](../assets/img/LCT.png)
