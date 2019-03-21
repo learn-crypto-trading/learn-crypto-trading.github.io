@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/example/</loc>
+<lastmod>2019-03-21T13:10:56-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/example/2017-11-23-example-content-ii/</loc>
+<lastmod>2017-11-23T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/example/2018-06-01-example-content-iii/</loc>
+<lastmod>2018-06-01T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/Resume.pdf</loc>
+<lastmod>2019-03-21T13:10:56-04:00</lastmod>
+</url>
+</urlset>

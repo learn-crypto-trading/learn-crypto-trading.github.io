@@ -1,37 +1,52 @@
 # Config
-# ========================================================================================   
-
-repository    : "infominer33/learn-crypto-trading"
-# github        : [metadata]
-# rooturl       : "https://infominer.id/learn-crypto-trading"
-
+# ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://infominer.id
-baseurl:               /learn-crypto-trading
-lang:                  en
-title:                 "Learn Technical Analysis and Crypto Trading Fundamentals"
-description:           "A sizable collection of resources for learning to trade cryptocurrencies."
+# url:                   https://<username>.github.io
 
-# tagline:               >
-#  "Best Jekyll Theme by a Mile".
-#  Open `_config.yml` to edit this text.
+# IMPORTANT: Set The "base URL" of your site.
+# When your site sits in a subdirectory, set to /<name of directory>
+# (with leading /, but without the < >).
+# Use the empty string '' otherwise.
+# For GitHub project sites, this is usually the name of the project,
+# e.g. `/hydejack`.
+# baseurl:               ''
+
+# Language of your content in 2-letter code, e.g.: en, de.
+# You may also provide a location, e.g.: en-us, de_AT.
+lang:                  en
+
+# The title of your blog. Used in the sidebar and the browser tab.
+title:                 Hydejack Starter Kit
+
+# A short description (~150 chars) of the page used for the meta description tag.
+# Can use markdown, but no more than one paragraph (enforced by `>`)
+description:           >
+  "Best Jekyll Theme by a Mile".
+  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  Open `_config.yml` to edit this text.
+
+# A shorter description for the sidebar.
+tagline:               >
+  "Best Jekyll Theme by a Mile".
+  Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [cryptocurrency, trading]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo          : "https://infominer.id/android-chrome-256x256.png"
+logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                ⧉ Infominer
-  email:               infominer@protonmail.com
-  twitter:             infominer33
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
+  # Used by `jekyll-seo-tag`:
+  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
@@ -51,7 +66,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             CC0 - Public Domain
+copyright:             © 2019. All rights reserved. Open `_config.yml` to edit this text.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -110,7 +125,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-132558656-1
+# google_analytics:      UA-XXXXXXXX-X
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -251,8 +266,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-#  - jekyll-github-metadata
-
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -323,4 +336,3 @@ compress_html:
 
 sass:
   style:               compressed
-

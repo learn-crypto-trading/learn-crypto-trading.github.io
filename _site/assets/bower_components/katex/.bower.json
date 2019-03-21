@@ -1,0 +1,47 @@
+{
+  "name": "katex",
+  "main": [
+    "dist/katex.js",
+    "dist/katex.css"
+  ],
+  "homepage": "https://katex.org/",
+  "description": "Fast math typesetting for the web.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KaTeX/KaTeX.git"
+  },
+  "ignore": [
+    "**/.*",
+    "/*.js",
+    "/*.json",
+    "/*.md",
+    "!/README.md",
+    "/*.sh",
+    "/package.json",
+    "/Makefile",
+    "/test",
+    "/src",
+    "/contrib",
+    "/dockers",
+    "/submodules",
+    "/static",
+    "/website"
+  ],
+  "version": "0.10.1",
+  "_release": "0.10.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.10.1",
+    "commit": "e77bf08983d4d5f8df6490e703173fa9ea9aac8b"
+  },
+  "_source": "https://github.com/Khan/KaTeX.git",
+  "_target": "0.10.1",
+  "_originalSource": "katex",
+  "_direct": true
+}
