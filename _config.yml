@@ -276,7 +276,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
 
-Used for Twitter cards
+# Used for Twitter cards
 twitter:
   username:            infominer33
   card:                summary_large_image
