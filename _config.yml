@@ -43,6 +43,8 @@ menu:
     url:               /quant/
   - title:             Pinescript
     url:               /pinescript/
+  - title:             ⧉InfoMine⧉
+    url:               https://infominer.id/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
