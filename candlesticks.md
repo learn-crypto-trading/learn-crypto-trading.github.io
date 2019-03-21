@@ -1,3 +1,11 @@
+---
+layout: page
+title: Candlestick Patterns
+description: The beginnings of a study on candlestick patterns.
+hide_description: true
+image: "https://i.imgur.com/v9KOmQj.png"
+---
+
 # Candlestick Patterns
 
 All About Candlestick Patterns
@@ -9,10 +17,10 @@ All About Candlestick Patterns
 
 ## Intro
 
-<img src="http://i.imgur.com/ARhol90.png"/>
+<img src="https://i.imgur.com/ARhol90.png"/>
 <sup><a href="https://twitter.com/CryptoCred/status/1040700546221584384">@cryptocred on candlestick charts</a></sup>
 
-<img src="http://i.imgur.com/v9KOmQj.png"/>
+<img src="https://i.imgur.com/v9KOmQj.png"/>
 
 ## Shadows
 
@@ -22,13 +30,13 @@ All About Candlestick Patterns
 Long shadows serve as an indicator of the comparative strengths
 between the buyers and the sellers. The longer the shadow, the more likely prices move in the opposite direction.
 
-<img src="http://i.imgur.com/RjGzy1A.png"/>\
+<img src="https://i.imgur.com/RjGzy1A.png"/>\
 <sup><a href="http://www.raoufx.com/Forex%20Candlesticks%20Made%20Easy.pdf">source: Forex Candlesticks Made Easy</a></sup>
 
 
 ## Doji
 
-<a href="https://www.nasdaq.com/article/hammer-doji-bullish-reversal-candlestick-patterns-cm728687"><img src="http://i.imgur.com/hUApwQO.png"></a>
+<a href="https://www.nasdaq.com/article/hammer-doji-bullish-reversal-candlestick-patterns-cm728687"><img src="https://i.imgur.com/hUApwQO.png"></a>
 
 All doji are created when price closes at or around the same price as opening, and all gains or losses are returned. The length and direction of the shadow are important indicators. Doji commonly appear when there is indecision in the market, at a turning point in a trend. 
 
@@ -49,7 +57,7 @@ As an indecisive indicator, look for confirmation.
 
 ## Common Patterns
 
-<img src="http://i.imgur.com/WZT88Na.png"/>
+<img src="https://i.imgur.com/WZT88Na.png"/>
 <img src="http://www.libertylifetrail.com/wp-content/uploads/2014/02/Candlestick-Cheat-Sheet_web-01-1024x724.jpg"/>
 
 
@@ -75,7 +83,7 @@ As an indecisive indicator, look for confirmation.
   
 ### Three Stars in the South
 
-<img src="http://i.imgur.com/ssN0SKZ.png">
+<img src="https://i.imgur.com/ssN0SKZ.png">
 
 Rare but Potent, **bullish reversal**
 
@@ -88,7 +96,7 @@ Rare but Potent, **bullish reversal**
 
 
 ### Three Line Strike, Bearish
-<img src="http://i.imgur.com/XBYgINN.png"/>
+<img src="https://i.imgur.com/XBYgINN.png"/>
 
 **Bullish Reversal**
 
@@ -97,11 +105,11 @@ Supposed to be a bearish continuation, but is bullish according to Bulkowski.
 * [Bulkowski - Three Line Strike](http://thepatternsite.com/ThreeLineStrikeBear.html)
 * [hitandruncandlesticks.com - Bearish, Three Line Strike](https://hitandruncandlesticks.com/bearish-three-line-strike/)
 
-<a href="https://www.tradingview.com/chart/TRIGBTC/vaTvEXKC-TRIG-three-line-strike-combined-with-38-20-Fibo/"><img src="http://i.imgur.com/fFjNmxh.png"></a>
+<a href="https://www.tradingview.com/chart/TRIGBTC/vaTvEXKC-TRIG-three-line-strike-combined-with-38-20-Fibo/"><img src="https://i.imgur.com/fFjNmxh.png"></a>
 
 ### Three white soldiers
 
-<img src="http://i.imgur.com/z4bDoYV.png"/>
+<img src="https://i.imgur.com/z4bDoYV.png"/>
 
 **Rare bullish reversal**.
 
@@ -110,10 +118,10 @@ Supposed to be a bearish continuation, but is bullish according to Bulkowski.
 * [Tradingview - Scripts - Three White Soldiers](https://www.tradingview.com/scripts/threewhitesoldiers/)
 * [Investopedia - Trading Strategy - Three White Soldiers](https://www.investopedia.com/terms/t/three_white_soldiers.asp)
 
-<a href="https://www.tradingview.com/chart/ETCBTC/uGAqB54B-ETC-Weekly/"><img src="http://i.imgur.com/8uBfDeq.png"/></a>
+<a href="https://www.tradingview.com/chart/ETCBTC/uGAqB54B-ETC-Weekly/"><img src="https://i.imgur.com/8uBfDeq.png"/></a>
 
 ### Three black crows
-![](http://i.imgur.com/CFCjY5m.png)\
+![](https://i.imgur.com/CFCjY5m.png)\
 **Bullish Reversal**
 * [CandleScanner - Three Black Crows](https://www.candlescanner.com/candlestick-patterns/three-black-crows/)
 * [Tradingview - Ideas - Three Black Crows](https://www.tradingview.com/ideas/threeblackcrows/)
@@ -123,7 +131,7 @@ Supposed to be a bearish continuation, but is bullish according to Bulkowski.
 
 ### Identical three crows
 
-<img src="http://i.imgur.com/mSVmt6t.png"/>
+<img src="https://i.imgur.com/mSVmt6t.png"/>
 
 Each days opening is near the previous days close, sucessively lower, a **bearish reversal** of the uptrend. Not common, but reliable.
 
@@ -132,7 +140,7 @@ Each days opening is near the previous days close, sucessively lower, a **bearis
 
 ### Engulfing, bearish
 
-<a href="https://www.tradingview.com/chart/ICXBTC/35SAXGGh-ICON-Bearish-engulfing-ICX/"><img src="http://i.imgur.com/IsdzLgC.png"/></a>
+<a href="https://www.tradingview.com/chart/ICXBTC/35SAXGGh-ICON-Bearish-engulfing-ICX/"><img src="https://i.imgur.com/IsdzLgC.png"/></a>
 
 A **reliable bearish reversal** where second candle is bullish with a longer body in both directions than the previous bullish candle.
 
@@ -143,7 +151,7 @@ A **reliable bearish reversal** where second candle is bullish with a longer bod
 
 ### Morning star
 
-<a href="https://www.tradingview.com/chart/SCBTC/6ixPhlkP-Morning-Star-Candlestick-Pattern-Education/"><img src="http://i.imgur.com/P5ln2mb.png"/></a>
+<a href="https://www.tradingview.com/chart/SCBTC/6ixPhlkP-Morning-Star-Candlestick-Pattern-Education/"><img src="https://i.imgur.com/P5ln2mb.png"/></a>
 
 **Bullish Reversal**
 
@@ -154,7 +162,7 @@ A **reliable bearish reversal** where second candle is bullish with a longer bod
 
 ### Morning doji star
 
-<img src="http://i.imgur.com/leRhpXR.png"/>
+<img src="https://i.imgur.com/leRhpXR.png"/>
 
 * [Babypips - Morning and Evening Star](https://www.babypips.com/learn/forex/triple-candlestick-patterns)
 * [Bulkowski - Morning Doji Star](http://thepatternsite.com/MorningDojiStar.html)
@@ -162,10 +170,10 @@ A **reliable bearish reversal** where second candle is bullish with a longer bod
 
 **Bullish Reversal**: Same idea as the morning star, but doji.
 
-<a href="https://www.tradingview.com/chart/AMD/ZKWM1VUl-Good-Morning-Doji-Star/"><img src="http://i.imgur.com/nDj90ku.png"/></a>
+<a href="https://www.tradingview.com/chart/AMD/ZKWM1VUl-Good-Morning-Doji-Star/"><img src="https://i.imgur.com/nDj90ku.png"/></a>
 
 ### Evening star
-<img src="http://i.imgur.com/CoN4xSm.png"/>
+<img src="https://i.imgur.com/CoN4xSm.png"/>
 
 **Bearish Reversal**
 
@@ -178,7 +186,7 @@ A **reliable bearish reversal** where second candle is bullish with a longer bod
 
 ### Three outside up
 
-<img src="http://i.imgur.com/FUVCwvB.png"/>
+<img src="https://i.imgur.com/FUVCwvB.png"/>
 
 **Bullish Reversal**
 
@@ -195,13 +203,13 @@ Overall I will pass on these, since there is no clear indication from either.
 
 ### Abandoned Baby
 
-<a href="http://instaforexpips.com/abandoned-baby-candlestick-pattern/"><img src="http://i.imgur.com/REaogYY.png"/></a>
+<a href="https://instaforexpips.com/abandoned-baby-candlestick-pattern/"><img src="https://i.imgur.com/REaogYY.png"/></a>
 
-<img src="http://i.imgur.com/P3yKPn3.png"/>
+<img src="https://i.imgur.com/P3yKPn3.png"/>
 
 ### Bearish Breakaway
 
-<img src="http://i.imgur.com/haAj48n.png"/>
+<img src="https://i.imgur.com/haAj48n.png"/>
 
 **Rare Bearish Reversal**
 
@@ -215,7 +223,7 @@ Overall I will pass on these, since there is no clear indication from either.
 ^^^includes a number of his top reversal patterns, only including continuance patterns not already described
 
 ### Inverted Hammer
-<img src="http://i.imgur.com/I82R8UD.png"/>
+<img src="https://i.imgur.com/I82R8UD.png"/>
 
 **Inverted hammer is supposed to be a bullish reversal** when occuring in a downtrend but a well performing **bearish continuation** around 60% of the time, according to Bulkowski.
 
@@ -226,7 +234,7 @@ Overall I will pass on these, since there is no clear indication from either.
 * [CandleScanner - Inverted Hammer](https://www.candlescanner.com/candlestick-patterns/inverted-hammer/)
 
 ### Upside Tasuki Gap
-<img src="http://i.imgur.com/l5MfB2F.png"/>
+<img src="https://i.imgur.com/l5MfB2F.png"/>
 
 **Bullish Continuation**
 
@@ -236,7 +244,7 @@ Overall I will pass on these, since there is no clear indication from either.
 * [TradingView - Scripts - Upside Tasuki](https://www.tradingview.com/script/8PyhroQb-Gap-Upside-Tasuki-Automating-Finding-Script/)
 
 ### Matching Low
-<img src="http://i.imgur.com/3gdxq1u.png"/>
+<img src="https://i.imgur.com/3gdxq1u.png"/>
 
 * [Bulkowski - Matching Low](http://thepatternsite.com/MatchingLow.html)
 * [Investopedia - Matching Low](https://www.investopedia.com/terms/m/matching-low.asp)
@@ -278,7 +286,7 @@ Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), i
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](http://i.imgur.com/d0HQmuV.png) 
+![](https://i.imgur.com/d0HQmuV.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
