@@ -35,8 +35,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
+  - title:             Directory
+    url:               /directory/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About
@@ -65,7 +65,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          "https://i.imgur.com/NvBwF7D.png"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
