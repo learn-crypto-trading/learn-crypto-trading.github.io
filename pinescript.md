@@ -1,3 +1,11 @@
+---
+layout: page
+title: Pinescript-TradingView
+description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
+hide_description: true
+image: "https://i.imgur.com/eR2nXgL.png"
+---
+
 # Pinescript-TradingView
 
 This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
@@ -66,19 +74,13 @@ since you can't trade on tradingview, these sites trade based on its alerts.
 * [Kodify.net - TradingView Programming Articles](https://kodify.net/tradingview-programming-articles/)
 
 
----
-
-## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
-
+<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 
 **Tips appreciated**
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](http://i.imgur.com/d0HQmuV.png) 
+![](https://i.imgur.com/d0HQmuV.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 

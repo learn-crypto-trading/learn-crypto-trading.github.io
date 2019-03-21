@@ -116,7 +116,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 ## Risk Management [**^**](#contents)
 
-<img src="http://i.imgur.com/VZafWyS.png"/>
+<img src="https://i.imgur.com/VZafWyS.png"/>
 (<a href="https://youtu.be/Z5sb5muFHqg?t=771">Source</a>)
 
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
@@ -189,7 +189,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 ## Indicators [**^**](#contents)
 
-* ![](http://i.imgur.com/ZL3NcaI.png)
+* ![](https://i.imgur.com/ZL3NcaI.png)
 * [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
   > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
 * [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
@@ -201,7 +201,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
   > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
 * [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
-  [![](http://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
+  [![](https://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
 * [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
   > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
 * [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
@@ -234,7 +234,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 ![](https://pbs.twimg.com/media/DjegKETU4AEw7s7.jpg:large)
 * [What are Wyckoff Phases?](https://cdn.discordapp.com/attachments/354298918768738305/481961301661188096/AWTC-WyckoffPhases.png)
   > "image of Wyckoff Events and Phases"
-* [Distribution Schematic #1: Wyckoff Events and Phases](http://i.imgur.com/LbtrMJG.png)
+* [Distribution Schematic #1: Wyckoff Events and Phases](https://i.imgur.com/LbtrMJG.png)
   > "image of Wyckoff Events and Phases"
 
 * https://wyckoffsmi.com/wyckoff-smi-glossary/
@@ -357,7 +357,7 @@ https://coincheckup.com/
   > "@JimAllmendinger Bitcoin has a 4 year cycle that's programmed into the system."
 ![](https://pbs.twimg.com/media/Dn-ObUOU8AAdPPq.jpg)
 * [@brian_armstrong's chart of bitcoin moonshots](https://twitter.com/brian_armstrong/status/1009192006512328704)
-![](http://i.imgur.com/1ODWbbd.png)
+![](https://i.imgur.com/1ODWbbd.png)
 
 ## Speculation-Market Theses [**^**](#contents)
 
@@ -373,7 +373,7 @@ https://coincheckup.com/
 
 ## Books [**^**](#contents)
 
-<a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="http://i.imgur.com/bLMLFio.png"/></a>\
+<a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="https://i.imgur.com/bLMLFio.png"/></a>\
 [Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
 
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
@@ -439,12 +439,12 @@ https://coincheckup.com/
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
 * [@CryptoCred on Bitmex Leverage Traders to Follow](https://twitter.com/CryptoCred/status/1072155645896523776)
-  [![](http://i.imgur.com/IJM1VD8.png)](https://twitter.com/CryptoCred/status/1072155645896523776)
+  [![](https://i.imgur.com/IJM1VD8.png)](https://twitter.com/CryptoCred/status/1072155645896523776)
 * [Ramano](https://twitter.com/RNR_0) says he only follows OG's 2015 or earlier.
 * [@YORK780 #FF](https://twitter.com/YORK780/status/1035558963033632769)
-  >[![](http://i.imgur.com/eqsXynh.png)](https://twitter.com/YORK780/status/1035558963033632769)
+  >[![](https://i.imgur.com/eqsXynh.png)](https://twitter.com/YORK780/status/1035558963033632769)
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
-  >[![](http://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
+  >[![](https://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
 
 ---
 
@@ -458,7 +458,7 @@ Join me in the Crypto SuperSource Discord Server (where I began collecting all t
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](http://i.imgur.com/d0HQmuV.png) 
+![](https://i.imgur.com/d0HQmuV.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 

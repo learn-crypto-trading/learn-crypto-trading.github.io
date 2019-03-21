@@ -36,11 +36,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Candlesticks
-    url:               /directory/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
-    url:               /about/
+    url:               /candlesticks/
+  - title:             Chart Patterns
+    url:               /chart-patterns/
+  - title:             Quantitative
+    url:               /quant/
+  - title:             Pinescript
+    url:               /pinescript/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

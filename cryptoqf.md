@@ -1,8 +1,16 @@
+---
+layout: page
+title: (@CryptoQF) Crypto Quantamental 
+description: A directory of @CryptoQF's content.
+hide_description: true
+image: "https://i.imgur.com/eR2nXgL.png"
+---
+
 # (@CryptoQF) Crypto Quantamental 
 
 The other day, I saw [CryptoQF](https://twitter.com/CryptoQF) tweet that his goal was to make the best and most free educational content. 
 
-<a href="https://twitter.com/CryptoQF/status/1091917181586034688"><img src="http://i.imgur.com/HHmjzrF.png"/></a>
+<a href="https://twitter.com/CryptoQF/status/1091917181586034688"><img src="https://i.imgur.com/HHmjzrF.png"/></a>
 
 Being the nerd that I am — I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to navigate? I'll be taking notes on his videos that can live in this repository, too.
 
