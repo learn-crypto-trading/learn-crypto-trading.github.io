@@ -6,8 +6,6 @@ hide_description: true
 image: "https://i.imgur.com/v9KOmQj.png"
 ---
 
-# Candlestick Patterns
-
 All About Candlestick Patterns
 
 * [Quora - How do I analyze a Candlestick Pattern?](https://www.quora.com/How-do-I-analyze-a-candlestick-pattern-chart)
