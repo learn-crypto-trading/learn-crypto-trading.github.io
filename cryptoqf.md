@@ -6,13 +6,15 @@ hide_description: true
 image: "https://i.imgur.com/eR2nXgL.png"
 ---
 
-# (@CryptoQF) Crypto Quantamental 
+![](https://i.imgur.com/didpz0S.png)
 
 The other day, I saw [CryptoQF](https://twitter.com/CryptoQF) tweet that his goal was to make the best and most free educational content. 
 
+Being the nerd that I am — I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to navigate? I'll be taking notes on his videos that can live in this repository, too.
+
+
 <a href="https://twitter.com/CryptoQF/status/1091917181586034688"><img src="https://i.imgur.com/HHmjzrF.png"/></a>
 
-Being the nerd that I am — I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to navigate? I'll be taking notes on his videos that can live in this repository, too.
 
 Looking at [his Youtube Channel](https://www.youtube.com/channel/UCnVOQqymq5ZQkG536EItX0Q/playlists) I see there are a dozen playlists.
 

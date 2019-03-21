@@ -6,8 +6,7 @@ hide_description: true
 image: "https://i.imgur.com/kBb2PBa.png"
 ---
 
-
-# Encyclopedia of Chart Patterns - Cheat Sheet
+![](https:///i.imgur.com/bsCmidC.png)
 
 Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). 
 

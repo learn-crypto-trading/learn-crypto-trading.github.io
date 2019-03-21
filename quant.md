@@ -3,10 +3,8 @@ layout: page
 title: Quantitative-Crypto Trading and Data Science 
 description: Guides, Articles, API, Literature, Libraries, Podcasts and other Resources to learn Algorithmic Trading.
 hide_description: true
-#image: "https://i.imgur.com/eR2nXgL.png"
+image: "https://i.imgur.com/xOeOCnx.png"
 ---
-
-# Quant-Crypto Trading and Data Science 
 
 ## Contents
 

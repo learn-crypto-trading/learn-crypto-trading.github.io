@@ -3,10 +3,12 @@ layout: page
 title: Pinescript-TradingView
 description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
 hide_description: true
-image: "https://i.imgur.com/eR2nXgL.png"
+image: "https://i.imgur.com/x01Hf9y.png"
 ---
 
-# Pinescript-TradingView
+* [**TradingView's Pine script Introduction**](https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/)
+  [![](https://i.imgur.com/x01Hf9y.png)](https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/)
+
 
 This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
 
