@@ -5,6 +5,7 @@ After a while, I'll get back in here and work on this some more.
 
 *Pull Requests Welcome*
 
+<a href="index.html"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
 ## Contents
 

@@ -35,7 +35,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Directory
+  - title:             Candlesticks
     url:               /directory/
   - title:             Documentation
     url:               https://hydejack.com/docs/

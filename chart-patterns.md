@@ -882,6 +882,9 @@ Descending\
 <img src="http://i.imgur.com/Evf7Ujw.png"/>
 
 <img src="http://i.imgur.com/eIYOjLF.png"/>
+---
+
+---
 
 ## Resources [**^**](#contents)
 
