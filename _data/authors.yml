@@ -3,21 +3,18 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              infominer
+  email:             infominer@protonmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    Curation, or Information Discovery (as I like to call it) is a full time job.
+    An entire industry will develop around it.
 
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://infominer.id/learn-crypto-trading/assets/img/infominer.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -26,10 +23,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         jekyllrb
-    github:          qwtel/hydejack
+    twitter:         infominer33
+    github:          infominer33/bitcoin-history
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           <infominer@protonmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
