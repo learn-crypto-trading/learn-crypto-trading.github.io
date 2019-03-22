@@ -9,8 +9,12 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Curation, or Information Discovery (as I like to call it) is a full time job.
-    An entire industry will develop around it.
+    Curation, (or Information Discovery, as I like to call it) is a full time job.
+    An entire industry will grow around it. If you leave it to big business,
+    Gartner, Deloitte, and the data monopolists win. | Small businesses have more 
+    to gain from hiring professional curators than wasting their money on low-grade
+    'affordable content'. | Imagine if a resource like this lived on your website,
+    because you had a skilled team of curators contributing to your base of resources.
 
   # This photo will be used in the about section.
   picture:
