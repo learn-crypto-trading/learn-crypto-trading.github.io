@@ -6,8 +6,6 @@ hide_description: true
 image: "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
 ---
 
-![](https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png)
-
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
@@ -22,7 +20,8 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
-![](https://i.imgur.com/NvBwF7D.png)
+![](https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png)
+
 
 ## Contents
 
