@@ -59,9 +59,7 @@ legal:
     url:               https://infominer.id/SuperSource/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: >
-  [⧉Info⧉](https://infominer.id) —  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
-  Public Domain — [Participate on Github](https://github.com/infominer33/learn-crypto-trading)
+copyright:             ⧉Infominer —  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)  Public Domain — [Participate on Github](https://github.com/infominer33/learn-crypto-trading)
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
