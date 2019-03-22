@@ -1,11 +1,8 @@
 # learn-crypto-trading
 
-
-After a while, I'll get back in here and work on this some more.
-
-*Pull Requests Welcome*
-
 <a href="index.md"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
+
+<a href="https://infominer.id/bitcoin-history">infominer.id/bitcoin-history</a>
 
 ## Contents
 
