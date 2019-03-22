@@ -2,7 +2,7 @@
 
 <a href="index.md"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
-<a href="https://infominer.id/bitcoin-history">infominer.id/bitcoin-history</a>
+<b><a href="https://infominer.id/bitcoin-history">infominer.id/bitcoin-history</a></b>
 
 ## Contents
 
@@ -445,10 +445,9 @@ https://coincheckup.com/
 
 ---
 
-## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
+## [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history) [**^**](#contents) 
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Join me in the Crypto SuperSource Discord Server (where I began collecting all these resources), if you'd like to chat or check out the live stash: - https://discord.gg/ahTuPMY
 
 
 **Tips appreciated**
