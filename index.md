@@ -28,7 +28,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also s
 * [Other Files](#other-files)
 * [Starter Pack](#starter-pack-)
 * [Risk Management](#risk-management-)
-* [General](#general-)
+* [General](#general--)
 * [Indicators](#indicators-)
 * [Divergence](#divergence-)
 * [Arbitrage](#arbitrage-)
