@@ -15,9 +15,7 @@ lang:                  en
 title:                 "Learn Technical Analysis and Crypto Trading Fundamentals"
 description:           "A collection of resources for learning to trade cryptocurrencies."
 
-# tagline:               >
-#  "Best Jekyll Theme by a Mile".
-#  Open `_config.yml` to edit this text.
+# tagline:               
 
 # A list of keywords for your blog
 keywords:              [cryptocurrency, trading]
@@ -43,8 +41,6 @@ menu:
     url:               /quant/
   - title:             Pinescript
     url:               /pinescript/
-  - title:             ⧉InfoMine⧉
-    url:               https://infominer.id/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -59,7 +55,7 @@ legal:
     url:               https://infominer.id/SuperSource/" target="_parent"
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             ⧉Infominer —  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)  Public Domain — [Participate on Github](https://github.com/infominer33/learn-crypto-trading)
+copyright:             Infominer ⧉  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)  Public Domain
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
