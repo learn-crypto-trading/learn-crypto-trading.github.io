@@ -11,7 +11,7 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
 * Bulkowski - Encyclopedia of Chart Patterns
 
-The more I learn the more I'll fill out and organize this repository. I'm also still migrating info from the [SuperSource](http://crypt0library.net).
+The more I learn the more I'll fill out and organize this repository. I'm also continually adding to, and migrating from the [Source⧉Crypto](http://crypt0library.net) Discord Chat.
 
 * > Learn then Implement 
   >
