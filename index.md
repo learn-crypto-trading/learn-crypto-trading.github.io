@@ -10,9 +10,6 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
 * Bulkowski - Encyclopedia of Chart Patterns
-
-The more I learn the more I'll fill out and organize this repository. I'm also continually adding to, and migrating from the [Source⧉Crypto](http://crypt0library.net) Discord Chat.
-
 * > Learn then Implement 
   >
   >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
@@ -45,7 +42,7 @@ The more I learn the more I'll fill out and organize this repository. I'm also c
 * [Podcasts](#podcasts-)
 * [Resources](#resources-)
 * [Twitter Follows](#twitter-follows-)
-* [Closing](#infominerid-contact-me-for-research-based-content-)
+* [Tips Jar](#tips-jar-)
 
 ## Other Files
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
