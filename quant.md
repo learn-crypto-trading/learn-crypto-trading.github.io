@@ -13,7 +13,7 @@ image: "https://i.imgur.com/xOeOCnx.png"
 * [Exchanges-API](#exchanges-api-)
 * [Books](#books-)
 * [Academic Literature](#academic-literature-)
-* [Software Libraries](#software-libaries-)
+* [Software Libraries](#software-libraries-)
 * [Videos](#videos-)
 * [Podcasts](#podcasts-)
 * [Resources](#resources-)
@@ -111,7 +111,7 @@ If you're on Crypto Twitter, you've probably seen Crypto Quantamental ([@CryptoQ
 
 I made a [folder dedicated to his content](/CryptoQF), because I'm interested to learn what he has to say. It is an index of his content, including videos and blogs, in an attempt to present it in an organized fashion.
 
-## Exchanges-API[ **^**](#contents)
+## Exchanges-API [**^**](#contents)
 
 * [nomics.com](https://nomics.com/) - 100% of Nomics Was Created With Our Free Crypto API. Free Instant Access 
 * [Coinigy.com - The All-In-One Cryptocurrency API](https://www.coinigy.com/bitcoin-api/)
@@ -141,7 +141,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
    > "I recommend the book to both new traders and pros. New traders can use the book as a good starting point in their research. Pros can use the tools described in the book to enhance their existing strategies."
 
 
-## Academic Literature[**^**] (#contents)
+## Academic Literature [**^**](#contents)
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Are Weather-Based Trading Strategies Profitable?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111467)
