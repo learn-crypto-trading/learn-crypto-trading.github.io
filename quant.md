@@ -150,7 +150,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
   >This paper lays ground work for spreadsheet modelling professionals to develop reproducible audit tools using freely available, open source packages built with the Python programming language, enabling stakeholders to develop clearly defined model “oracles” with which to test and audit spreadsheet calculations against."
 
 
-
+...
 
 ## Software Libraries [**^**](#contents)
 
