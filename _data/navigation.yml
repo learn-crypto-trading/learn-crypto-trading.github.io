@@ -19,7 +19,7 @@ main:
 
 
 infonav:
-  - title: Menu
+  - title: "/learn-crypto-trading"
     children:
       - title : Candlesticks
         url   : candlesticks/
