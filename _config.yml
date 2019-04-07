@@ -120,7 +120,7 @@ author:
 # Site Author
 author:
   name             : "⧉ Infominer"
-  avatar           : "/assets/img/bio-photo.jpg"
+  avatar           : "https://infominer.id/assets/img/bio-photo.jpg"
 #  bio              : "I was growing up as the web first came of age, and am a computer nerd from way back. However, I had other interests which kept me out of tech for quite a while. So I'm starting a new phase of my life, and returning to my roots by diving into web-work."
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
