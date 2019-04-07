@@ -2,8 +2,10 @@
 layout: home
 title: "Learn Technical Analysis and Crypto Trading Fundamentals"
 description: "A collection of resources for learning to trade cryptocurrencies."
-hide_description: true
-image: "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
+twitter:
+  card      : "summary_large_image"
+header:
+  image     : "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
 ---
 
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
