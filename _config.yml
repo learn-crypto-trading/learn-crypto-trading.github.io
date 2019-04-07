@@ -255,7 +255,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
@@ -272,7 +271,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
