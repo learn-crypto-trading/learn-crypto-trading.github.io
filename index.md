@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Learn Technical Analysis and Crypto Trading Fundamentals"
 description: "A collection of resources for learning to trade cryptocurrencies."
 hide_description: true
