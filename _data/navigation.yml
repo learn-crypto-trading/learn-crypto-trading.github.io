@@ -17,7 +17,18 @@ main:
     url: "https://infominer.id/gh-pages-starter-pack.html"
 
 
+
 infonav:
+  - title: Menu
+    children:
+      - title : Candlesticks
+        url   : candlesticks/
+      - title : Chart Patterns
+        url   : chart-patterns/
+      - title : Quantitative
+        url   : quant/
+      - title : Pinescript
+        url   : pinescript/
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"
