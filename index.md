@@ -19,8 +19,6 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
-![](https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png)
-
 
 ## Contents
 
