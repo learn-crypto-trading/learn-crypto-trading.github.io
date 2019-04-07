@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Candlestick Patterns
 description: The beginnings of a study on candlestick patterns.
-hide_description: true
 image: "https://i.imgur.com/v9KOmQj.png"
 ---
 

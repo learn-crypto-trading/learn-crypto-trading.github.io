@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Encyclopedia of Chart Patterns - Cheat Sheet
 description: Taking notes while reading Encyclopedia of Chart patterns by Thomas Bulkowski.
 hide_description: true

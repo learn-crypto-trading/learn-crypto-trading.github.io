@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Pinescript-TradingView
 description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
-hide_description: true
 image: "https://i.imgur.com/x01Hf9y.png"
 ---
 
