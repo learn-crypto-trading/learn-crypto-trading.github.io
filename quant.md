@@ -8,18 +8,18 @@ image: "https://i.imgur.com/xOeOCnx.png"
 
 ## Contents
 
-* [Guides-Articles](#guides-articles-)
-* [CryptoQF](#cryptoqf-)
-* [Exchanges-API](#exchanges-api-)
-* [Books](#books-)
-* [Academic Literature](#academic-literature-)
-* [Software Libraries](#software-libraries-)
-* [Videos](#videos-)
-* [Podcasts](#podcasts-)
-* [Resources](#resources-)
+* [Guides-Articles](#guides-articles)
+* [CryptoQF](#cryptoqf)
+* [Exchanges-API](#exchanges-api)
+* [Books](#books)
+* [Academic Literature](#academic-literature)
+* [Software Libraries](#software-libraries)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
+* [Resources](#resources)
 * [**Home**](/README.md) - Back to the main directory.
 
-## Guides-Articles[**^**](#contents)
+## Guides-Articles
 
 * [A definitive guide to learning Python for Algorithmic Trading](https://www.womenwhocode.com/blog/a-definitive-guide-to-learning-python-for-algorithmic-trading)
   >Apart from just offering better profit opportunities for the trader, these algo-trading models also make the market more liquid and make the process a lot more systematic by ruling out any impact of human emotions on the trading activities."
@@ -104,14 +104,14 @@ image: "https://i.imgur.com/xOeOCnx.png"
 * [Forex trading with functional programming](http://lambda-the-ultimate.org/node/2852)
   >I'm looking for information about how to program a forex trading system with functional programming (I use scheme). Any idea or link you could give me?
 
-## CryptoQF [**^**](#contents) 
+## CryptoQF  
 
 If you're on Crypto Twitter, you've probably seen Crypto Quantamental ([@CryptoQF](https://twitter.com/cryptoqf))and his [Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
   > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
 
 I made a [folder dedicated to his content](/CryptoQF), because I'm interested to learn what he has to say. It is an index of his content, including videos and blogs, in an attempt to present it in an organized fashion.
 
-## Exchanges-API [**^**](#contents)
+## Exchanges-API 
 
 * [nomics.com](https://nomics.com/) - 100% of Nomics Was Created With Our Free Crypto API. Free Instant Access 
 * [Coinigy.com - The All-In-One Cryptocurrency API](https://www.coinigy.com/bitcoin-api/)
@@ -128,7 +128,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
 * [Python-Binance.readthedocs.io](https://python-binance.readthedocs.io/en/latest/overview.html)
 
 
-## Books [**^**](#contents)
+## Books 
 
 * [Financial Modelling in Python — S. Fletcher & C. Gardner](https://uhs.es/Financial%20Modelling%20in%20Python.pdf)
 * [Python for Finance - Yves Hilpisch (Oreily)](https://doc.lagout.org/programmation/python/Python%20for%20Finance_%20Analyze%20Big%20Financial%20Data%20%5BHilpisch%202014-12-27%5D.pdf)
@@ -141,7 +141,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
    > "I recommend the book to both new traders and pros. New traders can use the book as a good starting point in their research. Pros can use the tools described in the book to enhance their existing strategies."
 
 
-## Academic Literature [**^**](#contents)
+## Academic Literature 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
   > "We apply time series analysis to investigate the market cycles of Initial Coin Offerings (ICOs) as well as bitcoin and Ether. Our results show that shocks to ICO volumes are persistent and that shocks in bitcoin and Ether prices have a substantial and positive effect on these volumes – with the effect of bitcoin shocks being of shorter duration than that of Ether shocks. Moreover, higher ICO volumes cause lower bitcoin and Ether prices. Finally, bitcoin shocks positively influence Ether but not the other way round. Our study has implications for financial practice, in particular for cryptocurrency investors and entrepreneurial firms conducting ICOs. June 2018"
 * [Are Weather-Based Trading Strategies Profitable?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111467)
@@ -152,7 +152,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
 
 ...
 
-## Software Libraries [**^**](#contents)
+## Software Libraries 
 
 * [TA-Lib](http://ta-lib.org)
   > TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data.
@@ -194,7 +194,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
 * [/Haehnchen/crypto-trading-bot/](https://github.com/Haehnchen/crypto-trading-bot)
 
 
-## Videos [**^**](#contents)
+## Videos 
 
 * [Algorithmic Trading with Python and Quantopian p. 1](https://www.youtube.com/watch?v=GlV_QO5B2eU)
 > In this tutorial, we're going to begin talking about strategy back-testing. The field of back testing, and the requirements to do it right are pretty massive. Basically, what's required for us is to create a system that will take historical pricing data and simulate trading in that environment, and then gives us the results."
@@ -209,7 +209,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
 * [Bitcoin Trading Related Development Videos](https://www.youtube.com/watch?v=Kwlxngw1YBY&list=PLhWIQKZKupCYbPpIb2Oe-D1sljPeaTQAy) - includes pinescript tutorials and more 
 
 
-## Podcasts[**^**](#contents)
+## Podcasts
 
 * [Chat With Traders · Conversations with talented traders—in stocks, futures, options, forex and crypto markets.](https://itunes.apple.com/us/podcast/chat-traders-conversations-talented-traders-in-stocks/id957265404?mt=2&i=1000420535357) 
   > Chat With Traders is your key to the minds of trading's elite performers. Start listening to learn how a diverse mix of traders went from zero to hero, how they successfully trade markets today, and get their best tips 'n pointers for profitable performance, plus much more. Note: You are responsible for your own trading decisions—this is not financial advice."
@@ -217,7 +217,7 @@ I made a [folder dedicated to his content](/CryptoQF), because I'm interested to
     >The idea for asking Hugo to appear on this episode, was to chat about learning a programming language. Because for some traders, having the ability to write code can have great advantages—such as having the ability to collect stats on market behavior, perform research in a robust data-driven way, visualize large amounts of data, backtest and analyse trading ideas, implement algorithmic strategies, etc."
 * [Nomics Podcast](https://p.nomics.com/podcast)
 
-## Resources[**^**](#contents)
+## Resources
 
 * [Free Quantitative Finance Resources](https://www.quantstart.com/articles/Free-Quantitative-Finance-Resources)
   >Welcome to the big list of free quantitative finance resources!\n\nI've listed here all of the free ebooks, slides, courses, videos and data that I've found useful during my quant finance career.

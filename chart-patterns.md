@@ -11,58 +11,58 @@ image: "https://i.imgur.com/kBb2PBa.png"
 Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). 
 
 ## Contents
-* [Intro](#intro-)
-  * [Most Common Patterns](#most-common-patterns-)
-* [Chart Patterns](#chart-patterns-)
-  * [Support and Resistance](#support-and-resistance-)
-  * [Trendlines](#trendlines-)
-  * [Channels](#channels-)
-* [Triangles](#triangles-)
-  * [Ascending](#ascending-)
-  * [Descending](#descending-)
-  * [Symmetrical](#symmetrical-)
-* [Flags and Pennants](#flags-and-pennants-)
-  * [Flags-High and Tight](#flags-high-and-tight-)
-* [Wedges](#wedges-)
-  * [Falling](#falling-)
-  * [Rising](#rising-)
-  * [Broadening Wedges](#broadening-wedges-)
+* [Intro](#intro)
+  * [Most Common Patterns](#most-common-patterns)
+* [Chart Patterns](#chart-patterns)
+  * [Support and Resistance](#support-and-resistance)
+  * [Trendlines](#trendlines)
+  * [Channels](#channels)
+* [Triangles](#triangles)
+  * [Ascending](#ascending)
+  * [Descending](#descending)
+  * [Symmetrical](#symmetrical)
+* [Flags and Pennants](#flags-and-pennants)
+  * [Flags-High and Tight](#flags-high-and-tight)
+* [Wedges](#wedges)
+  * [Falling](#falling)
+  * [Rising](#rising)
+  * [Broadening Wedges](#broadening-wedges)
     * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
-    * [Broadening Descending Wedges](#broadening-descending-wedges-)
-* [Rectangles](#rectangles-)
-* [Double Bottoms](#double-bottoms-)
-* [Double Tops](#double-tops-)
-* [Triple Bottoms and Tops](#triple-bottoms-and-tops-)
-  * [Triple Bottoms](#triple-bottoms-)
-  * [Triple Tops](#triple-tops-)
-* [Cup With Handle](#cup-with-handle-)
-* [Head and Shoulders](#head-and-shoulders-)
-  * [HS Tops](#hs-tops-)
-  * [HS Tops Complex](#hs-tops-complex-)
-  * [Inverted](#inverted-head-and-shoulders-)
-  * [Inverted-Complex](#hs-bottoms-complex-)
-* [Dead-Cat Bounce](#dead-cat-bounce-)
-* [Gaps](#gaps-)
-  * [Island Reversals](#island-reversals-)
-* [Rounding Bottoms](#rounding-bottoms-)
-* [Rounding Tops](#rounding-tops-)
-* [Bump-and-Run Reversal Bottom](#bump-and-run-reversal-bottoms-)
-* [Bump-and-Run Reversal Tops](#bump-and-run-reversal-bottoms-)
-* [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
-* [Hanging Man](#hanging-man-)
-* [Inside Days](#inside-days-)
-* [Outside Days](#outside-days-)
-* [Measured Move Down](#measured-move-down-)
-* [Measured Move Up](#measured-move-up-)
-* [Pipe Bottoms and Tops](#pipe-bottoms-and-tops-)
-* [Scallops](#scallops-)
-  * [Ascending Scallops](#ascending-scallops-)
-  * [Descending Scallops](#descending-scallops-)
-* [Broadening Formations](#broadening-formations-)
-  * [Broadening Tops and Bottoms](#broadening-tops-and-bottoms-)
-  * [Right-Angled](#right-angled-)
-* [Statistics](#statistics-)
-* [Resources](#resources-)
+    * [Broadening Descending Wedges](#broadening-descending-wedges)
+* [Rectangles](#rectangles)
+* [Double Bottoms](#double-bottoms)
+* [Double Tops](#double-tops)
+* [Triple Bottoms and Tops](#triple-bottoms-and-tops)
+  * [Triple Bottoms](#triple-bottoms)
+  * [Triple Tops](#triple-tops)
+* [Cup With Handle](#cup-with-handle)
+* [Head and Shoulders](#head-and-shoulders)
+  * [HS Tops](#hs-tops)
+  * [HS Tops Complex](#hs-tops-complex)
+  * [Inverted](#inverted-head-and-shoulders)
+  * [Inverted-Complex](#hs-bottoms-complex)
+* [Dead-Cat Bounce](#dead-cat-bounce)
+* [Gaps](#gaps)
+  * [Island Reversals](#island-reversals)
+* [Rounding Bottoms](#rounding-bottoms)
+* [Rounding Tops](#rounding-tops)
+* [Bump-and-Run Reversal Bottom](#bump-and-run-reversal-bottoms)
+* [Bump-and-Run Reversal Tops](#bump-and-run-reversal-bottoms)
+* [Diamond Tops and Bottoms](#diamond-tops-and-bottoms)
+* [Hanging Man](#hanging-man)
+* [Inside Days](#inside-days)
+* [Outside Days](#outside-days)
+* [Measured Move Down](#measured-move-down)
+* [Measured Move Up](#measured-move-up)
+* [Pipe Bottoms and Tops](#pipe-bottoms-and-tops)
+* [Scallops](#scallops)
+  * [Ascending Scallops](#ascending-scallops)
+  * [Descending Scallops](#descending-scallops)
+* [Broadening Formations](#broadening-formations)
+  * [Broadening Tops and Bottoms](#broadening-tops-and-bottoms)
+  * [Right-Angled](#right-angled)
+* [Statistics](#statistics)
+* [Resources](#resources)
 * [**Home**](/README.md) - Back to the main directory.
 
 ## Intro
@@ -92,7 +92,7 @@ On **TradingView** when you hover over their ideas menu, there are a few chart p
 
 ---
 
-## Chart Patterns [**^**](#Contents)
+## Chart Patterns 
 
 
 ### Support and Resistance
@@ -129,7 +129,7 @@ On **TradingView** when you hover over their ideas menu, there are a few chart p
 * [TradingView - Ideas - Channels](https://www.tradingview.com/ideas/channelstudies/)
 * [TradingView - Scripts - Channels](https://www.tradingview.com/scripts/channelstudies/)
 
-## Triangles [**^**](#Contents)
+## Triangles 
 
 * [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
   ![](https://i.imgur.com/W8DshbP.png)
@@ -143,7 +143,7 @@ On **TradingView** when you hover over their ideas menu, there are a few chart p
 * [Investopedia - Ideas - Triangles](https://www.tradingview.com/ideas/triangle/)
 
 
-### Ascending [**^**](#Contents)
+### Ascending 
 
 <img src="https://i.imgur.com/NXLuicp.png"/>\
 Triangle shape with horizontal top, up-sloping bottom
@@ -164,7 +164,7 @@ I want to do some more research, because again Bulkowski differs from prevailing
 
 
 
-### Descending [**^**](#Contents)
+### Descending 
 
 <img src="https://i.imgur.com/JgtnCed.png"/>\
 Triangle shape with horizontal bottom and downsloping top
@@ -179,7 +179,7 @@ wait for a downside breakout, then the failure rate drops to just 4%.
 
 <a href="https://www.tradingview.com/chart/BTCUSD/28gmCjq1-Descending-Triangles-within-a-Larger-Descending-Triangle-2200/"><img src="https://i.imgur.com/U6um20V.png"></a>
 
-### Symmetrical [**^**](#Contents)
+### Symmetrical 
 
 <img src="https://i.imgur.com/6gq7YsK.png"/><img src="https://i.imgur.com/VZaoiVZ.png"/>
 
@@ -193,7 +193,7 @@ Prices trend down then form lower highs and higher lows following two sloping tr
 <a href="https://www.tradingview.com/chart/GBPUSD/mi4E4f4s-GBPUSD-Symmetrical-Triangle/"><img src="https://i.imgur.com/NQtMNdH.png"/></a>
 
 
-## Flags and Pennants [**^**](#Contents)
+## Flags and Pennants 
 
 <img src="https://i.imgur.com/q0PnCFP.png"/>
 
@@ -237,7 +237,7 @@ The percentage of formations that meet or exceed their predicted price targets i
 
 <a href="https://www.tradingview.com/chart/USDCHF/j4USneQj-FALLING-FLAG-FOR-A-RETEST/"><img src="https://i.imgur.com/oQB12C2.png"/></a>
 
-## Flags-High and Tight [**^**](#Contents)
+## Flags-High and Tight 
 
 <img src="https://i.imgur.com/anKFGGU.png"/>
 <a href="https://www.tradingview.com/chart/GOLD/HaHMkOrU-More-Bullish-on-the-2H-High-Tight-Bull-flag/"><img src="https://i.imgur.com/kBb2PBa.png"/></a>
@@ -255,7 +255,7 @@ Having recently completed the chapter on flags and pennants, I was surprised to 
 First and most importantly there must be a short, quick rise. Flags with a receding volume trend handily outperform those without. However, I would not ignore a high, tight flag simply because volume is rising. Rather, I would recognize that its  performance may be subpar.
 
 
-## Wedges [**^**](#Contents)
+## Wedges 
 
 * [TradingView - Ideas - Wedge](https://www.tradingview.com/ideas/wedgepattern/)
 * [Investopedia - Terms - Wedge](https://www.investopedia.com/terms/w/wedge.asp)
@@ -265,7 +265,7 @@ First and most importantly there must be a short, quick rise. Flags with a reced
 
 <a href="https://www.tradingview.com/chart/BTCUSD/8heRqCJq-Every-major-chart-pattern-between-3-18-and-3-28/"><img src="https://i.imgur.com/u8bgzU3.png"/></a>
 
-### Falling Wedge [**^**](#Contents)
+### Falling Wedge 
 
 <img src="https://i.imgur.com/4La7j7f.png"/>
 
@@ -283,7 +283,7 @@ There are no outstanding surprises among the statistics shown in the Results Sna
 <a href="https://www.tradingview.com/chart/BTCUSD/rESVgDFW-Falling-and-Rising-Wedges/"><img src="https://i.imgur.com/UpXaXWv.png"></a>
 
 
-### Rising Wedge [**^**](#Contents)
+### Rising Wedge 
 
 <img src="https://i.imgur.com/YrAPOWb.png"/>
 
@@ -304,11 +304,11 @@ As formations go, the rising wedge is one of the poorer performing chart pattern
 
 One interesting finding concerns the volume trend. Successful formations with a receding volume trend outperform those with a rising volume trend; the losses are 21% and 15%, respectively. This means if you restrict your selections to those showing receding volume throughout the formation, you should do better. On the flip side, you will also be passing up many formations in which you could trade profitably.
 
-### Broadening Wedges [**^**](#Contents)
+### Broadening Wedges 
 
 * [TradingView -Ideas - Broadening Wedge](https://www.tradingview.com/ideas/broadeningwedge/)
 
-#### Broadening Ascending Wedges [**^**](#Contents)
+#### Broadening Ascending Wedges 
 
 <img src="https://i.imgur.com/wM5asGY.png"/>
 
@@ -318,7 +318,7 @@ One interesting finding concerns the volume trend. Successful formations with a 
 
 <a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="https://i.imgur.com/1589i4I.png"/></a>
 
-#### Broadening Descending Wedges [**^**](#Contents) 
+#### Broadening Descending Wedges  
 
 <img src="https://i.imgur.com/d1K92Dv.png"/> 
 
@@ -335,7 +335,7 @@ One interesting finding concerns the volume trend. Successful formations with a 
 Being a consolidation in a bull market, the average rise is a very high 46%. The most likely rise is 20% and an astounding 40% of the formations have gains above 50%! With bullish numbers like these, it makes the failure rate seem tolerable.
 
 
-## Rectangles [**^**](#Contents)
+## Rectangles 
 
 <img src="https://i.imgur.com/4iCP88e.png"/><img src="https://i.imgur.com/CYtc3dW.png"/>
 <img src="https://i.imgur.com/IO8fy2g.png"/>
@@ -355,7 +355,7 @@ As with many patterns, Bulkowski has his own distinct methods for identifying th
 * [Tradingview - Wiki - Rectangle](https://www.tradingview.com/wiki/Rectangle)
   <img src="https://i.imgur.com/mRdS0Ip.png"/>
 
-## Double Bottoms [**^**](#Contents)
+## Double Bottoms 
 
 <img src="https://i.imgur.com/dFtYbCI.png"/>
 
@@ -378,7 +378,7 @@ A double bottom is not a true double bottom until prices rise above the confirma
 
 An additional 525 formations performed as expected by rising to the confirmation point and continuing higher. If you buy a stock just after it touches the second bottom, your chances of having a successful trade are one in three. In other words, wait for prices to rise above the confirmation point.
 
-## Double Tops [**^**](#Contents)
+## Double Tops 
 
 <img src="https://i.imgur.com/o72B6d0.png"/>
 
@@ -403,7 +403,7 @@ For double tops, only 39% of the formations decline far enough to fulfill the pr
 
 The question then becomes, is it worth taking profits on a confirmed double top? If prices continue down an additional 15 % and then turn around, why not just wait for prices to recover? Those are good questions. If you sell when the double top is confirmed, you may be selling near the ultimate low.
 
-## Triple Bottoms and Tops [**^**](#Contents)
+## Triple Bottoms and Tops 
 
 <a href="https://www.tradingview.com/chart/EURGBP/wVqTZZqs-TRIPLE-TOPS-BOTTOMS-TREND-REVERSAL/"><img src="https://i.imgur.com/TxWD3KT.png"/></a>
 
@@ -411,7 +411,7 @@ The question then becomes, is it worth taking profits on a confirmed double top?
 * [Investopedia - University - Double\Triple - Bottom\Top](https://www.investopedia.com/university/five-chart-patterns-you-need-know/doubletriple-bottomtop.asp)
 * [Investopedia - Triple Tops and Bottoms](https://www.investopedia.com/articles/technical/02/012102.asp)
 
-### Triple Bottoms [**^**](#Contents)
+### Triple Bottoms 
 
 <img src="https://i.imgur.com/LBCbJ5H.png"/>\
 Three distinct minor lows at about the same price level
@@ -434,7 +434,7 @@ Just for kicks, I measured the average gain for those formations with a third bo
 
 The differences are statistically significant but it may surprise you to learn the average price difference between the two bottoms is only 35 cents.
 
-## Triple Tops [**^**](#Contents)
+## Triple Tops 
 
 <img src="https://i.imgur.com/MsDzt4h.png"/>\
 Three distinct minor highs at about the same price
@@ -454,7 +454,7 @@ The failure rate at 15% for triple tops approaches the 20% maximum*! consider pe
 One surprising finding about triple tops is when the price of the highest high in the third top is above the second top. Formations with this configuration have losses of 22% versus 17%. The differences are statistically significant
 meaning that die results likely are not due to chance.
 
-## Cup with Handle [**^**](#Contents)
+## Cup with Handle 
 
 <img src="https://i.imgur.com/piGF9G6.png"/>\
 <img src="https://i.imgur.com/nn0KcON.png"/>
@@ -472,9 +472,9 @@ As I was selecting cup-with-handle formations, it became apparent that locating 
 All the cups are U-shaped (V-shaped ones being removed). Also removed from the study were cups without handles. To me, a cup without a handle is a rounding bottom
 
 
-## Head-and-Shoulders [**^**](#Contents)
+## Head-and-Shoulders 
 
-### HS Tops [**^**](#Contents)
+### HS Tops 
 
 <img src="https://i.imgur.com/gMIQ51S.png"/>
 
@@ -498,7 +498,7 @@ All the cups are U-shaped (V-shaped ones being removed). Also removed from the s
 
 >When a formation appears with more than the standard two shoulders and one head it is called a complex head-and-shoulders pattern. Complex head-and-shoulders patterns for both tops and bottoms have their own chapters but many appear in this chapter's statistics. They are, after all, head-and-shoulder tops too.
 
-### HS Tops-Complex [**^**](#Contents)
+### HS Tops-Complex 
 
 <img src="https://i.imgur.com/jA0vkm2.png"/>
 
@@ -515,7 +515,7 @@ shoulders, or both
 
 >If you ignore the labels for a moment, the inner price action looks like a rounding top. This smooth price rollover is common for complex head-andshoulder formations. Of course, the flat head shape for a multiple shoulder pattern (Figure 21.2) is also typical.
 
-### Inverted Head and Shoulders [**^**](#Contents)
+### Inverted Head and Shoulders 
 
 <img src="https://i.imgur.com/vYdIsA1.png"/>
 
@@ -531,7 +531,7 @@ shoulders, or both
 * [Quick Notes about Trading Inverted Head and Shoulders](https://www.tradingview.com/chart/BTCUSD/egkLlnRD-Quick-notes-about-Inverted-Head-and-Shoulders/)
   <img src="https://i.imgur.com/5kUJr0D.png"/>
 
-### HS Bottoms-Complex [**^**](#Contents)
+### HS Bottoms-Complex 
 
 * [Bulkowski - Inverted Head and Shoulder, Complex](http://thepatternsite.com/chsb.html)
 
@@ -548,7 +548,7 @@ When the neckline slopes downward, the stock performs better.
 
 <a href="https://www.tradingview.com/chart/CSGNZ/EmTbRIii-A-Bestiary-of-Heads-and-Shoulders/"><img src="https://i.imgur.com/Nn7flI9.png"/></a>
 
-## Dead-Cat Bounce [**^**](#Contents)
+## Dead-Cat Bounce 
 
 <img src="https://i.imgur.com/vyJdfDG.png"/>
 
@@ -564,7 +564,7 @@ It is not so much a chart formation as it is a warning to exit the stock quickly
 
 The larger the event decline, the larger the bounce. 
 
-## Gaps [**^**](#Contents)
+## Gaps 
 
 <img src="https://i.imgur.com/in6Os6l.png"/>\
 <img src="https://i.imgur.com/rbxMzBq.png"/>
@@ -584,7 +584,7 @@ stock to create a gap.
 It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
 
 
-### Island Reversals [**^**](#Contents)
+### Island Reversals 
 
 <img src="https://i.imgur.com/zhv3ClU.png"/>
 
@@ -593,7 +593,7 @@ It sometimes is nothing more than the stock being worth less simply because of a
 
 "The performance of island reversals is perhaps surprising only for its mediocrity."
 
-## Rounding Bottoms [**^**](#Contents)
+## Rounding Bottoms 
 
 <img src="https://i.imgur.com/QUD9peo.png"/>\
 A long, rounded upward turn in prices\
@@ -614,7 +614,7 @@ AKA: rounding turns, and saucers.
 >If you consider upside breakouts only (a breakout being when prices move above the left saucer lip), then the failure rate drops to just 5%.
 
 
-## Rounding Top [**^**](#Contents)
+## Rounding Top 
 
 <img src="https://i.imgur.com/8h5IOLL.png"/>\
 As prices move up, they curve around then breakout upward.
@@ -631,7 +631,7 @@ Contrary to Bulkowski, most traders seem to look at these as more likely to brea
 
 
 
-## Bump-and-Run Reversal Bottoms[**^**](#Contents)
+## Bump-and-Run Reversal Bottoms
 
 <img src="https://i.imgur.com/C3adH9M.png"/>
 
@@ -649,7 +649,7 @@ higher.
 <a href="https://www.tradingview.com/chart/ITC/d5Pr576Q-ITC-Bulkowski-s-Bump-and-Run-Reversal-Bottoms-LONG/"><img src="https://i.imgur.com/hJAhGQL.png"></a>
 
 
-## Bump-and-Run Reversal Tops [**^**](#Contents)
+## Bump-and-Run Reversal Tops 
 
 <img src="https://i.imgur.com/MJQXJcz.png"/>\
 <img src="https://i.imgur.com/2JpGC1p.png"/>
@@ -664,7 +664,7 @@ Prices bump-up, round over, and run back down again. The formation is the visual
 <img src="https://i.imgur.com/jEwAZ1E.png"/>
 
 
-## Diamond Tops and Bottoms [**^**](#Contents)
+## Diamond Tops and Bottoms 
 
 <img src="https://i.imgur.com/6EnaktK.png"/>
 
@@ -684,7 +684,7 @@ In appearance, the only difference between the two diamond patterns is the price
 <a href="https://www.tradingview.com/chart/BTCUSD/PajEGFVg-Confusing-priceaction-on-btc-uncovers-3hour-Diamond-pattern/"><img src="https://i.imgur.com/rPLVeSm.png"/></a>
 
 
-## Hanging Man [**^**](#Contents)
+## Hanging Man 
 
 <img src="https://i.imgur.com/dUiqpr0.png"/>
 
@@ -704,7 +704,7 @@ After careful consideration, I cannot recommend trading this formation. The prim
 <img src="https://i.imgur.com/tf78WgB.png"/>
 
 
-## Inside Days [**^**](#Contents)
+## Inside Days 
 
 <img src="https://i.imgur.com/dsVo7E9.png"/>\
 A daily price range narrower than the prior day
@@ -722,7 +722,7 @@ The theory behind the formation says an investor can expect a large price move t
 
 <img src="https://i.imgur.com/ycpEWPh.png"/>
 
-## Outside Days [**^**](#Contents)
+## Outside Days 
 
 <img src="https://i.imgur.com/4I56t43.png"/>
 
@@ -732,7 +732,7 @@ The theory behind the formation says an investor can expect a large price move t
 
 <a href="https://www.tradingview.com/chart/GBPUSD/mZS7LEis-GBP-USD-Outside-day-candle-needs-bearish-follow-through/"><img src="https://i.imgur.com/kGq90xC.png"/></a>
 
-## Measured Move Down [**^**](#Contents)
+## Measured Move Down 
 
 <img src="https://i.imgur.com/ARJr1m3.png"/>\
 
@@ -746,7 +746,7 @@ The theory behind the formation says an investor can expect a large price move t
 
 <a href="https://www.tradingview.com/chart/LTCZ18/PxALp5lC-Bearish-pattern-Measured-move-down/"><img src="https://i.imgur.com/TZUREFT.png"/></a>
 
-## Measured Move Up [**^**](#Contents)
+## Measured Move Up 
 
 <img src="https://i.imgur.com/Oi3bpLt.png"/>\
 Prices move up, retrace, then move up again
@@ -763,7 +763,7 @@ Yes, its just like measured move down, but going up.
 <a href="https://www.tradingview.com/chart/GBPNZD/1WcYeNAN-GBPNZD-Measured-Move-Up-and-Long-Opportunity/"><img src="https://i.imgur.com/pAZ0o95.png"/></a>
 
 
-## Pipe Bottoms and Tops [**^**](#Contents)
+## Pipe Bottoms and Tops 
 
 <img src="https://i.imgur.com/dyRppHO.png"/><img src=https://i.imgur.com/yAQ2Lz5.png/>
 
@@ -786,7 +786,7 @@ Yes, its just like measured move down, but going up.
 
 
 
-## Scallops [**^**](#Contents)
+## Scallops 
 
 <img src="https://i.imgur.com/JIv7ite.png"/>
 
@@ -796,7 +796,7 @@ There are 4 different types of scallops: ascending, ascending inverted, descendi
 
 >The percentage rise for ascending scallops is 33%, respectable but mediocre when compared to other bullish formations. For descending scallops, the declines average 24%; that is quite good (we usually see a 20% decline for bearish patterns). The measure rule is weak in both species and especially so with the descending variety—only 52% of the chart patterns reach their price targets.
 
-### Ascending Scallops [**^**](#Contents)
+### Ascending Scallops 
 
 Prices peak, retrace, and curve around then form a higher peak. The price pattern looks like the letter J.
 
@@ -806,7 +806,7 @@ Prices peak, retrace, and curve around then form a higher peak. The price patter
   [![](https://i.imgur.com/jXpQs2Q.png)](https://www.tradingview.com/chart/XAUUSD/wUtz8CSv-XAUUSD-Potential-Reversal-Suspected-to-1419/)
 
 
-### Descending Scallops [**^**](#Contents)
+### Descending Scallops 
 
 * [Bulkowski - Descending Scallop](http://thepatternsite.com/descscallops.html)
 
@@ -817,7 +817,7 @@ Prices peak, retrace, and curve around then form a higher peak. The price patter
 <a href="https://www.tradingview.com/chart/BTCUSD/WqlumwO4-BTCUSD-Inverted-descending-scallops/"><img src="https://i.imgur.com/jnziZUw.png"/></a>
 
 
-## Broadening Formations [**^**](#Contents)
+## Broadening Formations 
 
 Broadening formations are generally considered bearish, and involve increased volitility with no clear direction.
 
@@ -833,7 +833,7 @@ Good for those who work on a low timeframe.
 
 Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class. 
 
-### Broadening Tops and Bottoms [**^**](#Contents)
+### Broadening Tops and Bottoms 
 
 <img src="https://i.imgur.com/aYRNLT6.png"/><img src="https://i.imgur.com/ZdMwvG5.png"/>
 
@@ -852,7 +852,7 @@ Bulkowski seems to be the only person who has tested different broadening patter
 
 <a href="https://www.tradingview.com/chart/AUDCHF/yqgnq7zm-Broadening-Top-on-AUDCHF/"><img src="https://i.imgur.com/dr6ubSl.png"/></a>
 
-### Right-Angled Ascending or Descending [**^**](#Contents)
+### Right-Angled Ascending or Descending 
 
 <img src="https://i.imgur.com/sKlLY09.png"/>\
 Ascending\
@@ -873,7 +873,7 @@ Descending\
 
 
 
-## Statistics [**^**](#Contents)
+## Statistics 
 
 <img src="https://i.imgur.com/QRetoEG.png"/>
 
@@ -891,7 +891,7 @@ Descending\
 
 <img src="https://i.imgur.com/eIYOjLF.png"/>
 
-## Resources [**^**](#contents)
+## Resources 
 
 * [Investopedia.com](https://investopedia.com)
 * [BabyPips.com](https://babypips.com)
@@ -903,7 +903,7 @@ Descending\
 
 ---
 
-## [infominer.id](https://infominer.id) —Contact me for research based content [**^**](#contents) 
+## [infominer.id](https://infominer.id) —Contact me for research based content  
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.

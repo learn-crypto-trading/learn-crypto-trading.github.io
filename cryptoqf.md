@@ -22,17 +22,17 @@ Where there is related content at [his blog](https://www.publish0x.com/@CryptoQu
 
 
 ## Contents
-* [Crypto-Quant Model](#crypto-quant-model-)
+* [Crypto-Quant Model](#crypto-quant-model)
 * [Youtube Playlists](#youtube-playlists)
-  * [Foundational Education to Investing and Trading](#foundational-education-to-investing-and-trading-)
-  * [Technical Analysis Education \ Hands on Education](#technical-analysis-education-hands-on-education-)
-  * [Binance for Beginners](#binance-for-beginners-)
-  * [Cryptocurrency Exchange Reviews](#cryptocurrency-exchange-reviews-)
-  * [Analysis](#analysis-)
-  * [Daily Updates](#daily-updates-)
+  * [Foundational Education to Investing and Trading](#foundational-education-to-investing-and-trading)
+  * [Technical Analysis Education \ Hands on Education](#technical-analysis-education-hands-on-education)
+  * [Binance for Beginners](#binance-for-beginners)
+  * [Cryptocurrency Exchange Reviews](#cryptocurrency-exchange-reviews)
+  * [Analysis](#analysis)
+  * [Daily Updates](#daily-updates)
 * [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) - back home.
 
-## Crypto-Quant Model [**^**](#contents)
+## Crypto-Quant Model 
 * [docs.google.com - Crypto Quantamental (@CryptoQF) Coin Selection Model](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/htmlview)
 
 **Quant Model Videos**:
@@ -42,12 +42,12 @@ Where there is related content at [his blog](https://www.publish0x.com/@CryptoQu
 You've seen the shared doc, here's some videos to accompany it.
 
 
-## Youtube Playlists [**^**](#contents)
+## Youtube Playlists 
 
 I took some liberty by not including the same video in more than one section and combining some playlists, as some of the videos are found on multiple playlists. The point is to easily browse what titles are available, and I'll likely create my own way to organize them later.
 
 
-### Risk Management Education [**^**](#contents)
+### Risk Management Education 
 * [Mastering Volatility (Risk) for Investors and Traders](https://www.youtube.com/watch?v=WTLEc86-rv4&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG) - 53:57
 * [Mastering Stop Losses for Investors and Traders](https://www.youtube.com/watch?v=Y_kgRn-79nU&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG&index=2) - 53:32
 * [Top 5 Behavioral Biases That Hurt Traders & Investors](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG&index=3) — 21:29  — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-behavioral-biases-and-how-they-hurt-your-portfolio-xmyg))
@@ -56,13 +56,13 @@ I took some liberty by not including the same video in more than one section and
 * [Why Traders & Gamblers go BROKE](https://www.youtube.com/watch?v=qFoTQG_0Zyk&index=6&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG) - 24:27
 
 
-### Foundational Education to Investing and Trading [**^**](#contents)
+### Foundational Education to Investing and Trading 
 * [How to Calculate Investment and Trade Returns (Performance)](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2) - 19:24
 * [The Different Crypto Trading and Investing Strategies](https://www.youtube.com/watch?v=phi0UkZC5Fk&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=3) — 28:48 — ([Article](https://www.publish0x.com/crypto-quantamental/which-crypto-strategy-is-right-for-you-xgny))
 * [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) — 19:07 — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-the-federal-reserve-xqowk))
 
 
-### Technical Analysis Education \ Hands on Education [**^**](#contents)
+### Technical Analysis Education \ Hands on Education 
 
 * [Trading Support and Resistance Levels](https://www.youtube.com/watch?v=2r5ixjfilyQ&index=17&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) — 11:45 — ([Article](https://www.publish0x.com/crypto-quantamental/identifying-and-trading-support-and-resistance-levels-xpjwd))
 * [Understand, Trade, and Calculate the RSI (Relative Strength Index)](https://www.youtube.com/watch?v=KCWIN85zVPI&index=14&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) — 17:36 — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-trading-and-calculating-rsi-relative-strength-index-xvrdm))

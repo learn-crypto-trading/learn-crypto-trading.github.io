@@ -23,68 +23,68 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 ## Contents
 
 * [Other Files](#other-files)
-* [Starter Pack](#starter-pack-)
-* [Risk Management](#risk-management-)
-* [General](#general--)
-* [Indicators](#indicators-)
-* [Divergence](#divergence-)
-* [Arbitrage](#arbitrage-)
-* [Wyckoff](#wyckoff-)
-* [Manipulation](#manipulation-)
-* [Economics](#economics-)
+* [Starter Pack](#starter-pack)
+* [Risk Management](#risk-management)
+* [General](#general)
+* [Indicators](#indicators)
+* [Divergence](#divergence)
+* [Arbitrage](#arbitrage)
+* [Wyckoff](#wyckoff)
+* [Manipulation](#manipulation)
+* [Economics](#economics)
 * [Leverage](#leverage)
-* [Tools-N-Apps](#tools-n-apps-)
+* [Tools-N-Apps](#tools-n-apps)
 * [Protocols](#protocols)
-* [Historical](#historical-)
-* [Speculation-Market Theses](#Speculation-market-theses-)
-* [Books](#books-)
-* [Videos](#videos-)
-* [Podcasts](#podcasts-)
-* [Resources](#resources-)
-* [Twitter Follows](#twitter-follows-)
-* [Tips Jar](#tips-jar-)
+* [Historical](#historical)
+* [Speculation-Market Theses](#Speculation-market-theses)
+* [Books](#books)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
+* [Resources](#resources)
+* [Twitter Follows](#twitter-follows)
+* [Tips Jar](#tips-jar)
 
 ## Other Files
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
-  * [Intro](/chart-patterns.md#intro-)
-  * [Chart Patterns](/chart-patterns.md#chart-patterns-)
-  * [Triangles](/chart-patterns.md#triangles-)
-  * [Flags and Pennants](/chart-patterns.md#flags-and-pennants-)
-  * [Wedges](/chart-patterns.md#wedges-)
-  * [Rectangles](/chart-patterns.md#rectangles-)
-  * [Double Bottoms](/chart-patterns.md#double-bottoms-)
-  * [Double Tops](/chart-patterns.md#double-tops-)
-  * [Triple Bottoms and Tops](/chart-patterns.md#triple-bottoms-and-tops-)
-  * [Cup With Handle](/chart-patterns.md#cup-with-handle-)
-  * [Head and Shoulders](/chart-patterns.md#head-and-shoulders-)
-  * [Dead-Cat Bounce](/chart-patterns.md#dead-cat-bounce-)
-  * [Gaps](/chart-patterns.md#gaps-)
-  * [Rounding Bottoms](/chart-patterns.md#rounding-bottoms-)
-  * [Rounding Tops](/chart-patterns.md#rounding-tops-)
-  * [Bump-and-Run Reversals](/chart-patterns.md#bump-and-run-reversal-bottoms-)
-  * [Diamond Tops and Bottoms](/chart-patterns.md#diamond-tops-and-bottoms-)
-  * [Hanging Man](/chart-patterns.md#hanging-man-)
-  * [Inside Days](/chart-patterns.md#inside-days-)
-  * [Outside Days](/chart-patterns.md#outside-days-)
-  * [Measured Move Down](/chart-patterns.md#measured-move-down-)  
-  * [Measured Move Up](/chart-patterns.md#measured-move-up-)
-  * [Pipe Bottoms and Tops](/chart-patterns.md#pipe-bottoms-and-tops-)
-  * [Scallops](/chart-patterns.md#scallops-)
-  * [Broadening Formations](/chart-patterns.md#broadening-formations-)
-  * [Statistics](/chart-patterns.md#statistics-)
-  * [Resources](/chart-patterns.md#resources-)
+  * [Intro](/chart-patterns.md#intro)
+  * [Chart Patterns](/chart-patterns.md#chart-patterns)
+  * [Triangles](/chart-patterns.md#triangles)
+  * [Flags and Pennants](/chart-patterns.md#flags-and-pennants)
+  * [Wedges](/chart-patterns.md#wedges)
+  * [Rectangles](/chart-patterns.md#rectangles)
+  * [Double Bottoms](/chart-patterns.md#double-bottoms)
+  * [Double Tops](/chart-patterns.md#double-tops)
+  * [Triple Bottoms and Tops](/chart-patterns.md#triple-bottoms-and-tops)
+  * [Cup With Handle](/chart-patterns.md#cup-with-handle)
+  * [Head and Shoulders](/chart-patterns.md#head-and-shoulders)
+  * [Dead-Cat Bounce](/chart-patterns.md#dead-cat-bounce)
+  * [Gaps](/chart-patterns.md#gaps)
+  * [Rounding Bottoms](/chart-patterns.md#rounding-bottoms)
+  * [Rounding Tops](/chart-patterns.md#rounding-tops)
+  * [Bump-and-Run Reversals](/chart-patterns.md#bump-and-run-reversal-bottoms)
+  * [Diamond Tops and Bottoms](/chart-patterns.md#diamond-tops-and-bottoms)
+  * [Hanging Man](/chart-patterns.md#hanging-man)
+  * [Inside Days](/chart-patterns.md#inside-days)
+  * [Outside Days](/chart-patterns.md#outside-days)
+  * [Measured Move Down](/chart-patterns.md#measured-move-down)  
+  * [Measured Move Up](/chart-patterns.md#measured-move-up)
+  * [Pipe Bottoms and Tops](/chart-patterns.md#pipe-bottoms-and-tops)
+  * [Scallops](/chart-patterns.md#scallops)
+  * [Broadening Formations](/chart-patterns.md#broadening-formations)
+  * [Statistics](/chart-patterns.md#statistics)
+  * [Resources](/chart-patterns.md#resources)
 * [**candlesticks.md**](/candlesticks.md) - a start
 * [**evaluation.md**](/evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
 * [**economics.md**](/economics.md) - crypto-economics
 * [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
-  * [Guides-Articles](/quant.md#guides-articles-)
-  * [Exchanges-API](/quant.md#exchanges-api-)
-  * [Books](/quant.md#books-)
-  * [Academic Literature](/quant.md#academic-literature-)
-  * [Software Libraries](/quant.md#software-libaries-)
-  * [Videos](/quant.md#videos-)
-  * [Podcasts](/quant.md#podcasts-)
-  * [Resources](/quant.md#resources-)
+  * [Guides-Articles](/quant.md#guides-articles)
+  * [Exchanges-API](/quant.md#exchanges-api)
+  * [Books](/quant.md#books)
+  * [Academic Literature](/quant.md#academic-literature)
+  * [Software Libraries](/quant.md#software-libaries)
+  * [Videos](/quant.md#videos)
+  * [Podcasts](/quant.md#podcasts)
+  * [Resources](/quant.md#resources)
 * [**pinescript.md**](/pinescript.md) - Learn TradingView\Pinescript.
 * [**/CryptoQF**](/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
 
@@ -92,7 +92,7 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
 
-## Starter Pack [**^**](#contents)
+## Starter Pack 
 
 Search for almost anything and add any or all of the following sites to successive search queries — depending on what your looking for.
 
@@ -110,7 +110,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
 
 
-## Risk Management [**^**](#contents)
+## Risk Management 
 
 <img src="https://i.imgur.com/VZafWyS.png"/>
 (<a href="https://youtu.be/Z5sb5muFHqg?t=771">Source</a>)
@@ -122,7 +122,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
   >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
 
-## General  [**^**](#contents)
+## General  
 
 * [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
   > Have a trading plan for the day/session. Here's a basic outline you can use:
@@ -183,7 +183,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 
 
-## Indicators [**^**](#contents)
+## Indicators 
 
 * ![](https://i.imgur.com/ZL3NcaI.png)
 * [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
@@ -204,7 +204,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
 
 
-## Divergence  [**^**](#contents)
+## Divergence  
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
 * https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
@@ -218,13 +218,13 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
 
-## Arbitrage [**^**](#contents)
+## Arbitrage 
 
 * [How Traders Use Cryptocurrency Arbitrage to Make Profits](https://medium.com/blocktoken/how-traders-use-cryptocurrency-arbitrage-to-make-profits-8e5f3adb75c4)
   > "Arbitrage is the simultaneous buying and selling of an asset class on different markets in order to profit from a price discrepancy between them. For example, a trader might notice that a specific token is selling for less on Exchange A than on Exchange B. An arbitrage trader would buy said token on Exchange A and sell it for a higher price on Exchange B, making a risk free profit in the process."
 
 
-## Wyckoff [**^**](#contents)
+## Wyckoff 
 
 * [@nebraskangooner - Wyckoff: Law of effort vs result](https://twitter.com/nebraskangooner/status/1024463540181258240)
 ![](https://pbs.twimg.com/media/DjegKETU4AEw7s7.jpg:large)
@@ -237,7 +237,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 
 
-## Manipulation [**^**](#contents)
+## Manipulation 
 
 
 * [How Fear Is Being Used to Manipulate Cryptocurrency Markets](https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/how-fear-is-being-used-manipulate-cryptocurrency-markets)
@@ -250,7 +250,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "Majority believe that markets move randomly and reflect the collective wisdom of investors, the truth is quite the opposite.The invisible hand is a myth. Market prices have always been manipulated by the government's visible hands through influencing laws and regulation. Insiders control markets and manipulate them up or down for profit. Manipulation is everywhere, undeniable and unavoidable. It happens on a very large scale throughout every single financial market out there, stock, bonds, commodities, currencies and so forth. There are other types of manipulation, such as social and news manipulation, hence I called it: The Game of Deception."
 
 
-## Economics [**^**](#contents)
+## Economics 
 
 * [How to trade ALTS keeping in mind BTC Price action?](https://medium.com/@tradingroomapp/how-to-trade-alts-keeping-in-mind-btc-price-action-40a22edc5411)
 [[**T**](https://twitter.com/CryptoChoe/status/1012031916160233472)
@@ -263,7 +263,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "When someone asks you how much of a company you own, the answer could be two very different numbers. You might own 10,000 shares and there might be 1mm shares issued and outstanding. That would suggest you own 1% of the company. And that would be correct, as of right now.\n\nWhat is often not calculated in these sorts of numbers is future dilution, particularly dilution that is visible if you look closely. The most common form of future dilution that is visible are outstanding options and warrants to issue stock that have not been exercised."
 
 
-## Leverage [**^**](#contents)
+## Leverage 
 
 * [@CryptoCred on Trading -w- Leverage](https://medium.com/@cryptocreddy/comprehensive-guide-to-position-size-and-leverage-2e27764ce9e0)
   > "Nearly every day, whether on Twitter, Telegram, or Discord, I see traders struggling to understand how to calculate their position sizes and generally make sense of leveraged trading.\n\nIn this article, I’ll break the concepts down to first principles and give you a very simple way to calculate position size, as well as understand how and when to employ leverage."
@@ -279,7 +279,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "The answer: ‘Same’.\n\nThey have the same position size and they’re both up 1%.\n\nRob using higher leverage does NOT mean that he’s trading with more than 100 contracts!\n\nHigher leverage simply means Rob puts up less collateral (margin) to open the same 100 contract position."
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
-## Tools-n-Apps [**^**](#contents)
+## Tools-n-Apps 
 * https://blocksdecoded.com/cryptocurrency-trading-simulators/
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
@@ -339,12 +339,12 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 https://cryptocoincharts.info
 https://coincheckup.com/ 
 
-## Protocols [**^**](#contents)
+## Protocols 
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)]
   > "Compound is a money market protocol on the Ethereum blockchain — allowing individuals, institutions, and applications to frictionlessly earn interest on or borrow cryptographic assets without having to negotiate with a counterparty or peer. Each market has dynamic interest rates, which float in real-time as market conditions adjust."
 
-## Historical [**^**](#contents)
+## Historical 
 
 * [@MoonOverlord on Doge Cycles](https://twitter.com/MoonOverlord/status/1009912924822016002)
   > "Interesting symmetry in between the timing of $DOGE cycles over the last few years\n\nDoge has long been a signal for #altseason"
@@ -355,7 +355,7 @@ https://coincheckup.com/
 * [@brian_armstrong's chart of bitcoin moonshots](https://twitter.com/brian_armstrong/status/1009192006512328704)
 ![](https://i.imgur.com/1ODWbbd.png)
 
-## Speculation-Market Theses [**^**](#contents)
+## Speculation-Market Theses 
 
 * [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
   > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
@@ -367,7 +367,7 @@ https://coincheckup.com/
 ![](https://pbs.twimg.com/media/DkfND3OW4AIUrHy.jpg:large)
   > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
-## Books [**^**](#contents)
+## Books 
 
 <a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="https://i.imgur.com/bLMLFio.png"/></a>\
 [Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
@@ -396,7 +396,7 @@ https://coincheckup.com/
 
 
 
-## Videos [**^**](#contents)
+## Videos 
 
 * [Trader Dante on Youtube](https://www.youtube.com/channel/UCT43ffXmotx7i903Yxcwxjw/videos)
   > "obligatory watching"
@@ -404,13 +404,13 @@ https://coincheckup.com/
 * [@CryptoCred Price Action Webinar #1](https://twitter.com/CryptoCred/status/1035223770267611136)
   > "Price Action Webinar #1 - Retests"
 
-## Podcasts [**^**](#contents)
+## Podcasts 
 
 * [Flippening Podcast](https://pca.st/P5sC)
   > "Flippening - For Cryptocurrency Investors (Bitcoin, Ethereum, and Cryptoasset Investing)"
 
 
-## Resources [**^**](#contents)
+## Resources 
 
 * [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
   > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
@@ -430,7 +430,7 @@ https://coincheckup.com/
   > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
 
-## Twitter Follows [**^**](#contents)
+## Twitter Follows 
 
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
@@ -442,7 +442,7 @@ https://coincheckup.com/
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   >[![](https://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
 
-## Tips Jar [**^**](#contents)
+## Tips Jar 
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
