@@ -330,9 +330,10 @@ defaults:
       sidebar:
         nav: "infonav"
       toc: true
-      toc_label: "Contents"
-      toc_sticky: true
-      twitter:
+      toc_label   : "Contents"
+      toc_icon    : "link"
+      toc_sticky  : true
+            twitter:
         card: summary_large_image
 
 
