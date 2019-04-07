@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Learn Technical Analysis and Crypto Trading Fundamentals"
+title: "/learn-crypto-trading"
 description: "A collection of resources for learning to trade cryptocurrencies."
 twitter:
   card      : "summary_large_image"
