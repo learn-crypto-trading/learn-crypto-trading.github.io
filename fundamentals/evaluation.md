@@ -122,7 +122,7 @@ Join me in the Crypto SuperSource Discord Server, if you'd like to chat: - https
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](http://i.imgur.com/d0HQmuV.png) 
+![](https://i.imgur.com/d0HQmuV.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 

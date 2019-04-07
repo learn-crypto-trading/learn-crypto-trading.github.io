@@ -156,7 +156,7 @@ Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), i
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](http://i.imgur.com/d0HQmuV.png) 
+![](https://i.imgur.com/d0HQmuV.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
