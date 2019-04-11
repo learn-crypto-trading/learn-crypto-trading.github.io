@@ -29,6 +29,8 @@ infonav:
         url   : quant/
       - title : Pinescript
         url   : pinescript/
+      - title : CryptoQF
+        url   : cryptoqf/
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"

@@ -3,6 +3,7 @@ layout: single
 title: Candlestick Patterns
 description: The beginnings of a study on candlestick patterns.
 image: "https://i.imgur.com/v9KOmQj.png"
+permalink: candlesticks/
 ---
 
 All About Candlestick Patterns

@@ -3,6 +3,7 @@ layout: single
 title: Pinescript-TradingView
 description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
 image: "https://i.imgur.com/x01Hf9y.png"
+permalink:  pinescript/
 ---
 
 * [**TradingView's Pine script Introduction**](https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/)

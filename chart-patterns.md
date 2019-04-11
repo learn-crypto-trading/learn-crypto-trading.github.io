@@ -4,6 +4,8 @@ title: Encyclopedia of Chart Patterns - Cheat Sheet
 description: Taking notes while reading Encyclopedia of Chart patterns by Thomas Bulkowski.
 hide_description: true
 image: "https://i.imgur.com/kBb2PBa.png"
+permalink: chart-patterns/
+toc_sticky: false
 ---
 
 ![](https:///i.imgur.com/bsCmidC.png)
