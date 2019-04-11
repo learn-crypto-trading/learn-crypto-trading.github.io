@@ -333,7 +333,4 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
-            twitter:
-        card: summary_large_image
-
 
