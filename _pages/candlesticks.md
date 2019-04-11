@@ -4,6 +4,7 @@ title: Candlestick Patterns
 description: The beginnings of a study on candlestick patterns.
 image: "https://i.imgur.com/v9KOmQj.png"
 permalink: candlesticks/
+toc_sticky: false
 ---
 
 All About Candlestick Patterns
