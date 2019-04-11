@@ -4,6 +4,7 @@ title       : "/learn-crypto-trading"
 description : "A collection of resources for learning to trade cryptocurrencies."
 header:
   image    : "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
+permalink: /
 ---
 
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
