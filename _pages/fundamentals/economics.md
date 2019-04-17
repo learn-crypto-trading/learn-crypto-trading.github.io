@@ -2,6 +2,7 @@
 title: Economics
 permalink: fundamentals/economics/
 redirect_from: fundamentals/economics
+toc: false
 ---
 
 * [Cryptocurrencies – towards a circular economy](https://www.linkedin.com/pulse/cryptocurrencies-towards-circular-economy-titus-capilnean/)
@@ -150,11 +151,8 @@ http://cryptoeconomics.com.au/
 
 ---
 
-## [infominer.id](https://infominer.id) —Contact me for research based content  
+## Support the Cause  
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
-
 
 **Tips appreciated**
 
