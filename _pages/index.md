@@ -25,48 +25,48 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 
 ## Directory
 
-* [**chart-patterns/**](/chart-patterns/) - resources related to various chart patterns.
-  * [Intro](/chart-patterns/#intro)
-  * [Chart Patterns](/chart-patterns/#chart-patterns)
-  * [Triangles](/chart-patterns/#triangles)
-  * [Flags and Pennants](/chart-patterns/#flags-and-pennants)
-  * [Wedges](/chart-patterns/#wedges)
-  * [Rectangles](/chart-patterns/#rectangles)
-  * [Double Bottoms](/chart-patterns/#double-bottoms)
-  * [Double Tops](/chart-patterns/#double-tops)
-  * [Triple Bottoms and Tops](/chart-patterns/#triple-bottoms-and-tops)
-  * [Cup With Handle](/chart-patterns/#cup-with-handle)
-  * [Head and Shoulders](/chart-patterns/#head-and-shoulders)
-  * [Dead-Cat Bounce](/chart-patterns/#dead-cat-bounce)
-  * [Gaps](/chart-patterns/#gaps)
-  * [Rounding Bottoms](/chart-patterns/#rounding-bottoms)
-  * [Rounding Tops](/chart-patterns/#rounding-tops)
-  * [Bump-and-Run Reversals](/chart-patterns/#bump-and-run-reversal-bottoms)
-  * [Diamond Tops and Bottoms](/chart-patterns/#diamond-tops-and-bottoms)
-  * [Hanging Man](/chart-patterns/#hanging-man)
-  * [Inside Days](/chart-patterns/#inside-days)
-  * [Outside Days](/chart-patterns/#outside-days)
-  * [Measured Move Down](/chart-patterns/#measured-move-down)  
-  * [Measured Move Up](/chart-patterns/#measured-move-up)
-  * [Pipe Bottoms and Tops](/chart-patterns/#pipe-bottoms-and-tops)
-  * [Scallops](/chart-patterns/#scallops)
-  * [Broadening Formations](/chart-patterns/#broadening-formations)
-  * [Statistics](/chart-patterns/#statistics)
-  * [Resources](/chart-patterns/#resources)
-* [**candlesticks/**](/candlesticks/) - a start
-* [**evaluation/**](/evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
-* [**economics/**](/economics/) - crypto-economics
-* [**quant/**](/quant/) - Quant-Crypto Trading and Data Science 
-  * [Guides-Articles](/quant/#guides-articles)
-  * [Exchanges-API](/quant/#exchanges-api)
-  * [Books](/quant/#books)
-  * [Academic Literature](/quant/#academic-literature)
-  * [Software Libraries](/quant/#software-libaries)
-  * [Videos](/quant/#videos)
-  * [Podcasts](/quant/#podcasts)
-  * [Resources](/quant/#resources)
-* [**pinescript/**](/pinescript/) - Learn TradingView\Pinescript.
-* [**/CryptoQF**](/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
+* [**chart-patterns/**](https://infominer.id/learn-crypto-trading/chart-patterns/) - resources related to various chart patterns.
+  * [Intro](https://infominer.id/learn-crypto-trading/chart-patterns/#intro)
+  * [Chart Patterns](https://infominer.id/learn-crypto-trading/chart-patterns/#chart-patterns)
+  * [Triangles](https://infominer.id/learn-crypto-trading/chart-patterns/#triangles)
+  * [Flags and Pennants](https://infominer.id/learn-crypto-trading/chart-patterns/#flags-and-pennants)
+  * [Wedges](https://infominer.id/learn-crypto-trading/chart-patterns/#wedges)
+  * [Rectangles](https://infominer.id/learn-crypto-trading/chart-patterns/#rectangles)
+  * [Double Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#double-bottoms)
+  * [Double Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#double-tops)
+  * [Triple Bottoms and Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#triple-bottoms-and-tops)
+  * [Cup With Handle](https://infominer.id/learn-crypto-trading/chart-patterns/#cup-with-handle)
+  * [Head and Shoulders](https://infominer.id/learn-crypto-trading/chart-patterns/#head-and-shoulders)
+  * [Dead-Cat Bounce](https://infominer.id/learn-crypto-trading/chart-patterns/#dead-cat-bounce)
+  * [Gaps](https://infominer.id/learn-crypto-trading/chart-patterns/#gaps)
+  * [Rounding Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#rounding-bottoms)
+  * [Rounding Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#rounding-tops)
+  * [Bump-and-Run Reversals](https://infominer.id/learn-crypto-trading/chart-patterns/#bump-and-run-reversal-bottoms)
+  * [Diamond Tops and Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#diamond-tops-and-bottoms)
+  * [Hanging Man](https://infominer.id/learn-crypto-trading/chart-patterns/#hanging-man)
+  * [Inside Days](https://infominer.id/learn-crypto-trading/chart-patterns/#inside-days)
+  * [Outside Days](https://infominer.id/learn-crypto-trading/chart-patterns/#outside-days)
+  * [Measured Move Down](https://infominer.id/learn-crypto-trading/chart-patterns/#measured-move-down)  
+  * [Measured Move Up](https://infominer.id/learn-crypto-trading/chart-patterns/#measured-move-up)
+  * [Pipe Bottoms and Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#pipe-bottoms-and-tops)
+  * [Scallops](https://infominer.id/learn-crypto-trading/chart-patterns/#scallops)
+  * [Broadening Formations](https://infominer.id/learn-crypto-trading/chart-patterns/#broadening-formations)
+  * [Statistics](https://infominer.id/learn-crypto-trading/chart-patterns/#statistics)
+  * [Resources](https://infominer.id/learn-crypto-trading/chart-patterns/#resources)
+* [**candlesticks/**](https://infominer.id/learn-crypto-trading/candlesticks/) - a start
+* [**evaluation/**](https://infominer.id/learn-crypto-trading/evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
+* [**economics/**](https://infominer.id/learn-crypto-trading/economics/) - crypto-economics
+* [**quant/**](https://infominer.id/learn-crypto-trading/quant/) - Quant-Crypto Trading and Data Science 
+  * [Guides-Articles](https://infominer.id/learn-crypto-trading/quant/#guides-articles)
+  * [Exchanges-API](https://infominer.id/learn-crypto-trading/quant/#exchanges-api)
+  * [Books](https://infominer.id/learn-crypto-trading/quant/#books)
+  * [Academic Literature](https://infominer.id/learn-crypto-trading/quant/#academic-literature)
+  * [Software Libraries](https://infominer.id/learn-crypto-trading/quant/#software-libaries)
+  * [Videos](https://infominer.id/learn-crypto-trading/quant/#videos)
+  * [Podcasts](https://infominer.id/learn-crypto-trading/quant/#podcasts)
+  * [Resources](https://infominer.id/learn-crypto-trading/quant/#resources)
+* [**pinescript/**](https://infominer.id/learn-crypto-trading/pinescript/) - Learn TradingView\Pinescript.
+* [**/CryptoQF**](https://infominer.id/learn-crypto-trading/CryptoQF) - An organized directory of [Crypto Quantamental](https://infominer.id/learn-crypto-trading/https://twitter.com/CryptoQF)'s content
 
 
 ## Starter Pack 
