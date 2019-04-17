@@ -5,7 +5,7 @@ description : "A collection of resources for learning to trade cryptocurrencies.
 header:
   caption: "[Peter Dronen](https://vimeo.com/274392826) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)"
   image: "https://infominer.id/learn-crypto-trading/assets/img/buy-vs-sell.png"
-  og_image    : "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
+  og_image: "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
 permalink: /
 ---
 
