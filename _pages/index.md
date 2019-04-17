@@ -68,6 +68,7 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 * [**pinescript/**](https://infominer.id/learn-crypto-trading/pinescript/) - Learn TradingView\Pinescript.
 * [**/CryptoQF**](https://infominer.id/learn-crypto-trading/CryptoQF) - An organized directory of [Crypto Quantamental](https://infominer.id/learn-crypto-trading/https://twitter.com/CryptoQF)'s content
 
+![](https://infominer.id/learn-crypto-trading/assets/img/LCT.png)
 
 ## Starter Pack 
 
