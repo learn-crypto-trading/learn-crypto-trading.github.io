@@ -34,7 +34,7 @@ infonav:
       - title : Economics
         url   : fundamentals/economics/
       - title : ICO Evaluation
-        url   : fundamentals/evaluation/
+        url   : fundamentals/ico-evaluation/
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"

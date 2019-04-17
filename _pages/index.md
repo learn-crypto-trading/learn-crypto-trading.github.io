@@ -54,8 +54,8 @@ I'm beginning serious study of Technical Analysis with books that have come reco
   * [Statistics](https://infominer.id/learn-crypto-trading/chart-patterns/#statistics)
   * [Resources](https://infominer.id/learn-crypto-trading/chart-patterns/#resources)
 * [**candlesticks/**](https://infominer.id/learn-crypto-trading/candlesticks/) - a start
-* [**evaluation/**](https://infominer.id/learn-crypto-trading/evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
-* [**economics/**](https://infominer.id/learn-crypto-trading/economics/) - crypto-economics
+* [**evaluation/**](https://infominer.id/learn-crypto-trading/fundamentals/ico-evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
+* [**economics/**](https://infominer.id/learn-crypto-trading/fundamentals/economics/) - crypto-economics
 * [**quant/**](https://infominer.id/learn-crypto-trading/quant/) - Quant-Crypto Trading and Data Science 
   * [Guides-Articles](https://infominer.id/learn-crypto-trading/quant/#guides-articles)
   * [Exchanges-API](https://infominer.id/learn-crypto-trading/quant/#exchanges-api)

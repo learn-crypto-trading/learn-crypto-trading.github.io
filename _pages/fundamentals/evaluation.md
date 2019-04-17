@@ -1,7 +1,7 @@
 ---
 title: Cryptocurrency Evaluation and Why ICO's Fail
 permalink: fundamentals/ico-evaluation/
-redirect_from: fundamentals/ico_evaluation
+redirect_from: fundamentals/ico-evaluation
 ---
 
 * [The Best Fundamental Indicator - New Inflows](https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows)
