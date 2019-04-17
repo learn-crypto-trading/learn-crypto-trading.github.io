@@ -21,31 +21,9 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 * stare at the minute chart for two weeks
 
 ![](https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png)
-## Contents
 
-* [Other Files](#other-files)
-* [Starter Pack](#starter-pack)
-* [Risk Management](#risk-management)
-* [General](#general)
-* [Indicators](#indicators)
-* [Divergence](#divergence)
-* [Arbitrage](#arbitrage)
-* [Wyckoff](#wyckoff)
-* [Manipulation](#manipulation)
-* [Economics](#economics)
-* [Leverage](#leverage)
-* [Tools-N-Apps](#tools-n-apps)
-* [Protocols](#protocols)
-* [Historical](#historical)
-* [Speculation-Market Theses](#Speculation-market-theses)
-* [Books](#books)
-* [Videos](#videos)
-* [Podcasts](#podcasts)
-* [Resources](#resources)
-* [Twitter Follows](#twitter-follows)
-* [Tips Jar](#tips-jar)
+## Directory
 
-## Other Files
 * [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
   * [Intro](/chart-patterns.md#intro)
   * [Chart Patterns](/chart-patterns.md#chart-patterns)
@@ -88,9 +66,6 @@ I'm beginning serious study of Technical Analysis with books that have come reco
   * [Resources](/quant.md#resources)
 * [**pinescript.md**](/pinescript.md) - Learn TradingView\Pinescript.
 * [**/CryptoQF**](/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
-
-
-https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
 
 
 ## Starter Pack 
@@ -443,7 +418,9 @@ https://coincheckup.com/
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   >[![](https://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
 
-## Tips Jar 
+## Support the Cause
+
+I'll keep pumping out research driven content, either way.
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
