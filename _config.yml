@@ -25,7 +25,7 @@ baseurl                  : /learn-crypto-trading
 repository               : "infominer33/learn-crypto-trading"
 github                   : [metadata]
 teaser                   : #"/assets/img/information-discovery.jpg"
-logo                     : "https://infominer.id/learn-crypto-trading/info-grey.png"
+logo                     : "https://infominer.id/learn-crypto-trading/assets/img/info-grey.png"
 masthead_title           : "Learn Technical Analysis and Crypto Trading Fundamentals"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
