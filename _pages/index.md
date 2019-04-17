@@ -25,47 +25,47 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 
 ## Directory
 
-* [**chart-patterns.md**](/chart-patterns.md) - resources related to various chart patterns.
-  * [Intro](/chart-patterns.md#intro)
-  * [Chart Patterns](/chart-patterns.md#chart-patterns)
-  * [Triangles](/chart-patterns.md#triangles)
-  * [Flags and Pennants](/chart-patterns.md#flags-and-pennants)
-  * [Wedges](/chart-patterns.md#wedges)
-  * [Rectangles](/chart-patterns.md#rectangles)
-  * [Double Bottoms](/chart-patterns.md#double-bottoms)
-  * [Double Tops](/chart-patterns.md#double-tops)
-  * [Triple Bottoms and Tops](/chart-patterns.md#triple-bottoms-and-tops)
-  * [Cup With Handle](/chart-patterns.md#cup-with-handle)
-  * [Head and Shoulders](/chart-patterns.md#head-and-shoulders)
-  * [Dead-Cat Bounce](/chart-patterns.md#dead-cat-bounce)
-  * [Gaps](/chart-patterns.md#gaps)
-  * [Rounding Bottoms](/chart-patterns.md#rounding-bottoms)
-  * [Rounding Tops](/chart-patterns.md#rounding-tops)
-  * [Bump-and-Run Reversals](/chart-patterns.md#bump-and-run-reversal-bottoms)
-  * [Diamond Tops and Bottoms](/chart-patterns.md#diamond-tops-and-bottoms)
-  * [Hanging Man](/chart-patterns.md#hanging-man)
-  * [Inside Days](/chart-patterns.md#inside-days)
-  * [Outside Days](/chart-patterns.md#outside-days)
-  * [Measured Move Down](/chart-patterns.md#measured-move-down)  
-  * [Measured Move Up](/chart-patterns.md#measured-move-up)
-  * [Pipe Bottoms and Tops](/chart-patterns.md#pipe-bottoms-and-tops)
-  * [Scallops](/chart-patterns.md#scallops)
-  * [Broadening Formations](/chart-patterns.md#broadening-formations)
-  * [Statistics](/chart-patterns.md#statistics)
-  * [Resources](/chart-patterns.md#resources)
-* [**candlesticks.md**](/candlesticks.md) - a start
-* [**evaluation.md**](/evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
-* [**economics.md**](/economics.md) - crypto-economics
-* [**quant.md**](/quant.md) - Quant-Crypto Trading and Data Science 
-  * [Guides-Articles](/quant.md#guides-articles)
-  * [Exchanges-API](/quant.md#exchanges-api)
-  * [Books](/quant.md#books)
-  * [Academic Literature](/quant.md#academic-literature)
-  * [Software Libraries](/quant.md#software-libaries)
-  * [Videos](/quant.md#videos)
-  * [Podcasts](/quant.md#podcasts)
-  * [Resources](/quant.md#resources)
-* [**pinescript.md**](/pinescript.md) - Learn TradingView\Pinescript.
+* [**chart-patterns/**](/chart-patterns/) - resources related to various chart patterns.
+  * [Intro](/chart-patterns/#intro)
+  * [Chart Patterns](/chart-patterns/#chart-patterns)
+  * [Triangles](/chart-patterns/#triangles)
+  * [Flags and Pennants](/chart-patterns/#flags-and-pennants)
+  * [Wedges](/chart-patterns/#wedges)
+  * [Rectangles](/chart-patterns/#rectangles)
+  * [Double Bottoms](/chart-patterns/#double-bottoms)
+  * [Double Tops](/chart-patterns/#double-tops)
+  * [Triple Bottoms and Tops](/chart-patterns/#triple-bottoms-and-tops)
+  * [Cup With Handle](/chart-patterns/#cup-with-handle)
+  * [Head and Shoulders](/chart-patterns/#head-and-shoulders)
+  * [Dead-Cat Bounce](/chart-patterns/#dead-cat-bounce)
+  * [Gaps](/chart-patterns/#gaps)
+  * [Rounding Bottoms](/chart-patterns/#rounding-bottoms)
+  * [Rounding Tops](/chart-patterns/#rounding-tops)
+  * [Bump-and-Run Reversals](/chart-patterns/#bump-and-run-reversal-bottoms)
+  * [Diamond Tops and Bottoms](/chart-patterns/#diamond-tops-and-bottoms)
+  * [Hanging Man](/chart-patterns/#hanging-man)
+  * [Inside Days](/chart-patterns/#inside-days)
+  * [Outside Days](/chart-patterns/#outside-days)
+  * [Measured Move Down](/chart-patterns/#measured-move-down)  
+  * [Measured Move Up](/chart-patterns/#measured-move-up)
+  * [Pipe Bottoms and Tops](/chart-patterns/#pipe-bottoms-and-tops)
+  * [Scallops](/chart-patterns/#scallops)
+  * [Broadening Formations](/chart-patterns/#broadening-formations)
+  * [Statistics](/chart-patterns/#statistics)
+  * [Resources](/chart-patterns/#resources)
+* [**candlesticks/**](/candlesticks/) - a start
+* [**evaluation/**](/evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
+* [**economics/**](/economics/) - crypto-economics
+* [**quant/**](/quant/) - Quant-Crypto Trading and Data Science 
+  * [Guides-Articles](/quant/#guides-articles)
+  * [Exchanges-API](/quant/#exchanges-api)
+  * [Books](/quant/#books)
+  * [Academic Literature](/quant/#academic-literature)
+  * [Software Libraries](/quant/#software-libaries)
+  * [Videos](/quant/#videos)
+  * [Podcasts](/quant/#podcasts)
+  * [Resources](/quant/#resources)
+* [**pinescript/**](/pinescript/) - Learn TradingView\Pinescript.
 * [**/CryptoQF**](/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
 
 
