@@ -7,6 +7,7 @@ header:
   image: "https://infominer.id/learn-crypto-trading/assets/img/buy-vs-sell.png"
   og_image: "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
 permalink: /
+toc_sticky: false
 ---
 
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
