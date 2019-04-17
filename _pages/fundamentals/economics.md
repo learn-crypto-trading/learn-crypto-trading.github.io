@@ -1,4 +1,8 @@
-# Economics
+---
+title: Economics
+permalink: fundamentals/economics/
+redirect_from: fundamentals/economics
+---
 
 * [Cryptocurrencies – towards a circular economy](https://www.linkedin.com/pulse/cryptocurrencies-towards-circular-economy-titus-capilnean/)
   >I’m anchoring the circular economy to its currency meaning and show how both the Euro and cryptocurrencies share the same adoption, growth and stability cycles. Few remember that the Euro was established in 1999 as a virtual currency first and only in 2002 did it become a printed / minted physical currency. Beginning on 1 January 1999, all bonds and other forms of government debt by eurozone nations were denominated in euros and all participating economies pegged their local currencies to the Euro, becoming subdivisions."

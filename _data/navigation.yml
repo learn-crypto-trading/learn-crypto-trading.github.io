@@ -31,6 +31,10 @@ infonav:
         url   : pinescript/
       - title : CryptoQF
         url   : cryptoqf/
+      - title : Economics
+        url   : fundamentals/economics/
+      - title : ICO Evaluation
+        url   : fundamentals/evaluation/
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"

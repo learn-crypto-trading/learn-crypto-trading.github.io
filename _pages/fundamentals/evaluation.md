@@ -1,6 +1,8 @@
-# Cryptocurrency Evaluation and Why ICO's Fail
-
-## Evaluation
+---
+title: Cryptocurrency Evaluation and Why ICO's Fail
+permalink: fundamentals/ico-evaluation/
+redirect_from: fundamentals/ico_evaluation
+---
 
 * [The Best Fundamental Indicator - New Inflows](https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows)
   >A third, growing narrative (what I and others are terming the fat monies thesis) has been centered around positioning of Bitcoin (and other crypto-assets) as pure financial commodities. Positioned as a macro trade (possible crisis alpha in the event of a currency crisis), I believe this narrative resonates best with macro traders and institutions as the market is too speculative to evaluate in a bottom-up way and likely relatively overvalued given the lack of utility in most protocols. While the properties of an eventual SoV winner are hotly debated, this thinking frames my favorite fundamental indicator: where are new capital inflows coming from and what narrative (read: meme) are they latching on to?
@@ -110,15 +112,8 @@
   >keeps track of twitter mentions
 * [Github Release Stats](https://www.somsubhra.com/github-release-stats/)
 
----
 
-## [infominer.id](https://infominer.id) —Contact me for research based content  
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-Join me in the Crypto SuperSource Discord Server, if you'd like to chat: - https://discord.gg/ahTuPMY
-
-
-**Tips appreciated**
+## Support the Cause
 
 BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
