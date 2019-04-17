@@ -3,7 +3,8 @@ layout      : single
 title       : "/learn-crypto-trading"
 description : "A collection of resources for learning to trade cryptocurrencies."
 header:
-  image    : "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
+  image: "https://infominer.id/learn-crypto-trading/assets/img/Support-Resistance-Chart.JPG"
+  og_image    : "https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png"
 permalink: /
 ---
 
