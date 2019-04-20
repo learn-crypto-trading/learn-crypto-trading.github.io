@@ -43,6 +43,8 @@ infonav:
     children:
       - title: "infominer.id"
         url: "https://infominer.id/"
+      - title: "Transcripts"
+        url: "https://infominer.id/transcripts"
       - title: "Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
         url: "https://infominer.id/bitcoin-history"
@@ -54,8 +56,6 @@ infonav:
         url: "https://infominer.id/learn-crypto-trading"
       - title: "DIDecentralized"
         url: "https://infominer.id/DIDecentralized"
-      - title: "Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: Featured
     children:
       - title: "DID Related GitHub Repositories"
@@ -66,4 +66,5 @@ infonav:
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
       - title: "Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
-  
+      - title: "Minimal Mistakes Quickstart Guide"
+        url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
