@@ -10,6 +10,9 @@ permalink: /
 toc_sticky: false
 ---
 
+[Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent](https://infominer.id/Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent)
+{: .notice--success}
+
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
