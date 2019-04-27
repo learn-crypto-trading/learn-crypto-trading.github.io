@@ -10,8 +10,6 @@ permalink: /
 toc_sticky: false
 ---
 
-[Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent](https://infominer.id/Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent)
-{: .notice--success}
 
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
 
@@ -349,6 +347,10 @@ https://coincheckup.com/
   > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
 ## Books 
+
+[Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent](https://infominer.id/Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent)
+{: .notice--success}
+
 
 <a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="https://i.imgur.com/bLMLFio.png"/></a>\
 [Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
