@@ -459,6 +459,6 @@ BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
 ![](https://i.imgur.com/d0HQmuV.png) 
 
-DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
 
-![](https://i.imgur.com/0zBLoUP.png) 
+<img src="https://imgur.com/z316u0c.png" width="150"> 
