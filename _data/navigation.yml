@@ -2,6 +2,8 @@
 main:
   - title: "Inf⧉Mine⧉"
     url: "https://infominer.id/"
+  - title: "IndieWeb"
+    url: "https://infominer.id/indieweb/"
   - title: "Bitcoin Historical Index"
     description: "Resources on the History leading up to and Surrounding Bitcoin."
     url: "https://infominer.id/bitcoin-history"
