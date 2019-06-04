@@ -53,54 +53,31 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
-![](https://infominer.id/learn-crypto-trading/assets/img/lct-banner.png)
-
-## Directory
-
-* [**chart-patterns/**](https://infominer.id/learn-crypto-trading/chart-patterns/) - resources related to various chart patterns.
-  * [Intro](https://infominer.id/learn-crypto-trading/chart-patterns/#intro)
-  * [Chart Patterns](https://infominer.id/learn-crypto-trading/chart-patterns/#chart-patterns)
-  * [Triangles](https://infominer.id/learn-crypto-trading/chart-patterns/#triangles)
-  * [Flags and Pennants](https://infominer.id/learn-crypto-trading/chart-patterns/#flags-and-pennants)
-  * [Wedges](https://infominer.id/learn-crypto-trading/chart-patterns/#wedges)
-  * [Rectangles](https://infominer.id/learn-crypto-trading/chart-patterns/#rectangles)
-  * [Double Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#double-bottoms)
-  * [Double Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#double-tops)
-  * [Triple Bottoms and Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#triple-bottoms-and-tops)
-  * [Cup With Handle](https://infominer.id/learn-crypto-trading/chart-patterns/#cup-with-handle)
-  * [Head and Shoulders](https://infominer.id/learn-crypto-trading/chart-patterns/#head-and-shoulders)
-  * [Dead-Cat Bounce](https://infominer.id/learn-crypto-trading/chart-patterns/#dead-cat-bounce)
-  * [Gaps](https://infominer.id/learn-crypto-trading/chart-patterns/#gaps)
-  * [Rounding Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#rounding-bottoms)
-  * [Rounding Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#rounding-tops)
-  * [Bump-and-Run Reversals](https://infominer.id/learn-crypto-trading/chart-patterns/#bump-and-run-reversal-bottoms)
-  * [Diamond Tops and Bottoms](https://infominer.id/learn-crypto-trading/chart-patterns/#diamond-tops-and-bottoms)
-  * [Hanging Man](https://infominer.id/learn-crypto-trading/chart-patterns/#hanging-man)
-  * [Inside Days](https://infominer.id/learn-crypto-trading/chart-patterns/#inside-days)
-  * [Outside Days](https://infominer.id/learn-crypto-trading/chart-patterns/#outside-days)
-  * [Measured Move Down](https://infominer.id/learn-crypto-trading/chart-patterns/#measured-move-down)  
-  * [Measured Move Up](https://infominer.id/learn-crypto-trading/chart-patterns/#measured-move-up)
-  * [Pipe Bottoms and Tops](https://infominer.id/learn-crypto-trading/chart-patterns/#pipe-bottoms-and-tops)
-  * [Scallops](https://infominer.id/learn-crypto-trading/chart-patterns/#scallops)
-  * [Broadening Formations](https://infominer.id/learn-crypto-trading/chart-patterns/#broadening-formations)
-  * [Statistics](https://infominer.id/learn-crypto-trading/chart-patterns/#statistics)
-  * [Resources](https://infominer.id/learn-crypto-trading/chart-patterns/#resources)
-* [**candlesticks/**](https://infominer.id/learn-crypto-trading/candlesticks/) - a start
-* [**evaluation/**](https://infominer.id/learn-crypto-trading/fundamentals/ico-evaluation/) -Cryptocurrency Evaluation and Why ICO's Fail
-* [**economics/**](https://infominer.id/learn-crypto-trading/fundamentals/economics/) - crypto-economics
-* [**quant/**](https://infominer.id/learn-crypto-trading/quant/) - Quant-Crypto Trading and Data Science 
-  * [Guides-Articles](https://infominer.id/learn-crypto-trading/quant/#guides-articles)
-  * [Exchanges-API](https://infominer.id/learn-crypto-trading/quant/#exchanges-api)
-  * [Books](https://infominer.id/learn-crypto-trading/quant/#books)
-  * [Academic Literature](https://infominer.id/learn-crypto-trading/quant/#academic-literature)
-  * [Software Libraries](https://infominer.id/learn-crypto-trading/quant/#software-libaries)
-  * [Videos](https://infominer.id/learn-crypto-trading/quant/#videos)
-  * [Podcasts](https://infominer.id/learn-crypto-trading/quant/#podcasts)
-  * [Resources](https://infominer.id/learn-crypto-trading/quant/#resources)
-* [**pinescript/**](https://infominer.id/learn-crypto-trading/pinescript/) - Learn TradingView\Pinescript.
-* [**/CryptoQF**](https://infominer.id/learn-crypto-trading/CryptoQF) - An organized directory of [Crypto Quantamental](https://infominer.id/learn-crypto-trading/https://twitter.com/CryptoQF)'s content
-
 ![](https://infominer.id/learn-crypto-trading/assets/img/LCT.png)
+
+## TOC
+
+* [Starter Pack](#starter-pack)
+  * [Risk Managment](#risk-managment)
+  * [Support and Resistance](#support-and-resistance)
+  * [Trendline](#trendlines)
+* [General](#general)
+* [News](#news)
+* [RSI](#rsi)
+* [Divergance](#divergance)
+* [Arbitage](#arbitage)
+* [Wyckov](#wyckov)
+* [Indicators](#indicators)
+* [Elliot Wave](#elliot-wave)
+* [Fibonacci](#fibonacci)
+* [Manipulation](#manipulation)
+* [Economics](#economics)
+* [Leverage](#leverage)
+* [Resources](#resources)
+  * [Books](#books)
+  * [Videos](#videos)
+  * [Podcasts](#podcasts)
+  * [Twitter Follows](#twitter-follows)
 
 ## Starter Pack 
 
@@ -120,7 +97,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
 
 
-### Risk Management 
+### Risk Managment 
 
 {% include video id="ofwtsc20hOY" provider="youtube" %}
 
@@ -163,8 +140,6 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Does Technical Analysis Work?](https://medium.com/@cryptocreddy/does-technical-analysis-work-fa90413a8328)
 * [ABCD Pattern Trading](http://www.profitf.com/articles/patterns/abcd-pattern-trading/)
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
-* [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
-  * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
 * [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
 * [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
@@ -179,8 +154,6 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "If you like to have some structure and basis for trading cryptocurrency, these rules/guidelines can help you improve your trading strategy. Take what you want. Or leave it all. Either way, good luck."
 * [Ugly Old Bitcoin Standard Bearer](https://medium.com/@homeytel)
   > "Trading Blog, and some Crypto Politicing"
-* [@AriDavidPaul on trading the News](https://twitter.com/AriDavidPaul/status/1030164882694578176)
-  > "1/  \"What news or event could reverse the bear trend?\" Is the question I get asked most frequently.  I think it's the wrong question based on a faulty assumption.  People often mistakenly assume that the current trend (bull or bear) will continue until some exogenous event."
 * [@CryptoCred on bad trading habits](https://twitter.com/CryptoCred/status/1033796583333289986)
   > "I traded like crap this week. \n\nSloppy, rushed, arrogant. \n\nI’ve worked through all my losing trades in August so far and identified some common mistakes. \n\nI’ve compiled them into a list of questions — I hope you find it helpful. "
 * [@ercwl on the majority of coins being -90%](https://twitter.com/ercwl/status/1033816350958014469)
@@ -203,36 +176,11 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [How i became a crypto-mining millionarie in under 2 years during a bear market](https://www.reddit.com/r/CryptoCurrency/comments/ab7qce/how_i_became_a_cryptomining_millionarie_in_under/?st=jqd0rymx&sh=4d2edb97)
   > "Have the mindset in crypto that everyone is against you. They are using you for their own benefit/gains. No matter what type of relationship you have with individuals you meet online at the end of the day it means nothing. You steal 100k? Its forgotten after a while, You donated 100k? it's forgotten after a while. Nobody truly gives a shit. It's just them reacting too a certain situation in the moment. The reality is they only care about themselves and theirs nothing wrong with that. I remember reading threads on /r/cryptocurrency in the last bull-run where everyone was holding hands, singing kumbaya, and talking about lambos... Did you guys all think you were gonna make gains? Someone has to lose for the other person to win. High majority of this space works just like a ponzi and it should be treated as such."
 
+## News
 
+* [@AriDavidPaul on trading the News](https://twitter.com/AriDavidPaul/status/1030164882694578176)
+  > "1/  \"What news or event could reverse the bear trend?\" Is the question I get asked most frequently.  I think it's the wrong question based on a faulty assumption.  People often mistakenly assume that the current trend (bull or bear) will continue until some exogenous event."
 
-## Fibonacci
-
-
-{% include video id="27scZH3vBLk" provider="youtube" %}
-
-* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
-  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
-
-
-## Indicators 
-
-* ![](https://i.imgur.com/ZL3NcaI.png)
-* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
-  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
-* [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
-  > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
-* [Ichimoku Cloud Definition: Day Trading Terminology](https://medium.com/@WarriorTrading/ichimoku-cloud-definition-day-trading-terminology-7b34e98d2ea2)
-  > "The Ichimoku Cloud is among the most versatile technical indicators. It identifies support and resistance levels, gauges momentum, identifies the direction of trends and provides trading signals.\n\nWith one single glance, traders can identify the trends in securities and examine further signals within that trend. While this indicator might seem complicated, it is actually a very simple indicator that is highly useful for all traders."
-* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
-  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
-* [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
-  > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
-* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
-  [![](https://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
-* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
-  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
-* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
-  > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
 
 ## RSI
 
@@ -273,6 +221,43 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "image of Wyckoff Events and Phases"
 
 * https://wyckoffsmi.com/wyckoff-smi-glossary/
+
+
+## Indicators 
+
+* ![](https://i.imgur.com/ZL3NcaI.png)
+* [@ThinkingUSD on indicators](https://twitter.com/ThinkingUSD/status/1030642377067704320)
+  > "There is no magic indicator, person, paid group or system that can transform you into a consistently profitable trader. Every indicator that has been made was made by someone for THEMSELVES, they used it to fix or enhance a certain aspect of their trading system/style."
+* [Mr.Anderson on MACD](https://twitter.com/tradingroomapp/status/1040868470953410560","https://www.youtube.com/watch?v=OinRPwCzIIU)
+  > "Why MACD is Terrible.\n\nI know people LOVE indicators. But, just about all indicators are terrible (if you use them like the masses).  Let's have some fun by looking at where these indicators struggle and then let's see if we can figure out some ways to make these indicators work a bit better"
+* [Ichimoku Cloud Definition: Day Trading Terminology](https://medium.com/@WarriorTrading/ichimoku-cloud-definition-day-trading-terminology-7b34e98d2ea2)
+  > "The Ichimoku Cloud is among the most versatile technical indicators. It identifies support and resistance levels, gauges momentum, identifies the direction of trends and provides trading signals.\n\nWith one single glance, traders can identify the trends in securities and examine further signals within that trend. While this indicator might seem complicated, it is actually a very simple indicator that is highly useful for all traders."
+* [@cryptocred on EMA](https://twitter.com/CryptoCred/status/1012453593876660224?s=19)
+  > "Here's a harsh truth:\n\nOver ~90% of Twitter traders would be better off trading a super basic EMA crossover strategy than whatever made-up wholly discretionary 'plan' they're following right now.\n\nIf you're going to trade manually, make sure it's worth your time and money."
+* [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands)
+  > "Bollinger Bands are a technical analysis tool, specifically they are a type of trading band or envelope. Trading bands and envelopes serve the same purpose, they provide relative definitions of high and low that can be used to create rigorous trading approaches, in pattern recognition, and for much more. Bands are usually thought of as employing a measure of central tendency as a base such as a moving average, whereas envelopes encompass the price structure without a clearly defined central focus, perhaps by reference to highs and lows, or via cyclic analysis. We'll use the term trading bands to refer to any set of curves that market technicians use to define high or low on a relative basis."
+* [@CryptoSays on Ichimoku](https://twitter.com/CryptoSays/status/1026287741045272576)
+  [![](https://i.imgur.com/7iOzgnp.png)](https://twitter.com/CryptoSays/status/1026287741045272576)
+* [CNBC ‘REVERSE BITCOIN PRICE INDICATOR’ HITS BULLSEYE AGAIN](https://bitcoinist.com/cnbc-reverse-bitcoin-price-impress/)
+  > "As Bitcoinist previously reported, cryptocurrency traders had become aware of CNBC’s miscalculation of Bitcoin’s short-term behavior, with one even earning an invitation to speak on the network after publishing the ‘reverse indicator’ theory."
+* [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
+  > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
+
+
+
+## Elliot Wave
+
+* [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
+  * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
+* [Bulkowski's Elliot Wave Principle](http://thepatternsite.com/Elliott.html)
+
+## Fibonacci
+
+
+{% include video id="27scZH3vBLk" provider="youtube" %}
+
+* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
+  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
 
 
 
@@ -406,7 +391,27 @@ https://coincheckup.com/
 ![](https://pbs.twimg.com/media/DkfND3OW4AIUrHy.jpg:large)
   > "Bitcoin long term price prediction, with the 'halving' effect factored in. What do you think ?"
 
-## Books 
+## Resources 
+
+* [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
+  > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
+* [yourtradingcoach.com](http://yourtradingcoach.com/site-map/)
+  > "lots of good articles and videos on trading"
+
+* [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=drivesdk)
+
+
+* [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
+
+* [thepatternsite.com](http://thepatternsite.com/index.html)
+  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
+
+
+* [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
+  > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
+
+
+### Books 
 
 [Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent](https://infominer.id/Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent)
 {: .notice--success}
@@ -439,41 +444,23 @@ https://coincheckup.com/
 
 
 
-## Videos 
+### Videos 
 
 * [Trader Dante on Youtube](https://www.youtube.com/channel/UCT43ffXmotx7i903Yxcwxjw/videos)
   > "obligatory watching"
-
 * [@CryptoCred Price Action Webinar #1](https://twitter.com/CryptoCred/status/1035223770267611136)
   > "Price Action Webinar #1 - Retests"
+* [CryptoQuantamental on Youtube](https://www.youtube.com/channel/UCnVOQqymq5ZQkG536EItX0Q/videos)
+* [CryptoCred on Youtube](https://www.youtube.com/channel/UCBaU9NXRPjkLGgJy-M7RPCw)
 
-## Podcasts 
+### Podcasts 
 
 * [Flippening Podcast](https://pca.st/P5sC)
   > "Flippening - For Cryptocurrency Investors (Bitcoin, Ethereum, and Cryptoasset Investing)"
 
 
-## Resources 
 
-* [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
-  > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
-* [yourtradingcoach.com](http://yourtradingcoach.com/site-map/)
-  > "lots of good articles and videos on trading"
-
-* [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=drivesdk)
-
-
-* [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
-
-* [thepatternsite.com](http://thepatternsite.com/index.html)
-  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
-
-
-* [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
-  > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
-
-
-## Twitter Follows 
+### Twitter Follows 
 
 * [SourceCrypto - Twitter Follows](https://infominer.id/SourceCrypto/discolog/resources/twitter-follows/)
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
