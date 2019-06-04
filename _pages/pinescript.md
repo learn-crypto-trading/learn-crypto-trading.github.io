@@ -32,6 +32,9 @@ Pinescript was made to be easy accessible and easy to understand. Pine is cloud-
     > "TradingView is a charting platform known and loved by many cryptocurrency traders and analysts. In this article I’ll share five useful TradingView features you can use to make charting more pleasant. This list is by no means exhaustive."
 * [/tradingview/charting-library-examples](https://github.com/tradingview/charting-library-examples)
 
+{% include video id="WXS1aZMk1c8" provider="youtube" %}
+
+
 ## Pinescript 
 
 ### Starter Pack 

@@ -48,6 +48,9 @@ I took some liberty by not including the same video in more than one section and
 
 
 ### Risk Management Education 
+
+{% include video id="WTLEc86-rv4" provider="youtube" %}
+
 * [Mastering Volatility (Risk) for Investors and Traders](https://www.youtube.com/watch?v=WTLEc86-rv4&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG) - 53:57
 * [Mastering Stop Losses for Investors and Traders](https://www.youtube.com/watch?v=Y_kgRn-79nU&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG&index=2) - 53:32
 * [Top 5 Behavioral Biases That Hurt Traders & Investors](https://www.youtube.com/watch?v=WZgbk5UohfQ&list=PLGn-KCPci5AVSScMZCFMMNVQaBmKbZDnG&index=3) — 21:29  — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-behavioral-biases-and-how-they-hurt-your-portfolio-xmyg))
@@ -57,12 +60,17 @@ I took some liberty by not including the same video in more than one section and
 
 
 ### Foundational Education to Investing and Trading 
+
+{% include video id="8O0marOMSPo" provider="youtube" %}
+
 * [How to Calculate Investment and Trade Returns (Performance)](https://www.youtube.com/watch?v=Lwua_tDmM9E&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=2) - 19:24
 * [The Different Crypto Trading and Investing Strategies](https://www.youtube.com/watch?v=phi0UkZC5Fk&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=3) — 28:48 — ([Article](https://www.publish0x.com/crypto-quantamental/which-crypto-strategy-is-right-for-you-xgny))
 * [Understanding the Federal Reserve](https://www.youtube.com/watch?v=8O0marOMSPo&list=PLGn-KCPci5AUw3cvW0nMVfxdk4_TIgirw&index=6) — 19:07 — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-the-federal-reserve-xqowk))
 
 
 ### Technical Analysis Education \ Hands on Education 
+
+{% include video id="qTTTAiDf_6Q" provider="youtube" %}
 
 * [Trading Support and Resistance Levels](https://www.youtube.com/watch?v=2r5ixjfilyQ&index=17&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) — 11:45 — ([Article](https://www.publish0x.com/crypto-quantamental/identifying-and-trading-support-and-resistance-levels-xpjwd))
 * [Understand, Trade, and Calculate the RSI (Relative Strength Index)](https://www.youtube.com/watch?v=KCWIN85zVPI&index=14&list=PLGn-KCPci5AWq8fl8F4ebctUfqvi1fKeL) — 17:36 — ([Article](https://www.publish0x.com/crypto-quantamental/understanding-trading-and-calculating-rsi-relative-strength-index-xvrdm))
@@ -71,11 +79,19 @@ I took some liberty by not including the same video in more than one section and
 * [Bitcoin dead? Learn to calculate volume and see the largest breakout in btc history!](https://www.youtube.com/watch?v=qVIq2BxphDQ&index=3&list=PLGn-KCPci5AV0Rz608nBvzWWqrDScKkJE) - 32:31
 
 ### Analysis
+
+
+{% include video id="KvwmSkJTAn4" provider="youtube" %}
+
 * [Bitcoin ETF Analysis; Van Eck CBOE SolidX ETF](https://www.youtube.com/watch?v=hbKnESr7bzY&list=PLGn-KCPci5AURau_LwknXHT5kw_DFbZBF&index=5) - 35:41
 * [The Lifecycle (5 Types or Phases) of Traders and Investors](https://www.youtube.com/watch?v=KvwmSkJTAn4&list=PLGn-KCPci5AURau_LwknXHT5kw_DFbZBF&index=3) - 16:12 — ([Article](https://www.publish0x.com/crypto-quantamental/the-lifecycle-5-types-or-phases-of-investors-and-traders-xggy))
 
 
 ### Binance for Beginners
+
+
+{% include video id="kAqPCpmLDHY" provider="youtube" %}
+
 
 [Binance for Beginners - publish0x](https://www.publish0x.com/crypto-quantamental/binance-for-beginners-plus-a-review-xpxv)
 

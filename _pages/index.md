@@ -131,9 +131,18 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
   >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
 
+
 [![](https://imgur.com/3v4EnXO.png)](https://twitter.com/Mounia_NL/status/1135661568358866945?s=20)
 
 {% include video id="Z5sb5muFHqg" provider="youtube" %}
+
+## Support and Resistance
+
+{% include video id="azB9Q_9MYsI" provider="youtube" %}
+
+## Trendlines
+
+{% include video id="feTSnV8vj_A" provider="youtube" %}
 
 
 ## General  
@@ -155,8 +164,6 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > The ABCD pattern (AB=CD) is one of the classic chart patterns which is repeated over and over again. The ABCD pattern shows perfect harmony between price and time and is also referred to as ‘measured moves’. It was developed by Scott Carney and Larry Pesavento after being originally discovered by H.M Gartley.
 * [Elliott Wave Principle - Key to Market Behaviour Book Review](https://steemit.com/@twoblokestrading/elliott-wave-principle-key-to-market-behaviour-book-review)
   * "Elliott Wave Principle by Frost and Prechter is widely considered to be the most comprehensive overview of Elliott Wave Theory ever written. First published in 1978 and written by two men who understood Elliott’s ideas better than anyone, it has stood the test of time and continues to find new print runs and new fans.\n\nThis book is a must read for anyone who is truly interested in the way markets move on both short and long time frames. But it comes with a warning - this is one seriously dense book! At times it reads more like a mathematical proof; at times like an economic history textbook."
-* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
-  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
 * [Harmonic Pattern GARTLEY](https://www.profitf.com/articles/forex-education/harmonic-pattern-gartley/)
   > "The harmonic patterns way of trading is an entirely different approach to trading the markets and is based on the discovery by H.M. Gartley whose findings were presented in his book in 1935 entitled “Profits in the stock market”. The book was a lengthy one at that and back in the days it sold for a premium. The most famous aspect of H.M Gartley’s book is the Gartley 222 Pattern, named after the page number where H. M. Gartley outlines the trading methodology using the Gartley pattern."
 * [@HsakaTrades TA Lessons](https://twitter.com/HsakaTrades/status/1030321802403373057)
@@ -197,6 +204,18 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 
 
+## Fibonacci
+
+
+{% include video id="27scZH3vBLk" provider="youtube" %}
+
+* [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
+  >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
+
+## Entry Triggers
+
+{% include video id="f_Fju2Hb7zs" provider="youtube" %}
+
 ## Indicators 
 
 * ![](https://i.imgur.com/ZL3NcaI.png)
@@ -217,17 +236,25 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Beginners Guide to: How to use Moving Averages to Day Trade?](https://whalereports.com/yarrs-beginners-guide-how-to-use-moving-averages-to-day-trade/)
   > "The two basic and commonly used moving averages are the simple moving average (SMA), which is the simple average of a security over a defined number of time periods, and the exponential moving average (EMA), which gives greater weight to more recent prices. The most common applications of moving averages are to identify the trend direction and to determine support and resistance levels. While moving averages are useful enough on their own, they also form the basis for other technical indicators such as the Moving Average Convergence Divergence (MACD)."
 
+## RSI
+
+{% include video id="HOIucvo-9s0" provider="youtube" %}
+
+* [The Relative Strength is not an Overbought/Oversold Indicator](http://www.technical-analysis.com/learnTA/RSINotOBOS/RSINotOBOS.html)
+  > "The Relative Strength Index is never an overbought/oversold indicator. If you did not learn Relative Strength Index from the original text, then it is very likely that you have been taught the wrong thing right from the beginning - that RSI is an overbought/oversold indicator. I want to tell you straight away that this is wrong."
+* [Best RSI Guide for Cryptocurrency You’ll Ever Find](https://blog.zerononcense.com/2018/10/23/best-rsi-guide-for-cryptocurrency-on-earth/)
+  > "As mentioned before, you only need one type of indicator. So, if you’re using both the RSI and the Stochastic RSI, you’re wasting your time. They both are leading(1) momentum(2) indicators that look at the same thing — is a crypto oversold or overbought? Therefore, you just need one. Study the both of them or another momentum indicator that makes the same determination and choose one.\n\nUnderstanding How and When to Use the Indicator"
+* [@CryptoCred on RSI and Divergence](https://twitter.com/CryptoCred/status/1037772897241255936)
+  > "Important point about RSI: \n\nAfter a big move/candle there will almost always be a regular divergence. \n\nDon’t use it to try to snipe the bottom or top.\n\nDivergences work better when they form during a discernible trend, NOT after a bazooka candle like yesterday."
 
 ## Divergence  
+
+{% include video id="p1Jr7hrl-zw" provider="youtube" %}
+
+
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
 * https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
-* [The Relative Strength is not an Overbought/Oversold Indicator](http://www.technical-analysis.com/learnTA/RSINotOBOS/RSINotOBOS.html)
-  > "The Relative Strength Index is never an overbought/oversold indicator. If you did not learn Relative Strength Index from the original text, then it is very likely that you have been taught the wrong thing right from the beginning - that RSI is an overbought/oversold indicator. I want to tell you straight away that this is wrong."
-* [@CryptoCred on RSI and Divergence](https://twitter.com/CryptoCred/status/1037772897241255936)
-  > "Important point about RSI: \n\nAfter a big move/candle there will almost always be a regular divergence. \n\nDon’t use it to try to snipe the bottom or top.\n\nDivergences work better when they form during a discernible trend, NOT after a bazooka candle like yesterday."
-* [Best RSI Guide for Cryptocurrency You’ll Ever Find](https://blog.zerononcense.com/2018/10/23/best-rsi-guide-for-cryptocurrency-on-earth/)
-  > "As mentioned before, you only need one type of indicator. So, if you’re using both the RSI and the Stochastic RSI, you’re wasting your time. They both are leading(1) momentum(2) indicators that look at the same thing — is a crypto oversold or overbought? Therefore, you just need one. Study the both of them or another momentum indicator that makes the same determination and choose one.\n\nUnderstanding How and When to Use the Indicator"
 * [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 

@@ -21,6 +21,10 @@ All About Candlestick Patterns
 
 <img src="https://i.imgur.com/v9KOmQj.png"/>
 
+{% include video id="q7BVTJol0IA" provider="youtube" %}
+
+
+
 ## Shadows
 
 * [Tradingview - Ideas - Shadows](https://www.tradingview.com/ideas/shadows/)
