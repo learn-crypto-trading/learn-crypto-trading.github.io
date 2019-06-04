@@ -18,21 +18,21 @@ However, I would like to point out a few areas with relevant information that ge
 I have a Discord Chat Server called [SourceCrypto](https://discord.gg/ahTuPMY) where I organize information on every subject related to crypto. The following are links to archives of the channels, which I update fairly regularly. I've not integrated much of that content anywhere except to keep the archive updated.
 
 ## SourceCrypto
-* [Trading](https://infominer.id/SourceCrypto/discolog/general/trading/)
-* [Discolog](https://infominer.id/SourceCrypto/discolog/) (where you can browse the channels yourself.)
-* [Economics](https://infominer.id/SourceCrypto/discolog/general/economics/)
-* [Exchanges](https://infominer.id/SourceCrypto/discolog/general/exchanges/)
-* [Memes and Junk](https://infominer.id/SourceCrypto/discolog/general/memes-n-junk/)
-* [Mining](https://infominer.id/SourceCrypto/discolog/general/mining/)
-* [Regulation](https://infominer.id/SourceCrypto/discolog/general/regulation/)
-* [Satoshi](https://infominer.id/SourceCrypto/discolog/general/satoshi/)
-* [Wallets](https://infominer.id/SourceCrypto/discolog/general/wallets/)
-* [Traditional Finance](https://infominer.id/SourceCrypto/discolog/general/traditional-finance/)
-* [Walstreet](https://infominer.id/SourceCrypto/discolog/general/walstreet/)
-* [Oppression](https://infominer.id/SourceCrypto/discolog/general/oppression/)
-* [History](https://infominer.id/SourceCrypto/discolog/general/history/)
-* [Growth-Adoption](https://infominer.id/SourceCrypto/discolog/general/growth-adoption/)
-* [Crypherpunk](https://infominer.id/SourceCrypto/discolog/general/cypherpunk/)
+* [**Discolog**](https://infominer.id/SourceCrypto/discolog/) (where you can browse the channels yourself.)
+  * [Trading](https://infominer.id/SourceCrypto/discolog/general/trading/)
+  * [Economics](https://infominer.id/SourceCrypto/discolog/general/economics/)
+  * [Exchanges](https://infominer.id/SourceCrypto/discolog/general/exchanges/)
+  * [Memes and Junk](https://infominer.id/SourceCrypto/discolog/general/memes-n-junk/)
+  * [Mining](https://infominer.id/SourceCrypto/discolog/general/mining/)
+  * [Regulation](https://infominer.id/SourceCrypto/discolog/general/regulation/)
+  * [Satoshi](https://infominer.id/SourceCrypto/discolog/general/satoshi/)
+  * [Wallets](https://infominer.id/SourceCrypto/discolog/general/wallets/)
+  * [Traditional Finance](https://infominer.id/SourceCrypto/discolog/general/traditional-finance/)
+  * [Walstreet](https://infominer.id/SourceCrypto/discolog/general/walstreet/)
+  * [Oppression](https://infominer.id/SourceCrypto/discolog/general/oppression/)
+  * [History](https://infominer.id/SourceCrypto/discolog/general/history/)
+  * [Growth-Adoption](https://infominer.id/SourceCrypto/discolog/general/growth-adoption/)
+  * [Crypherpunk](https://infominer.id/SourceCrypto/discolog/general/cypherpunk/)
 
 I will keep updating this site, it's just in the heap with a lot of other projects.
 {% endcapture %}
