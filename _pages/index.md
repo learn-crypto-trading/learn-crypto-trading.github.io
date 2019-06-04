@@ -122,8 +122,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 ## Risk Management 
 
-<img src="https://i.imgur.com/VZafWyS.png"/>
-(<a href="https://youtu.be/Z5sb5muFHqg?t=771">Source</a>)
+{% include video id="ofwtsc20hOY" provider="youtube" %}
 
 * [Risk Management for Trading](https://medium.com/@Cryptilicious/risk-management-for-trading-8608d813872d)
   > "Trading crypto-currency is a gold rush. While selling shovels is traditionally the best way to wealth in such a scenario, doing wise investments is essential once you have some money. I consider trading an entertaining and challenging pastime. Maybe the most important aspect of trading is risk management. While resources like BabyPips provide great learning material, their section on risk management is confusing. I believe, the biggest issue is that they approach the topics in the wrong order, so here is a better introduction to risk management for traders (crypto or forex or otherwise)."
@@ -131,6 +130,11 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "When trading you need some way to manage your risk. One of the most effective and notable strategies is the R method. When talking to new traders I like to give the example of a poker player. You start out small and overtime you end up building your bankroll/trading capital to a sizable amount. What makes the R multiple so helpful is it allows you to size your position relative to risk. This allows you to understand the risks required when trading and risk what you are comfortable with.  I am shocked everyday on twitter by the amount of people unaware of these risk management concepts."
 * [Winning in Sideways and Bear Markets](https://hackernoon.com/cryptocurrency-trading-bible-four-winning-in-sideways-and-bear-markets-f3f365ffca76)
   >What we’re going to do is place bigger bets and get more of your money working for you by creating a stop loss system. I use a variation on the Turtle Traders trailing stop loss, which is the ATR or Average True Range times a multiplier. So I might have ATR X 2. That tells me where to set my stop loss on any given trade.
+
+[![](https://imgur.com/3v4EnXO.png)](https://twitter.com/Mounia_NL/status/1135661568358866945?s=20)
+
+{% include video id="Z5sb5muFHqg" provider="youtube" %}
+
 
 ## General  
 
