@@ -1,5 +1,5 @@
 ---
-layout      : single
+layout      : home
 title       : "/learn-crypto-trading"
 description : "A collection of resources for learning to trade cryptocurrencies."
 header:
@@ -42,7 +42,7 @@ I will keep updating this site, it's just in the heap with a lot of other projec
   {{ notice-text | markdownify }}
 </div>
 
-I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
+I began serious study of Technical Analysis with books that have come recommended by experienced traders:
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
 * Bulkowski - Encyclopedia of Chart Patterns

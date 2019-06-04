@@ -285,12 +285,4 @@ Another I'll pass on until I can DYOR.
 Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
 
 
-**Tips appreciated**
 
-BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
-
-![](https://i.imgur.com/d0HQmuV.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 

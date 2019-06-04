@@ -3,7 +3,13 @@ layout: single
 title: Pinescript-TradingView
 description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
 image: "https://i.imgur.com/x01Hf9y.png"
+header:
+  image: "https://infominer.id/bitcoin-history/assets/img/pinescript.png"
+  og_image: "https://infominer.id/bitcoin-history/assets/img/pinescript.png"
+  teaser: image: "https://infominer.id/bitcoin-history/assets/img/pinescript.png"
 permalink:  pinescript/
+canonical_url: 'https://infominer.id/learn-crypto-trading/pinescript/'
+last_modified_at: 2019-06-04T13:22:33-23:00
 ---
 
 * [**TradingView's Pine script Introduction**](https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/)
@@ -79,14 +85,6 @@ since you can't trade on tradingview, these sites trade based on its alerts.
 * [Kodify.net - TradingView Programming Articles](https://kodify.net/tradingview-programming-articles/)
 
 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 
-**Tips appreciated**
 
-BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
 
-![](https://i.imgur.com/d0HQmuV.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
