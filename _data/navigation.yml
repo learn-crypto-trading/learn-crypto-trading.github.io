@@ -2,10 +2,10 @@
 main:
   - title: "Bitcoin Historical Index"
     url: "https://infominer.id/bitcoin-history"
-  - title: "Transcripts"
-    url: "https://infominer.id/transcripts"
   - title: "Source⧉Crypto"
     url: "https://infominer.id/SourceCrypto"
+  - title: "Transcripts"
+    url: "https://infominer.id/transcripts"
   - title: "DIDecentralized"
     url: "https://infominer.id/DIDecentralized"
   - title: "webwork.tools"
