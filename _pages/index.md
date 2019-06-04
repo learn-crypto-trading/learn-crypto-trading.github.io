@@ -11,11 +11,15 @@ toc_sticky: false
 ---
 
 {% capture notice-text %}
-I'm busy with a number of projects, and studying Technical Analysis and Trading Cryptocurrency markets is not my focus area at this time. 
+Studying Technical Analysis and Trading Cryptocurrency Markets is not my focus area at this time. 
 
 However, I would like to point out a few areas with relevant information that get updated more regularly.
 
-I have a Discord Chat Server called [SourceCrypto](https://discord.gg/ahTuPMY) where I organize information on every subject related to crypto. The following are links to archives of the channels, which I update fairly regularly. I've not integrated much of that content anywhere except to keep the archive updated.
+I have a Discord Chat Server called [SourceCrypto](https://discord.gg/ahTuPMY) where I organize information on every subject related to crypto, on the fly. 
+
+The following are links to archives of the channels, which I update fairly regularly. I've not integrated much of that content anywhere except to keep the archive updated. 
+
+(In the trading channel, specifically, everything but the newest links are on this site. So scroll to the bottom.)
 
 ## SourceCrypto
 * [**Discolog**](https://infominer.id/SourceCrypto/discolog/) (where you can browse the channels yourself.)
