@@ -456,15 +456,3 @@ https://coincheckup.com/
   >[![](https://i.imgur.com/eqsXynh.png)](https://twitter.com/YORK780/status/1035558963033632769)
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   >[![](https://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
-
-## Support the Cause
-
-I'll keep pumping out research driven content, either way.
-
-BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
-
-![](https://i.imgur.com/d0HQmuV.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
