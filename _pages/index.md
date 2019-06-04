@@ -120,7 +120,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
 
 
-## Risk Management 
+### Risk Management 
 
 {% include video id="ofwtsc20hOY" provider="youtube" %}
 
@@ -136,16 +136,17 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 {% include video id="Z5sb5muFHqg" provider="youtube" %}
 
-## Support and Resistance
+### Support and Resistance
 
 {% include video id="azB9Q_9MYsI" provider="youtube" %}
 
-## Trendlines
+### Trendlines
 
 {% include video id="feTSnV8vj_A" provider="youtube" %}
 
 
 ## General  
+
 
 * [@CryptoCred on trading plans](https://twitter.com/CryptoCred/status/1036714196027801600)
   > Have a trading plan for the day/session. Here's a basic outline you can use:
@@ -212,9 +213,6 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Trading Fibonacci retrace and expansion to pinpoint entries and exits](https://steemit.com/bitcoin/@cryptobroye/success-strategies-4-trading-fibonacci-retrace-and-expansion-to-pinpoint-entries-and-exits)
   >Fibonacci is a sequence found in us and our genes, our mentality, nature and our universe. Its is a universal, multidimensional language, that in my belief is used far beyond our personal human lifetimes and this world.\n\nFibonacci sequences in trading financial instruments is an extremely powerful thing. We can use 50% and 61.8% retraces of a move up or down as an entry into a position with a very tight stop loss, and we can then use a 121% Fibonacci expansion level as our price target as explained in the video below."
 
-## Entry Triggers
-
-{% include video id="f_Fju2Hb7zs" provider="youtube" %}
 
 ## Indicators 
 
