@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Information Discovery"
-title_separator          : "⧉ "
+title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "A collection of resources for learning to trade cryptocurrencies."
 url                      : "https://learncryptotrading.co"
