@@ -113,6 +113,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 * [TradingView](https://tradingview.com) - tons of user created ideas, scripts, education and more.
 
+* [Node Binance Trader](https://github.com/jsappme/node-binance-trader) - a cryptocurrency trading bot development framework for the Binance exchange using Node.JS.
+
 
 ## Risk Management 
 
