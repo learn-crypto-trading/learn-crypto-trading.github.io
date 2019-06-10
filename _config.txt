@@ -1,9 +1,9 @@
 # Config
 # ========================================================================================   
 
-repository    : "learn-crypto-trading/learn-crypto-trading.github.io"
+repository    : "learn-crypto-trading/learncryptotrading.co"
 # github        : [metadata]
-# rooturl       : "https://learn-crypto-trading.github.io"
+# rooturl       : "https://learncryptotrading.co"
 
 
 # IMPORTANT: Set the URL of your site.
@@ -23,7 +23,7 @@ keywords:              [cryptocurrency, trading]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo          : "https://learn-crypto-trading.github.io/info-grey.png"
+logo          : "https://learncryptotrading.co/info-grey.png"
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -71,7 +71,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://learn-crypto-trading.github.io/assets/img/background.png"
+accent_image:          "https://learncryptotrading.co/assets/img/background.png"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -282,7 +282,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 twitter:
   username:            infominer33
   card:                summary_large_image
-  image:               "https://learn-crypto-trading.github.io/assets/img/lct-banner.png"
+  image:               "https://learncryptotrading.co/assets/img/lct-banner.png"
 
 
 # Used for Facebook open graph
