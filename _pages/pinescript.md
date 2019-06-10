@@ -4,11 +4,11 @@ title: "Pinescript-TradingView"
 description: This page will be for tradingview tips n tweaks, but mostly about learning pinescript.
 image: "https://i.imgur.com/x01Hf9y.png"
 header:
-  image: "https://sourcecrypto.pub/learn-crypto-trading/assets/img/pinescript.png"
-  og_image: "https://sourcecrypto.pub/learn-crypto-trading/assets/img/pinescript.png"
-  teaser: "https://sourcecrypto.pub/learn-crypto-trading/assets/img/pinescript.png"
+  image: "https://learn-crypto-trading.github.io/assets/img/pinescript.png"
+  og_image: "https://learn-crypto-trading.github.io/assets/img/pinescript.png"
+  teaser: "https://learn-crypto-trading.github.io/assets/img/pinescript.png"
 permalink:  pinescript/
-canonical_url: 'https://sourcecrypto.pub/learn-crypto-trading/pinescript/'
+canonical_url: 'https://learn-crypto-trading.github.io/pinescript/'
 last_modified_at: 2019-06-04T13:22:33-23:00
 ---
 

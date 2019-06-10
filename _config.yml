@@ -22,10 +22,10 @@ name                     : "⧉ Infominer"
 description              : "A collection of resources for learning to trade cryptocurrencies."
 url                      : "https://sourcecrypto.pub"
 baseurl                  : /learn-crypto-trading
-repository               : "sourcecrypto/learn-crypto-trading"
+repository               : "learn-crypto-trading/learn-crypto-trading.github.io"
 github                   : [metadata]
 teaser                   : #"/assets/img/information-discovery.jpg"
-logo                     : "https://sourcecrypto.pub/learn-crypto-trading/assets/img/info-grey.png"
+logo                     : "https://learn-crypto-trading.github.io/assets/img/info-grey.png"
 masthead_title           : "Learn Technical Analysis and Crypto Trading Fundamentals"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -97,7 +97,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "https://sourcecrypto.pub/learn-crypto-trading/assets/img/lct-banner.png"
+og_image                 : "https://learn-crypto-trading.github.io/assets/img/lct-banner.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -120,7 +120,7 @@ author:
 # Site Author
 author:
   name             : "⧉ Infominer"
-  avatar           : "https://sourcecrypto.pub/learn-crypto-trading/assets/img/info-grey.png"
+  avatar           : "https://learn-crypto-trading.github.io/assets/img/info-grey.png"
 #  bio              : 
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
@@ -136,7 +136,7 @@ author:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sourcecrypto/learn-crypto-trading"
+      url: "https://github.com/learn-crypto-trading/learn-crypto-trading.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
@@ -164,7 +164,7 @@ footer:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sourcecrypto/learn-crypto-trading"
+      url: "https://github.com/learn-crypto-trading/learn-crypto-trading.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"

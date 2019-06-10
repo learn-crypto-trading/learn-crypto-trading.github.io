@@ -4,8 +4,8 @@ title       : "/learn-crypto-trading"
 description : "A collection of resources for learning to trade cryptocurrencies."
 header:
   caption: "[Peter Dronen](https://vimeo.com/274392826) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)"
-  image: "https://sourcecrypto.pub/learn-crypto-trading/assets/img/buy-vs-sell.png"
-  og_image: "https://sourcecrypto.pub/learn-crypto-trading/assets/img/lct-banner.png"
+  image: "https://learn-crypto-trading.github.io/assets/img/buy-vs-sell.png"
+  og_image: "https://learn-crypto-trading.github.io/assets/img/lct-banner.png"
 permalink: /
 toc_sticky: false
 ---
@@ -57,7 +57,7 @@ I began serious study of Technical Analysis with books that have come recommende
 * Shadow traders on twitter.
 * stare at the minute chart for two weeks
 
-![](https://sourcecrypto.pub/learn-crypto-trading/assets/img/LCT.png)
+![](https://learn-crypto-trading.github.io/assets/img/LCT.png)
 
 ## TOC
 
