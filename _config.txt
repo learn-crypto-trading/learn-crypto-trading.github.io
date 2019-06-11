@@ -52,7 +52,7 @@ legal:
   - title:             DIDecentral
     url:               https://infominer.id/DIDecentralized/" target="_parent"
   - title:             Bitcoin History
-    url:               https://infominer.id/bitcoin-history/" target="_parent"
+    url:               https://sourcecrypto.pub/bitcoin-history/" target="_parent"
   - title:             Source⧉Crypto
     url:               https://infominer.id/SourceCrypto/" target="_parent"
 

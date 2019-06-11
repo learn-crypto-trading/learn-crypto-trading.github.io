@@ -4,7 +4,7 @@
 
 Check out the web-page version of this repository :)
 
-<b><a href="https://infominer.id/bitcoin-history">infominer.id/bitcoin-history</a></b>
+<b><a href="https://sourcecrypto.pub/bitcoin-history">sourcecrypto.pub/bitcoin-history</a></b>
 
 ## Contents
 
@@ -450,7 +450,7 @@ https://coincheckup.com/
 
 ---
 
-## [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)  
+## [sourcecrypto.pub/bitcoin-history](https://sourcecrypto.pub/bitcoin-history)  
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 
