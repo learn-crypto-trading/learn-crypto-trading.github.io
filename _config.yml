@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Information Discovery"
+title                    : "Learn Crypto Trading"
 title_separator          : "|"
 name                     : "⧉ Infominer"
-description              : "A collection of resources for learning to trade cryptocurrencies."
+description              : "Resources for learning Chart Patterns, Technical Analysis, Algorithmic trading, and Fundamental Analysis."
 url                      : "https://learncryptotrading.co"
 baseurl                  : ""
 repository               : "learn-crypto-trading/learn-crypto-trading.github.io"
 github                   : [metadata]
 teaser                   : #"/assets/img/information-discovery.jpg"
 logo                     : "https://learncryptotrading.co/assets/img/info-grey.png"
-masthead_title           : "Learn Technical Analysis and Crypto Trading Fundamentals"
+masthead_title           : "101, FA, TA, Patterns, Quant and More"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -125,7 +125,7 @@ author:
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
   links:
-    - label: "Inf⧉Mine"
+    - label: "Inf⧉Hub"
       icon: "fa fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
@@ -136,7 +136,7 @@ author:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/learn-crypto-trading/learn-crypto-trading"
+      url: "https://github.com/learn-crypto-trading/learn-crypto-trading.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
@@ -153,7 +153,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Inf⧉Mine"
+    - label: "Inf⧉Hub"
       icon: "fa fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
@@ -164,7 +164,7 @@ footer:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/learn-crypto-trading/learn-crypto-trading"
+      url: "https://github.com/learn-crypto-trading/learn-crypto-trading.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"

@@ -22,21 +22,21 @@ The following are links to archives of the channels, which I update fairly regul
 (In the trading channel, specifically, everything but the newest links are on this site. So scroll to the bottom.)
 
 ## SourceCrypto
-* [**Discolog**](https://infominer.id/SourceCrypto/discolog/) (where you can browse the channels yourself.)
-  * [Trading](https://infominer.id/SourceCrypto/discolog/general/trading/)
-  * [Economics](https://infominer.id/SourceCrypto/discolog/general/economics/)
-  * [Exchanges](https://infominer.id/SourceCrypto/discolog/general/exchanges/)
-  * [Memes and Junk](https://infominer.id/SourceCrypto/discolog/general/memes-n-junk/)
-  * [Mining](https://infominer.id/SourceCrypto/discolog/general/mining/)
-  * [Regulation](https://infominer.id/SourceCrypto/discolog/general/regulation/)
-  * [Satoshi](https://infominer.id/SourceCrypto/discolog/general/satoshi/)
-  * [Wallets](https://infominer.id/SourceCrypto/discolog/general/wallets/)
-  * [Traditional Finance](https://infominer.id/SourceCrypto/discolog/general/traditional-finance/)
-  * [Walstreet](https://infominer.id/SourceCrypto/discolog/general/walstreet/)
-  * [Oppression](https://infominer.id/SourceCrypto/discolog/general/oppression/)
-  * [History](https://infominer.id/SourceCrypto/discolog/general/history/)
-  * [Growth-Adoption](https://infominer.id/SourceCrypto/discolog/general/growth-adoption/)
-  * [Crypherpunk](https://infominer.id/SourceCrypto/discolog/general/cypherpunk/)
+* [**Discolog**](https://sourcecrypto.pub/discolog/) (where you can browse the channels yourself.)
+  * [Trading](https://sourcecrypto.pub/discolog/general/trading/)
+  * [Economics](https://sourcecrypto.pub/discolog/general/economics/)
+  * [Exchanges](https://sourcecrypto.pub/discolog/general/exchanges/)
+  * [Memes and Junk](https://sourcecrypto.pub/discolog/general/memes-n-junk/)
+  * [Mining](https://sourcecrypto.pub/discolog/general/mining/)
+  * [Regulation](https://sourcecrypto.pub/discolog/general/regulation/)
+  * [Satoshi](https://sourcecrypto.pub/discolog/general/satoshi/)
+  * [Wallets](https://sourcecrypto.pub/discolog/general/wallets/)
+  * [Traditional Finance](https://sourcecrypto.pub/discolog/general/traditional-finance/)
+  * [Walstreet](https://sourcecrypto.pub/discolog/general/walstreet/)
+  * [Oppression](https://sourcecrypto.pub/discolog/general/oppression/)
+  * [History](https://sourcecrypto.pub/discolog/general/history/)
+  * [Growth-Adoption](https://sourcecrypto.pub/discolog/general/growth-adoption/)
+  * [Crypherpunk](https://sourcecrypto.pub/discolog/general/cypherpunk/)
 
 I will keep updating this site, it's just in the heap with a lot of other projects.
 {% endcapture %}
@@ -58,6 +58,11 @@ I began serious study of Technical Analysis with books that have come recommende
 * stare at the minute chart for two weeks
 
 ![](https://learncryptotrading.co/assets/img/LCT.png)
+
+{% capture update-text %}
+
+{% endcapture %}
+
 
 ## TOC
 
@@ -466,7 +471,7 @@ https://coincheckup.com/
 
 ### Twitter Follows 
 
-* [SourceCrypto - Twitter Follows](https://infominer.id/SourceCrypto/discolog/resources/twitter-follows/)
+* [SourceCrypto - Twitter Follows](https://sourcecrypto.pub/discolog/resources/twitter-follows/)
 * [@TheCryptoDog Trading FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   > "Here are some of the best traders I know and learn from"
 * [@CryptoCred on Bitmex Leverage Traders to Follow](https://twitter.com/CryptoCred/status/1072155645896523776)
