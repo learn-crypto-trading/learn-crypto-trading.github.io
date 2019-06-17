@@ -13,12 +13,20 @@ The other day, I saw [CryptoQF](https://twitter.com/CryptoQF) tweet that his goa
 Being the nerd that I am — I figured, why not make a page surrounding Crypto Quantamental's content, and make it easier to navigate? I'll be taking notes on his videos that can live in this repository, too.
 
 
+
 <a href="https://twitter.com/CryptoQF/status/1091917181586034688"><img src="https://i.imgur.com/HHmjzrF.png"/></a>
 
 
 Looking at [his Youtube Channel](https://www.youtube.com/channel/UCnVOQqymq5ZQkG536EItX0Q/playlists) I see there are a dozen playlists.
 
 Where there is related content at [his blog](https://www.publish0x.com/@CryptoQuantamental) I'll add a link by the video.
+
+## Update
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CQFModel?src=hash&amp;ref_src=twsrc%5Etfw">#CQFModel</a> updated...<br><br>It likes majors such as <a href="https://twitter.com/search?q=%24BTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BTC</a>, <a href="https://twitter.com/search?q=%24LTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LTC</a>, <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ETH</a><a href="https://twitter.com/search?q=%24GXS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GXS</a> is a buy low candidate. Others like <a href="https://twitter.com/search?q=%24AE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AE</a>, <a href="https://twitter.com/search?q=%24ZRX&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ZRX</a>, <a href="https://twitter.com/search?q=%24LOOM&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LOOM</a>, <a href="https://twitter.com/search?q=%24QTUM&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$QTUM</a>, <a href="https://twitter.com/search?q=%24NEO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NEO</a><br><br>IMO I&#39;m very long and strong here. Long spot alts and levered long BTC. <a href="https://t.co/PfoERV5d1G">https://t.co/PfoERV5d1G</a></p>&mdash; Crypto Quantamental (@CryptoQF) <a href="https://twitter.com/CryptoQF/status/1140441773308665856?ref_src=twsrc%5Etfw">June 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<a href="https://learncryptotrading.co/#update" class="btn btn--info">See Also</a>
+
 
 
 ## Contents

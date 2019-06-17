@@ -59,11 +59,14 @@ I began serious study of Technical Analysis with books that have come recommende
 
 ![](https://learncryptotrading.co/assets/img/LCT.png)
 
+### Update
 
 <div class="notice--success">
-  <h4>⧉Update⧉</h4>
+  <h4>Bitcoin⧉Update</h4>
   
   <blockquote class="twitter-tweet" data-theme="dark"><p lang="und" dir="ltr"> <a href="https://t.co/r6DQzPyzmi">pic.twitter.com/r6DQzPyzmi</a></p>&mdash; SourceCrypto (@SourceCrypto) <a href="https://twitter.com/SourceCrypto/status/1140210254095028224?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>    
+
+  <p><a href="https://learncryptotrading.co/cryptoqf/#update" class="btn btn--info">See Also</a></p>
 
 </div>
 
