@@ -21,6 +21,8 @@ lctnav:
   - title: "/learn-crypto-trading"
     url: https://learncryptotrading.co
     children:
+      - title : General
+        url   : /general/
       - title : Candlesticks
         url   : /candlesticks/
       - title : Chart Patterns
