@@ -232,7 +232,6 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "image of Wyckoff Events and Phases"
 * [Distribution Schematic #1: Wyckoff Events and Phases](https://i.imgur.com/LbtrMJG.png)
   > "image of Wyckoff Events and Phases"
-
 * [wyckoffsmi.com/wyckoff-smi-glossary/](https://wyckoffsmi.com/wyckoff-smi-glossary/)
 
 
@@ -317,7 +316,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps 
-* [blocksdecoded.com/cryptocurrency-trading-simulators/](https://blocksdecoded.com/cryptocurrency-trading-simulators/)
+
+* [blocksdecoded -Cryptocurrency Trading Simulators](https://blocksdecoded.com/cryptocurrency-trading-simulators/)
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
 * [Six New and Improved Cryptocurrency Analysis Tools](https://news.bitcoin.com/six-new-and-improved-cryptocurrency-analysis-tools/)
@@ -342,7 +342,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "Charts w sentiment analysis"
 * [Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
   > "bitmex margin information - "
-* [tucsky.github.io/SignificantTrades/#](https://tucsky.github.io/SignificantTrades/#)
+* [tucsky.github.io/SignificantTrades](https://tucsky.github.io/SignificantTrades/#)
 * [coinfarm.online](https://coinfarm.online/index_en.asp)
   > "Bitmex margin data"
 * [datamish.com](https://datamish.com/d/000000004/btcusd?refresh=20s&orgId=1)
@@ -357,10 +357,9 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [multicoincharts.com](https://www.multicoincharts.com/)
 * [cryptoxscanner.com](https://cryptoxscanner.com/)
 * [athcoinindex.com/](https://athcoinindex.com/)
-* [turtlebc.com/tools/buy_percentage?period=3years](https://www.turtlebc.com/tools/buy_percentage?period=3years)
 * [isky Notifications](https://play.google.com/store/apps/details?id=solutions.isky.skynotifications&rdid=solutions.isky.skynotifications)
   >application combined with Telegram to get push notifications. Needs binance API key . Please, DO UNCHECK Trading checkbox while creating key (leave only readonly)
-* [deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.](https://deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.)
+* [deltabalances.github.io](https://deltabalances.github.io/) -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.
 * [Killzones / Daily Open / Weekly Open / Monthly Open by @bartbtc](https://www.tradingview.com/script/HAOqXwg4-Killzones-Daily-Open-Weekly-Open-Monthly-Open-by-bartbtc/)
   >I've created an indicator that : 
   >- Displays the previous day's, week's, month's open on the current period's price action. 
@@ -373,8 +372,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   >- Displays monthly open only on timeframes lower than monthly 
 * [Sierra Chart - High Performance Trading Platform](https://sierrachart.com)
   > "Sierra Chart is a professional Trading platform for the financial markets which is integrated with many externally available trading services. It supports Live and Simulated trading. Both manual and automated trading is supported.\nSierra Chart is a complete Real-time and Historical, Charting and Technical Analysis platform for the financial markets.\nSierra Chart fully supports the open specification Data and Trading Communications Protocol for the community.\nSierra Chart provides an optional high quality direct CME / CBOT / NYMEX / COMEX / Eurex / ICE / HKFE / Euronext / LIFFE / NYSE / NASDAQ / TSX / Montréal Futures / Cash Indices realtime market data feed. There is an additional cost for real-time exchange data. Real-time Forex/CFD data is included at no additional cost.\nSupport for charting and trading in the Cryptocurrency markets.\nSierra Chart uses the very best engineering and design practices to produce well-organized, fast and ultra rocksolid software and services. We continue to strive to be as best as we can be.\n\ntrading platform with lots of features, like footprint charts, heatmaps and all that  . has poloniex, bitmex, bitfinex and okcoin currently"
-https://cryptocoincharts.info
-https://coincheckup.com/ 
+* [cryptocoincharts.info](https://cryptocoincharts.info)
+* [coincheckup.com](https://coincheckup.com/)
 
 ## Protocols 
 
@@ -395,8 +394,6 @@ https://coincheckup.com/
 
 * [@Lucid_TA speculating on market movements](https://twitter.com/Lucid_TA/status/1037510808782032896)
   > "A lot of people were talking about how bullish the bull whale was. Counter-narrative is that someone with deep pockets held the price up and continued pushing it higher, while simultaneously opening derivative shorts before dumping accumulated spot on market."
-
-
 * [@RyanSAdams Twitter thread on future bubbles](https://twitter.com/RyanSAdams/status/1029406662082396160)
   > "10 takes on the future of crypto from the depths of a bear market:\n\nThe 2017 run-up & 2018 freefall is only a micro-bubble—the crypto mega bubble is yet to come"
 * [@KunalDaSen shares a potential growth pattern for Bitcoin](https://twitter.com/KunalDaSen/status/1029016530640625664)
