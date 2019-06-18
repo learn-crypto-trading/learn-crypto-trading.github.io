@@ -25,7 +25,7 @@ baseurl                  : ""
 repository               : "learn-crypto-trading/learn-crypto-trading.github.io"
 github                   : [metadata]
 teaser                   : #"/assets/img/information-discovery.jpg"
-logo                     : "https://learncryptotrading.co/assets/img/info-grey.png"
+logo                     : "/assets/icons/lct.png"
 masthead_title           : "101, FA, TA, Patterns, Quant and More"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
