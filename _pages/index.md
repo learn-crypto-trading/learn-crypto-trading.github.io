@@ -213,7 +213,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 * [@trader_davis on divergence](https://twitter.com/trader_travis/status/1040752102853599234)
 ![](https://pbs.twimg.com/media/DnF-SbEVYAE6Dol.jpg:large)
-* https://www.babypips.com/learn/forex/9-rules-for-trading-divergences
+* [babypips.com -9 Rules for trading divergences](https://www.babypips.com/learn/forex/9-rules-for-trading-divergences)
 * [Divergence and Hidden Divergence](http://www.chart-formations.com/indicators/divergence.aspx)
   > "Although divergence is not an indicator in that it is not mathematical construct, it is often said to be a leading indicator, hence its inclusion in this section.\n\nDivergence refers to the difference in movement between an oscillating indicator, such as MACD, CCI, RSI, Stochastic, etc., and the price action of the underlying financial instrument."
 
@@ -233,7 +233,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Distribution Schematic #1: Wyckoff Events and Phases](https://i.imgur.com/LbtrMJG.png)
   > "image of Wyckoff Events and Phases"
 
-* https://wyckoffsmi.com/wyckoff-smi-glossary/
+* [wyckoffsmi.com/wyckoff-smi-glossary/](https://wyckoffsmi.com/wyckoff-smi-glossary/)
 
 
 ## Indicators 
@@ -317,7 +317,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps 
-* https://blocksdecoded.com/cryptocurrency-trading-simulators/
+* [blocksdecoded.com/cryptocurrency-trading-simulators/](https://blocksdecoded.com/cryptocurrency-trading-simulators/)
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
 * [Six New and Improved Cryptocurrency Analysis Tools](https://news.bitcoin.com/six-new-and-improved-cryptocurrency-analysis-tools/)
@@ -342,7 +342,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "Charts w sentiment analysis"
 * [Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
   > "bitmex margin information - "
-* https://tucsky.github.io/SignificantTrades/#
+* [tucsky.github.io/SignificantTrades/#](https://tucsky.github.io/SignificantTrades/#)
 * [coinfarm.online](https://coinfarm.online/index_en.asp)
   > "Bitmex margin data"
 * [datamish.com](https://datamish.com/d/000000004/btcusd?refresh=20s&orgId=1)
@@ -351,17 +351,17 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
   > "buy market % + other indicator signals -"
 * [CryptoMiso](https://cryptomiso.com/)
   > "Github commit history of 783 cryptocurrencies based on most popular repo"
-* https://www.coinsignals.trade/
+* [coinsignals.trade](https://www.coinsignals.trade/)
 * Whalewatch.io
-* https://autoview.with.pink/
-* https://www.multicoincharts.com/ 
-* https://cryptoxscanner.com/
-* https://athcoinindex.com/
-* https://www.turtlebc.com/tools/buy_percentage?period=3years
+* [autoview.with.pink/](https://autoview.with.pink/)
+* [multicoincharts.com](https://www.multicoincharts.com/)
+* [cryptoxscanner.com](https://cryptoxscanner.com/)
+* [athcoinindex.com/](https://athcoinindex.com/)
+* [turtlebc.com/tools/buy_percentage?period=3years](https://www.turtlebc.com/tools/buy_percentage?period=3years)
 * [isky Notifications](https://play.google.com/store/apps/details?id=solutions.isky.skynotifications&rdid=solutions.isky.skynotifications)
   >application combined with Telegram to get push notifications. Needs binance API key . Please, DO UNCHECK Trading checkbox while creating key (leave only readonly)
-* https://deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.
-* https://www.tradingview.com/script/HAOqXwg4-Killzones-Daily-Open-Weekly-Open-Monthly-Open-by-bartbtc/
+* [deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.](https://deltabalances.github.io/ -> lets you export all trades from ED, Kyber, 0x and others at one place + token balances + wraped eth balance for any ETH wallet.)
+* [Killzones / Daily Open / Weekly Open / Monthly Open by @bartbtc](https://www.tradingview.com/script/HAOqXwg4-Killzones-Daily-Open-Weekly-Open-Monthly-Open-by-bartbtc/)
   >I've created an indicator that : 
   >- Displays the previous day's, week's, month's open on the current period's price action. 
   >- Displays a vertical bar at the daily open. (The first 30-60 minutes from the daily open is commonly where the high/low of the day is made) 
@@ -385,7 +385,6 @@ https://coincheckup.com/
 
 * [@MoonOverlord on Doge Cycles](https://twitter.com/MoonOverlord/status/1009912924822016002)
   > "Interesting symmetry in between the timing of $DOGE cycles over the last few years\n\nDoge has long been a signal for #altseason"
-
 * [@JimAllmendinger share image of market cycles](https://twitter.com/JimAllmendinger/status/1044710492923617281)
   > "@JimAllmendinger Bitcoin has a 4 year cycle that's programmed into the system."
 ![](https://pbs.twimg.com/media/Dn-ObUOU8AAdPPq.jpg)
@@ -406,55 +405,34 @@ https://coincheckup.com/
 
 ## Resources 
 
+* [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
+* [thepatternsite.com](http://thepatternsite.com/index.html)
+  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
 * [@cryptostaker's Learning Center](https://drive.google.com/file/d/1Ew_O4fMdGM2M8NhYDFB0NJmLMCIQi-Tl/view) [[**tele**](https://t.me/joinchat/AAAAAE8A8XK5-XvvVBTuGg)] [cryptostaker.club](http://www.cryptostaker.club)
   > "Oscillators, Bollinger Bands, Commodity Channel Index, Fast Stochastic, KST (Short term, Intermediate term, Long term), MACD, Momentum, Relative Strength Index, Slow Stochastic"
 * [yourtradingcoach.com](http://yourtradingcoach.com/site-map/)
   > "lots of good articles and videos on trading"
-
 * [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=drivesdk)
-
-
-* [BabyPips](https://www.babypips.com/learn/forex/the-big-three) - "Learn Forex Trading."
-
-* [thepatternsite.com](http://thepatternsite.com/index.html)
-  > "Busted Patterns, Candlesticks, Chart Patterns, Elliott Wave, Event Patterns, Fundamentals, Market Review, Pattern, Pattern Rank, etc"
-
-
 * [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
   > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
 
 ### Books 
 
-[Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent](https://infominer.id/Traders_Library_Telegram_Export_24_04_2019.e5ff75af2971fd41.torrent)
-{: .notice--success}
-
-
-<a href="https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be"><img src="https://i.imgur.com/bLMLFio.png"/></a>\
-[Audio only](https://mega.nz/#!IA0wkSCQ!0FWZu1wdV47DEAmp7sfx6varxj1AfuPgffNuMX8jCN4)
+[![](https://i.imgur.com/bLMLFio.png)](https://www.youtube.com/watch?v=DUb5B3-Kl3Y&feature=youtu.be) 
 
 * [LibTA Technical Analysis Library 📚 FREE Books & Trading Courses on Cryptos, Forex and Investing](https://t.me/LibTA)
   > "📊Forex/Crypto books for FREE 🎓Download books for complete beginners, basic concepts and techniques of trading as Chart Patterns, Day Trading, Elliott Wave Principles, Ichimoku, Psychology Of Trading, etc."
-
-
 * [Another Collection of Trading Books](http://gann.su/book/eng/)
-
 * [CryptoWest Trading books](https://cryptowest.com/books-trading-tools/)
   > "a collection of book collections related to trading"
-
 * [Google Drive TradingBooks 3](https://drive.google.com/open?id=1XM60dHQF9Ii9SGEkk59k2Vou5qYKVK7T)
   > "Trading Books Shared Directory"
-
 * [Crypto Trader Central Books Library](https://library.cryptotradercentral.com/)
   > "Bunches of Trading Books"
-
 * [Google Drive TradingBooks 2](https://drive.google.com/open?id=0B9b4K-iw1yCoZmVobm8wcHNIS2s)
   > "Trading Books Shared Directory"
-
-
 * [The Greatest Trading Books Ever Written](https://hackernoon.com/the-greatest-trading-books-ever-written-7302bcc3901e)
-
-
 
 
 ### Videos 
@@ -470,7 +448,6 @@ https://coincheckup.com/
 
 * [Flippening Podcast](https://pca.st/P5sC)
   > "Flippening - For Cryptocurrency Investors (Bitcoin, Ethereum, and Cryptoasset Investing)"
-
 
 
 ### Twitter Follows 
