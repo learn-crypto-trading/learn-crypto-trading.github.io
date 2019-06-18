@@ -7,7 +7,7 @@ last_modified_at: 2019-06-18T11:22:33-23:00
 header:
   caption: "[JB Marwood](https://jbmarwood.com/) via [Tone Vays](http://www.libertylifetrail.com/)"
   image: /assets/img/Candlestick-Patterns-Cheat-Sheet.jpg
-  teaser: https://i.imgur.com/v9KOmQj.png
+  teaser: /assets/img/Candlestick-Patterns-Cheat-Sheet.jpg
 toc_sticky: false
 tags: [candlesticks, patterns]
 categories: [patterns]

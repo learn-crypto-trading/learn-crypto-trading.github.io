@@ -2,9 +2,13 @@
 layout: archive
 ---
 
+<h2>Featured Content</h2>
+
+{% include feature_row id="feature_row" %}
+
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
