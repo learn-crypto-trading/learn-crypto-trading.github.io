@@ -1,25 +1,23 @@
 # main links
 main:
-  - title: "Bitcoin Historical Index"
+  - title: "Bitcoin-History"
     url: "https://sourcecrypto.pub/bitcoin-history"
   - title: "Source⧉Crypto"
     url: "https://sourcecrypto.pub"
   - title: "Transcripts"
     url: "https://sourcecrypto.pub/transcripts"
-  - title: "DIDecentralized"
+  - title: "DIDecentral"
     url: "https://decentralized-id.com"
   - title: "webwork.tools"
     url: "https://web-work.tools/"
   - title: "Github Pages Starter Pack"
     url: "https://web-work.tools/gh-pages-starter-pack/"
-  - title: "Minimal Mistakes Quickstart Guide"
-    url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   - title: "Info⧉Hub"
     url: "https://infominer.id/"
 
 
 
-infonav:
+lctnav:
   - title: "/learn-crypto-trading"
     url: https://learncryptotrading.co
     children:

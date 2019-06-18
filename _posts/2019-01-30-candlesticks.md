@@ -2,9 +2,19 @@
 layout: single
 title: Candlestick Patterns
 description: The beginnings of a study on candlestick patterns.
-image: "https://i.imgur.com/v9KOmQj.png"
-permalink: candlesticks/
+
+last_modified_at: 2019-06-18T11:22:33-23:00
+header:
+  caption: "[JB Marwood](https://jbmarwood.com/) via [Tone Vays](http://www.libertylifetrail.com/)"
+  image: /assets/img/Candlestick-Patterns-Cheat-Sheet.jpg
+  teaser: https://i.imgur.com/v9KOmQj.png
 toc_sticky: false
+tags: [candlesticks, patterns]
+categories: [patterns]
+permalink: candlesticks/
+canonical_url: 'https://learncryptotrading.co/candlesticks/'
+
+
 ---
 
 All About Candlestick Patterns
@@ -54,14 +64,8 @@ As an indecisive indicator, look for confirmation.
 * [Tradingview - Education - Doji](https://www.tradingview.com/education/doji/)
 * [Tradingview - Scripts - Doji](https://www.tradingview.com/scripts/doji/)
 
-## Single Candlesticks
-
-
-
-## Common Patterns
 
 <img src="https://i.imgur.com/WZT88Na.png"/>
-<img src="http://www.libertylifetrail.com/wp-content/uploads/2014/02/Candlestick-Cheat-Sheet_web-01-1024x724.jpg"/>
 
 
 ## Reversal Candlesticks

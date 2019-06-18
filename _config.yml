@@ -26,7 +26,7 @@ repository               : "learn-crypto-trading/learn-crypto-trading.github.io"
 github                   : [metadata]
 teaser                   : #"/assets/img/information-discovery.jpg"
 logo                     : "/assets/icons/lct.png"
-masthead_title           : "101, FA, TA, Patterns, Quant and More"
+masthead_title           : "TA, FA, 101, Patterns, Quant and More!"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -242,7 +242,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 9 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -319,16 +319,17 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: # true
       share: true
       related: true
       sidebar:
-        nav: "infonav"
+        title: "⧉LCT⧉"
+        nav: "lctnav"
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"

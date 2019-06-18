@@ -1,11 +1,20 @@
 ---
 layout: single
 title: Encyclopedia of Chart Patterns - Cheat Sheet
-description: Taking notes while reading Encyclopedia of Chart patterns by Thomas Bulkowski.
-hide_description: true
+description: Notes on the Encyclopedia of Chart patterns by Thomas Bulkowski.
+excerpt: Notes on the Encyclopedia of Chart patterns by Thomas Bulkowski.
 image: "https://i.imgur.com/kBb2PBa.png"
-permalink: chart-patterns/
 toc_sticky: false
+header:
+  caption: "[@crypt0logy](https://twitter.com/Cryptol0gy/status/969557699577999360/photo/2) - Swing-Trading 📈"
+  image: /assets/img/reversal-chart-patterns-quick-reference.jpeg
+  teaser: /assets/img/reversal-chart-patterns-reference-thumb.jpeg
+last_modified_at: 2019-06-18T11:22:33-23:00
+categories: [patterns]
+tags: [chart-patterns, triangles, pennants, wedges, tops, bottoms]
+permalink: chart-patterns/
+canonical_url: https://learncryptotrading.co/chart-patterns/
+
 ---
 
 ![](https:///i.imgur.com/bsCmidC.png)

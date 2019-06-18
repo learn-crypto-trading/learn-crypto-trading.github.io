@@ -1,8 +1,38 @@
 ---
+layout: single
 title: Cryptocurrency Evaluation and Why ICO's Fail
-permalink: fundamentals/ico-evaluation/
 redirect_from: fundamentals/ico-evaluation
+permalink: fundamentals/ico-evaluation/
+categories: ["fundamentals"]
+tags: [ico, evaluation]
+last_modified_at: 2019-06-18T11:22:33-23:00
+header:
+  caption: "[taxrebate.org.uk](https://www.flickr.com/photos/59937401@N07/5857913848)"
+  image: /assets/img/scales-money-vs-dice-evaluation.jpg
+  teaser: /assets/img/scales-money-vs-dice-evaluation.jpg
 ---
+
+* [coindesk.com/ico-tracker](https://www.coindesk.com/ico-tracker/)
+* [icodata.io/stats/2018](https://www.icodata.io/stats/2018)
+* [icodata.io/stats/2018](https://www.icodata.io/stats/2019)
+* [Top ICO Scams by Country](https://www.coininsider.com/ico-scams-top-countries/)
+* [tokendata.io](https://www.tokendata.io/)
+* [concourseq.io](https://concourseq.io/)
+* [Vitalik buterin releases revolutionary new daico model for icos](https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/)
+* [papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
+* [Proof of Use - Civil believes this ICO model lets it sell anyone tokens legally](https://www.coindesk.com/proof-of-use-civil-believes-this-ico-model-lets-it-sell-anyone-tokens-legally/)
+* [NASAA Updates Coordinated Crypto Crackdown](http://www.nasaa.org/45901/nasaa-updates-coordinated-crypto-crackdown/)
+* [news.bitcoin.com/46-last-years-icos-failed-already](https://news.bitcoin.com/46-last-years-icos-failed-already/)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ There is a big misconception that ICO companies have liquidated most of their ETH holdings. In today’s issue of Diar, we looked at all the publicly available ICO treasuries and analyzed the numbers. <a href="https://t.co/EryLsW9Ouj">https://t.co/EryLsW9Ouj</a> <a href="https://t.co/j2DYajcwzQ">pic.twitter.com/j2DYajcwzQ</a></p>&mdash; Larry Cermak (@lawmaster) <a href="https://twitter.com/lawmaster/status/1039224845807116288?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+* [What is the Ideal ICO?](https://medium.com/iconominet/ico-2-0-what-is-the-ideal-ico-ee9d285a8939)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ Plenty of coins &amp; ICOs are now down -90%. Hopefully the people who&#39;ll never be receptive the following commentary have left crypto twitter by now, but they&#39;ll surely be back for the next bull run. Making this thread to use as a reminder for when the idiocy returns 👇 <a href="https://t.co/VlsVHNmkaI">pic.twitter.com/VlsVHNmkaI</a></p>&mdash; Eric Wall (@ercwl) <a href="https://twitter.com/ercwl/status/1033816350958014469?ref_src=twsrc%5Etfw">August 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## How to Evaluate ICOs
 
 * [The Best Fundamental Indicator - New Inflows](https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows)
   >A third, growing narrative (what I and others are terming the fat monies thesis) has been centered around positioning of Bitcoin (and other crypto-assets) as pure financial commodities. Positioned as a macro trade (possible crisis alpha in the event of a currency crisis), I believe this narrative resonates best with macro traders and institutions as the market is too speculative to evaluate in a bottom-up way and likely relatively overvalued given the lack of utility in most protocols. While the properties of an eventual SoV winner are hotly debated, this thinking frames my favorite fundamental indicator: where are new capital inflows coming from and what narrative (read: meme) are they latching on to?
@@ -35,7 +65,27 @@ redirect_from: fundamentals/ico-evaluation
   >
   >Despite the crypto asset market hitting the mainstream in 2017, there remains no true consensus across the sector on how to determine the ‘fair’ value of a cryptographic asset in today’s marketplace.
 
-## Why ICO's Fail
+---
+title: ICOs 
+permalink: fundamentals/icos/
+redirect_from: fundamentals/icos
+published: false
+last_modified_at: 2019-06-18T11:22:33-23:00
+
+---
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">20 years in, I&#39;m supposed to be a distributed systems/cryptocurrency/cryptoeconomics expert. Many overfunded ICOs have whitepapers that are completely indecipherable to me. Bitcoin is compelling in its clarity. If I don&#39;t get what they are doing after 5 minutes, it&#39;s a No.</p>&mdash; Paul 💥 (@paulsbohm) <a href="https://twitter.com/paulsbohm/status/1015027146157273088?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
+
+## Why ICOs Fail
+
+
 
 * [Why Most ICO’s Will Fail: A Cold Hard Truth](https://blockgeeks.com/guides/why-most-icos-will-fail/)
   >On June 12, 2017, an Ethereum based called Bancor held its ICO. It raised $153 million in 3 hours. No, you are not reading it wrong, 153 million…..in 3 hours!!!
@@ -105,20 +155,12 @@ redirect_from: fundamentals/ico-evaluation
 * [Introducing a Crypto Benchmark Framework](https://medium.com/@visionhill_/introducing-a-crypto-benchmark-framework-a873a54a7cfd)
   >TL;DR. The purpose of this piece is to introduce a rough draft framework for benchmarking in the cryptoasset industry. 
 * [Dan Zuller — 1/ A thread on benchmarking in crypto.](https://twitter.com/danzuller/status/1042854743880724481)
+* [nulltx.com/why-do-so-many-icos-fail-heres-what-the-experts-say](https://nulltx.com/why-do-so-many-icos-fail-heres-what-the-experts-say/)
+* [captainaltcoin.com/why-most-icos-fail](https://captainaltcoin.com/why-most-icos-fail/)
+
 
 ### Tools
 
 * [cryptoear.com](https://cryptoear.com/)
   >keeps track of twitter mentions
 * [Github Release Stats](https://www.somsubhra.com/github-release-stats/)
-
-
-## Support the Cause
-
-BTC— 1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR
-
-![](https://i.imgur.com/d0HQmuV.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 

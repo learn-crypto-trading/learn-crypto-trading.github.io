@@ -9,7 +9,9 @@ header:
   teaser: "https://learncryptotrading.co/assets/img/pinescript.png"
 permalink:  pinescript/
 canonical_url: 'https://learncryptotrading.co/pinescript/'
-last_modified_at: 2019-06-04T13:22:33-23:00
+last_modified_at: 2019-06-18T13:22:33-23:00
+tags: [trading-view, quant, pine-script, resources]
+categories: [quant]
 ---
 
 * [**TradingView's Pine script Introduction**](https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/)
@@ -65,6 +67,7 @@ Pinescript was made to be easy accessible and easy to understand. Pine is cloud-
 ### Trade on Tradingview \ Pinescript Alerts
 
 since you can't trade on tradingview, these sites trade based on its alerts.
+
 #### Do It Yourself (DIY)
 * [bevry-trading/automated-trading](https://github.com/bevry-trading/automated-trading)
 
