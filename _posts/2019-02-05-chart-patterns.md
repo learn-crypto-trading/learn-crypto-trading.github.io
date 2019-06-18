@@ -912,12 +912,3 @@ Descending\
   * [Education - Chart Patterns](https://www.tradingview.com/education/chartpattern/)
   * [Scripts - Chart Patterns](https://www.tradingview.com/scripts/chartpattern/)
 
----
-
-## [infominer.id](https://infominer.id) —Contact me for research based content  
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
-
-
-

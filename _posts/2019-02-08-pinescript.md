@@ -84,8 +84,3 @@ since you can't trade on tradingview, these sites trade based on its alerts.
 
 * [Pinescripts.com](http://www.pinescripts.com/)
 * [Kodify.net - TradingView Programming Articles](https://kodify.net/tradingview-programming-articles/)
-
-
-
-
-
