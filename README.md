@@ -72,7 +72,7 @@ The following are links to archives of the channels, which is a browser based al
   * [Exchanges-API](_posts/2019-01-24-quant.md#exchanges-api)
   * [Books](_posts/2019-01-24-quant.md#books)
   * [Academic Literature](_posts/2019-01-24-quant.md#academic-literature)
-  * [Software Libraries](_posts/2019-01-24-quant.md#software-libaries)
+  * [Software Libraries](_posts/2019-01-24-quant.md#software-libraries)
   * [Videos](_posts/2019-01-24-quant.md#videos)
   * [Podcasts](_posts/2019-01-24-quant.md#podcasts)
   * [Resources](_posts/2019-01-24-quant.md#resources)
