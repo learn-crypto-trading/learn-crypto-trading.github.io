@@ -1,6 +1,6 @@
-# [LearnCryptoTrading.co](https://learncryptotrading.co)
+# LearnCryptoTrading.co
 
-<a href="index.md"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
+<a href="https://learncryptotrading.co"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
 [Check out the our website!](https://learncryptotrading.co)
 
@@ -30,7 +30,7 @@
 * [Closing](#infominerid-contact-me-for-research-based-content)
 
 ## Other Files 
-** These are now all in the [/_pages](/_pages) directory
+** These are now all in the [/_posts](/_posts) directory
 * [**chart-patterns.md**](_pages/chart-patterns.md) - resources related to various chart patterns.
   * [Intro](_pages/chart-patterns.md#intro)
   * [Chart Patterns](_pages/chart-patterns.md#chart-patterns)
