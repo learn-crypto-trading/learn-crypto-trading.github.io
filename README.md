@@ -1,10 +1,8 @@
-# learn-crypto-trading
+# [Learncryptotrading.co](https://learncryptotrading.co)
 
 <a href="index.md"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
-Check out the web-page version of this repository :)
-
-<b><a href="https://sourcecrypto.pub/bitcoin-history">sourcecrypto.pub/bitcoin-history</a></b>
+[Check out the our website!](https://learncryptotrading.co)
 
 ## Contents
 
