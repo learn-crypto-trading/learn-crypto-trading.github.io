@@ -2,7 +2,9 @@
 
 <a href="https://learncryptotrading.co"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
-[Check out the our website!](https://learncryptotrading.co)
+Check out our Discord Chat Server, [SourceCrypto](https://discord.gg/ahTuPMY), for more up to the minute collaborative curation. 
+
+The following are links to archives of the channels, which is a browser based alternative to accessing the discord server, directly. However, I've been making other discord servers to cover a wider range of topics, and this site will have it's own server soon, too.
 
 ## Contents
 
@@ -29,56 +31,60 @@
 * [Twitter Follows](#twitter-follows)
 * [Closing](#infominerid-contact-me-for-research-based-content)
 
+[Check out our website!](https://learncryptotrading.co)
+
+
 ## Other Files 
 ** These are now all in the [/_posts](/_posts) directory
-* [**chart-patterns.md**](_pages/chart-patterns.md) - resources related to various chart patterns.
-  * [Intro](_pages/chart-patterns.md#intro)
-  * [Chart Patterns](_pages/chart-patterns.md#chart-patterns)
-  * [Triangles](_pages/chart-patterns.md#triangles)
-  * [Flags and Pennants](_pages/chart-patterns.md#flags-and-pennants)
-  * [Wedges](_pages/chart-patterns.md#wedges)
-  * [Rectangles](_pages/chart-patterns.md#rectangles)
-  * [Double Bottoms](_pages/chart-patterns.md#double-bottoms)
-  * [Double Tops](_pages/chart-patterns.md#double-tops)
-  * [Triple Bottoms and Tops](_pages/chart-patterns.md#triple-bottoms-and-tops)
-  * [Cup With Handle](_pages/chart-patterns.md#cup-with-handle)
-  * [Head and Shoulders](_pages/chart-patterns.md#head-and-shoulders)
-  * [Dead-Cat Bounce](_pages/chart-patterns.md#dead-cat-bounce)
-  * [Gaps](_pages/chart-patterns.md#gaps)
-  * [Rounding Bottoms](_pages/chart-patterns.md#rounding-bottoms)
-  * [Rounding Tops](_pages/chart-patterns.md#rounding-tops)
-  * [Bump-and-Run Reversals](_pages/chart-patterns.md#bump-and-run-reversal-bottoms)
-  * [Diamond Tops and Bottoms](_pages/chart-patterns.md#diamond-tops-and-bottoms)
-  * [Hanging Man](_pages/chart-patterns.md#hanging-man)
-  * [Inside Days](_pages/chart-patterns.md#inside-days)
-  * [Outside Days](_pages/chart-patterns.md#outside-days)
-  * [Measured Move Down](_pages/chart-patterns.md#measured-move-down)  
-  * [Measured Move Up](_pages/chart-patterns.md#measured-move-up)
-  * [Pipe Bottoms and Tops](_pages/chart-patterns.md#pipe-bottoms-and-tops)
-  * [Scallops](_pages/chart-patterns.md#scallops)
-  * [Broadening Formations](_pages/chart-patterns.md#broadening-formations)
-  * [Statistics](_pages/chart-patterns.md#statistics)
-  * [Resources](_pages/chart-patterns.md#resources)
-* [**candlesticks.md**](_pages/candlesticks.md) - a start
-* [**evaluation.md**](_pages/evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
-* [**economics.md**](_pages/economics.md) - crypto-economics
-* [**quant.md**](_pages/quant.md) - Quant-Crypto Trading and Data Science 
-  * [Guides-Articles](_pages/quant.md#guides-articles)
-  * [Exchanges-API](_pages/quant.md#exchanges-api)
-  * [Books](_pages/quant.md#books)
-  * [Academic Literature](_pages/quant.md#academic-literature)
-  * [Software Libraries](_pages/quant.md#software-libaries)
-  * [Videos](_pages/quant.md#videos)
-  * [Podcasts](_pages/quant.md#podcasts)
-  * [Resources](_pages/quant.md#resources)
-* [**pinescript.md**](_pages/pinescript.md) - Learn TradingView\Pinescript.
-* [**/CryptoQF**](_pages/CryptoQF) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
-
-
-https://github.com/infominer33/Crypto-SuperSource/tree/master/finance
+* [**chart-patterns.md**](_posts/2019-02-05-chart-patterns.md) - resources related to various chart patterns.
+  * [Intro](_posts/2019-02-05-chart-patterns.md#intro)
+  * [Chart Patterns](_posts/2019-02-05-chart-patterns.md#chart-patterns)
+  * [Triangles](_posts/2019-02-05-chart-patterns.md#triangles)
+  * [Flags and Pennants](_posts/2019-02-05-chart-patterns.md#flags-and-pennants)
+  * [Wedges](_posts/2019-02-05-chart-patterns.md#wedges)
+  * [Rectangles](_posts/2019-02-05-chart-patterns.md#rectangles)
+  * [Double Bottoms](_posts/2019-02-05-chart-patterns.md#double-bottoms)
+  * [Double Tops](_posts/2019-02-05-chart-patterns.md#double-tops)
+  * [Triple Bottoms and Tops](_posts/2019-02-05-chart-patterns.md#triple-bottoms-and-tops)
+  * [Cup With Handle](_posts/2019-02-05-chart-patterns.md#cup-with-handle)
+  * [Head and Shoulders](_posts/2019-02-05-chart-patterns.md#head-and-shoulders)
+  * [Dead-Cat Bounce](_posts/2019-02-05-chart-patterns.md#dead-cat-bounce)
+  * [Gaps](_posts/2019-02-05-chart-patterns.md#gaps)
+  * [Rounding Bottoms](_posts/2019-02-05-chart-patterns.md#rounding-bottoms)
+  * [Rounding Tops](_posts/2019-02-05-chart-patterns.md#rounding-tops)
+  * [Bump-and-Run Reversals](_posts/2019-02-05-chart-patterns.md#bump-and-run-reversal-bottoms)
+  * [Diamond Tops and Bottoms](_posts/2019-02-05-chart-patterns.md#diamond-tops-and-bottoms)
+  * [Hanging Man](_posts/2019-02-05-chart-patterns.md#hanging-man)
+  * [Inside Days](_posts/2019-02-05-chart-patterns.md#inside-days)
+  * [Outside Days](_posts/2019-02-05-chart-patterns.md#outside-days)
+  * [Measured Move Down](_posts/2019-02-05-chart-patterns.md#measured-move-down)  
+  * [Measured Move Up](_posts/2019-02-05-chart-patterns.md#measured-move-up)
+  * [Pipe Bottoms and Tops](_posts/2019-02-05-chart-patterns.md#pipe-bottoms-and-tops)
+  * [Scallops](_posts/2019-02-05-chart-patterns.md#scallops)
+  * [Broadening Formations](_posts/2019-02-05-chart-patterns.md#broadening-formations)
+  * [Statistics](_posts/2019-02-05-chart-patterns.md#statistics)
+  * [Resources](_posts/2019-02-05-chart-patterns.md#resources)
+* [**candlesticks.md**](_posts/2019-01-30-candlesticks.md) - a start
+* [**evaluation.md**](_posts/2019-01-25-evaluation.md) -Cryptocurrency Evaluation and Why ICO's Fail
+* [**economics.md**](/home/infominer/infomine/learn-crypto-trading/_posts/2019-02-06-economics.md) - crypto-economics
+* [**quant.md**](_posts/2019-01-24-quant.md) - Quant-Crypto Trading and Data Science 
+  * [Guides-Articles](_posts/2019-01-24-quant.md#guides-articles)
+  * [Exchanges-API](_posts/2019-01-24-quant.md#exchanges-api)
+  * [Books](_posts/2019-01-24-quant.md#books)
+  * [Academic Literature](_posts/2019-01-24-quant.md#academic-literature)
+  * [Software Libraries](_posts/2019-01-24-quant.md#software-libaries)
+  * [Videos](_posts/2019-01-24-quant.md#videos)
+  * [Podcasts](_posts/2019-01-24-quant.md#podcasts)
+  * [Resources](_posts/2019-01-24-quant.md#resources)
+* [**pinescript.md**]_posts/2019-02-08-pinescript.md) - Learn TradingView\Pinescript.
+* [**/CryptoQF**](_posts/2019-02-07-cryptoqf.md) - An organized directory of [Crypto Quantamental](https://twitter.com/CryptoQF)'s content
 
 
 ## Introduction
+
+What follows is a collection of links as I arranged them some time ago. I won't have time to work much on this site, but I will try to pack some real value in what time I do have available to update this resource. There is a long road before it's as complete and functional, as I'd like. In the next month or so I'll put some solid work into it.
+
+---
 
 I'm beginning serious study of Technical Analysis with books that have come recommended by experienced traders:
 
