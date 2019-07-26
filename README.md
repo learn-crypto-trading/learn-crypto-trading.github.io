@@ -1,4 +1,4 @@
-# [Learncryptotrading.co](https://learncryptotrading.co)
+# [LearnCryptoTrading.co](https://learncryptotrading.co)
 
 <a href="index.md"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
