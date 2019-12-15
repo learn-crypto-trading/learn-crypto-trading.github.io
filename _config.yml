@@ -127,7 +127,7 @@ author:
   links:
     - label: "Inf⧉Hub"
       icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
+      url: "https://infominer.xyz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:infominer@protonmail.com"
@@ -155,7 +155,7 @@ footer:
   links:
     - label: "Inf⧉Hub"
       icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
+      url: "https://infominer.xyz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:infominer@protonmail.com"

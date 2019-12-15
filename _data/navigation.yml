@@ -1,19 +1,17 @@
 # main links
 main:
   - title: "Info⧉Hub"
-    url: "https://infominer.id/"
+    url: "https://infominer.xyz/"
+  - title: "Web-work.tools"
+    url: "https://web-work.tools/"
   - title: "Source⧉Crypto"
     url: "https://sourcecrypto.pub"
   - title: "Bitcoin-History"
-    url: "https://sourcecrypto.pub/bitcoin-history"
+    url: "https://sourcecrypto.pub/posts/history/"
   - title: "Decentralized Web"
     url: "https://sourcecrypto.pub/decentralized-web"
-  - title: "Transcripts"
-    url: "https://sourcecrypto.pub/transcripts"
   - title: "DIDecentral"
     url: "https://decentralized-id.com"
-  - title: "webwork.tools"
-    url: "https://web-work.tools/"
   - title: "Github Pages Starter Pack"
     url: "https://web-work.tools/github-pages-starter-pack/"
 
@@ -37,26 +35,26 @@ lctnav:
       - title : Economics
         url   : /fundamentals/economics/
       - title : ICO Evaluation
-        url   : fundamentals/ico-evaluation/
+        url   : /fundamentals/ico-evaluation/
   - title: Featured
     children:
       - title: "Cypherpunks and the Crypto-Wars"
-        url: "https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/"
+        url: "https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/"
       - title: "Stephan Livera with Andreas Antonopolis on Bitcoin Maximalism"
-        url: "https://sourcecrypto.pub/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/"
+        url: "https://sourcecrypto.pub/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/"
       - title: "Practical Cryptography - PGP and Me"
-        url: "https://sourcecrypto.pub/bitcoin-history/pgp-and-me/"
+        url: "https://web-work.tools/practical-public-key-crypto/"
       - title: "Rare Pepe on the Bitcoin Blockchain"
-        url: "https://sourcecrypto.pub/bitcoin-history/rare-pepe/"
+        url: "https://sourcecrypto.pub/posts/bitcoin/rare-pepe/"
       - title: "Smart Contracts - History"
-        url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
+        url: "https://sourcecrypto.pub/posts/history/smart-contracts/"
   - title: "Info⧉Hub"
-    url: https://infominer.id/
+    url: https://infominer.xyz/
     children:
       - title: "S⧉urce Crypt⧉"
         url: "https://sourcecrypto.pub/"
       - title: "Bitcoin Historical Index"
-        url: "https://sourcecrypto.pub/bitcoin-history"
+        url: "https://sourcecrypto.pub/posts/history/"
       - title: "Transcripts"
         url: "https://sourcecrypto.pub/transcripts"
       - title: "Web-work.tools"

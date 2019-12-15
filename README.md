@@ -90,9 +90,6 @@ I'm beginning serious study of Technical Analysis with books that have come reco
 
 * John J.Murphy - Technical Analysis Of The Financial Markets.pdf
 * Bulkowski - Encyclopedia of Chart Patterns
-
-The more I learn the more I'll fill out and organize this repository. I'm also still migrating info from the [SuperSource](http://crypt0library.net).
-
 * > Learn then Implement 
   >
   >learn to trade alts on binance using momentum/patterns/oscillators  , the learn price action as you go\
@@ -451,12 +448,3 @@ https://coincheckup.com/
   >[![](https://i.imgur.com/eqsXynh.png)](https://twitter.com/YORK780/status/1035558963033632769)
 * [The Crypto Dog's #FF](https://twitter.com/TheCryptoDog/status/1030564719495503872)
   >[![](https://i.imgur.com/gsFR2Zu.png)](https://twitter.com/TheCryptoDog/status/1030564719495503872)
-
----
-
-## [sourcecrypto.pub/bitcoin-history](https://sourcecrypto.pub/bitcoin-history)  
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-
-
-
-
