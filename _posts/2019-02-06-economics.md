@@ -11,7 +11,7 @@ header:
   teaser: /assets/img/economics-supply-vs-demand.png
 permalink: fundamentals/economics/
 redirect_from: fundamentals/economics
-canonical_url: https://learncryptotrading.co/fundamentals/economics/
+canonical_url: https://learncryptotrading.github.cio/fundamentals/economics/
 ---
 
 This page is the result of resources I've collected, not necessarily in an intentional fashion, but includes what ended up in the "economics folder" while I was studying trading more intensely.

@@ -20,7 +20,7 @@ title                    : "Learn Crypto Trading"
 title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "Resources for learning Chart Patterns, Technical Analysis, Algorithmic trading, and Fundamental Analysis."
-url                      : "https://learncryptotrading.co"
+url                      : "https://learncryptotrading.github.cio"
 baseurl                  : ""
 repository               : "learn-crypto-trading/learn-crypto-trading.github.io"
 github                   : [metadata]
@@ -97,7 +97,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "https://learncryptotrading.co/assets/img/lct-banner.png"
+og_image                 : "https://learncryptotrading.github.cio/assets/img/lct-banner.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -120,7 +120,7 @@ author:
 # Site Author
 author:
   name             : "⧉ Infominer"
-  avatar           : "https://learncryptotrading.co/assets/img/info-grey.png"
+  avatar           : "https://learncryptotrading.github.cio/assets/img/info-grey.png"
 #  bio              : 
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
