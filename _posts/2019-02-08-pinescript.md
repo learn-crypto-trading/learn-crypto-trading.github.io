@@ -3,10 +3,10 @@ layout: single
 title: "Pinescript-TradingView"
 description: Resources for learning pinescript.
 header:
-  image: "https://learncryptotrading.github.cio/assets/img/pinescript.png"
-  teaser: "https://learncryptotrading.github.cio/assets/img/pinescript-thumb.png"
+  image: "https://learn-crypto-trading.github.io/assets/img/pinescript.png"
+  teaser: "https://learn-crypto-trading.github.io/assets/img/pinescript-thumb.png"
 permalink:  pinescript/
-canonical_url: 'https://learncryptotrading.github.cio/pinescript/'
+canonical_url: 'https://learn-crypto-trading.github.io/pinescript/'
 last_modified_at: 2019-06-18T13:22:33-23:00
 tags: [trading-view, quant, pine-script, resources]
 categories: [quant]

@@ -18,7 +18,7 @@ main:
 
 lctnav:
   - title: "/learn-crypto-trading"
-    url: https://learncryptotrading.github.cio
+    url: https://learn-crypto-trading.github.io
     children:
       - title : General
         url   : /general/

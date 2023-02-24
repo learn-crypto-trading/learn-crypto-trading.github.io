@@ -3,12 +3,12 @@
     "short_name": "Learn Crypto Trading",
     "icons": [
         {
-            "src": "https://learncryptotrading.github.cio/assets/icons/android-chrome-192x192.png",
+            "src": "https://learn-crypto-trading.github.io/assets/icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://learncryptotrading.github.cio/assets/icons/android-chrome-256x256.png",
+            "src": "https://learn-crypto-trading.github.io/assets/icons/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }

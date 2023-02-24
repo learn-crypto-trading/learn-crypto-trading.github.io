@@ -12,7 +12,7 @@ toc_sticky: false
 tags: [candlesticks, patterns]
 categories: [patterns]
 permalink: candlesticks/
-canonical_url: 'https://learncryptotrading.github.cio/candlesticks/'
+canonical_url: 'https://learn-crypto-trading.github.io/candlesticks/'
 
 
 ---

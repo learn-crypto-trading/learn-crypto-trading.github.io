@@ -13,7 +13,7 @@ last_modified_at: 2019-06-18T11:22:33-23:00
 categories: [patterns]
 tags: [chart-patterns, triangles, pennants, wedges, tops, bottoms]
 permalink: chart-patterns/
-canonical_url: https://learncryptotrading.github.cio/chart-patterns/
+canonical_url: https://learn-crypto-trading.github.io/chart-patterns/
 
 ---
 

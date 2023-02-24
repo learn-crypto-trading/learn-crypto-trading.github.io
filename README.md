@@ -1,6 +1,6 @@
-# [learncryptotrading.github.cio](https://learncryptotrading.github.cio)
+# [learn-crypto-trading.github.io](https://learn-crypto-trading.github.io)
 
-<a href="https://learncryptotrading.github.cio"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
+<a href="https://learn-crypto-trading.github.io"><img src="https://i.imgur.com/NvBwF7D.png" width="500"><br/><b>Crypto Trading Index</b></a>
 
 Check out our Discord Chat Server, [SourceCrypto](https://discord.gg/ahTuPMY), for more up to the minute collaborative curation. 
 
@@ -31,7 +31,7 @@ The following are links to archives of the channels, which is a browser based al
 * [Twitter Follows](#twitter-follows)
 * [Closing](#infominerid-contact-me-for-research-based-content)
 
-[Check out our website!](https://learncryptotrading.github.cio)
+[Check out our website!](https://learn-crypto-trading.github.io)
 
 
 ## Other Files 
