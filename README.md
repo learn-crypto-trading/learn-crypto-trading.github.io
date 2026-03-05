@@ -116,6 +116,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 
 * [Node Binance Trader](https://github.com/jsappme/node-binance-trader) - a cryptocurrency trading bot development framework for the Binance exchange using Node.JS.
 
+* [ChartScout](https://Chartscout.io) - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
+
 
 ## Risk Management 
 
