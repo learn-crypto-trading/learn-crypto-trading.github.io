@@ -287,6 +287,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps 
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
 * https://blocksdecoded.com/cryptocurrency-trading-simulators/
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
