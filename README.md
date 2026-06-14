@@ -344,8 +344,8 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Sierra Chart - High Performance Trading Platform](https://sierrachart.com)
   > "Sierra Chart is a professional Trading platform for the financial markets which is integrated with many externally available trading services. It supports Live and Simulated trading. Both manual and automated trading is supported.\nSierra Chart is a complete Real-time and Historical, Charting and Technical Analysis platform for the financial markets.\nSierra Chart fully supports the open specification Data and Trading Communications Protocol for the community.\nSierra Chart provides an optional high quality direct CME / CBOT / NYMEX / COMEX / Eurex / ICE / HKFE / Euronext / LIFFE / NYSE / NASDAQ / TSX / Montréal Futures / Cash Indices realtime market data feed. There is an additional cost for real-time exchange data. Real-time Forex/CFD data is included at no additional cost.\nSupport for charting and trading in the Cryptocurrency markets.\nSierra Chart uses the very best engineering and design practices to produce well-organized, fast and ultra rocksolid software and services. We continue to strive to be as best as we can be.\n\ntrading platform with lots of features, like footprint charts, heatmaps and all that  . has poloniex, bitmex, bitfinex and okcoin currently"
 https://cryptocoincharts.info
-https://coincheckup.com/ 
-
+https://coincheckup.com/
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 ## Protocols 
 
 * [Compound Finance](https://app.compound.finance/) [[**D**](https://medium.com/compound-finance/faq-1a2636713b69)]
