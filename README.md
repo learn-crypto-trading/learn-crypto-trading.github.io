@@ -287,6 +287,7 @@ Bulkowski has run stats on more chart patterns than anyone. I would recommend ge
 * [Secrets of the Bitmex Masters](https://hackernoon.com/cryptocurrency-trading-bible-four-secrets-of-the-bitmex-masters-56d301675117)
 
 ## Tools-n-Apps 
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that tracks Solana token prices and sends alerts on threshold crossings.
 * https://blocksdecoded.com/cryptocurrency-trading-simulators/
 * [aggr.trade](https://aggr.trade/#)
   > "Charts"
