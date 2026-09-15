@@ -434,6 +434,8 @@ https://coincheckup.com/
 
 
 * [Technical Analysis Project](https://www.slideshare.net/RahulPrajapati7/technical-analysis-project)
+* [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
   > "Technical Analysis is the forecasting of future financial price movements based on an examination of past price movements. Like weather forecasting, technical analysis does not result in absolute predictions about the future. Instead, technical analysis can help investors anticipate what is \"likely\" to happen to prices over time."
 
 
